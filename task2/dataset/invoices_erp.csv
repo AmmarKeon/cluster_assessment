@@ -1,4 +1,4 @@
-﻿invoice_no,account_name_raw,branch_code,entry_date_text,entry_time,account_address,governorate,area,gross_value,total_discount,total_after_discount,stated_line_count,record_state
+﻿invoice_no,account_name,branch_code,entry_date,entry_time,account_address,governorate,area,gross_value,total_discount,total_after_discount,line_count,record_state
 300013,el Ebn Siina Marg,722,01092024,12:02:33,Smouha 201  Autostrad,,,6681.83,1629.96,5051.87,7,CLSD
 300023,MIRA OBOUR475 WH-84,721,22092024,16:17:24,"155 Port Said st., near square, NSC",,,3896.34,1014.70,2881.64,9,CLSD
 300027,PH Angel Dokki Main Road,712,24092024,09:05:41,Nasr Cit 32 Faisal,,,1802.01,280.84,1521.17,3,

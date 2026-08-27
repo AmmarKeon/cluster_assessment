@@ -1,4 +1,4 @@
-﻿visit_id,rep_id,pharmacy_id,visit_date_text,arrived_at,departed_at,cancelled_flag,stop_index
+﻿visit_id,rep_id,pharmacy_id,visit_date,arrived_at,departed_at,cancelled_flag,stop_index
 1,1,1121,01/07/2025,09:22,09:46,0,1
 2,1,1113,01/07/2025,09:50,10:04,0,2
 3,1,1171,01/07/2025,10:13,10:20,0,3
