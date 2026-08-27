@@ -18,7 +18,7 @@ Three systems recorded the same pharmacy orders, none of them agreeing. Unify th
 map every supplier-side account name to the real pharmacy in the registry, recover the
 missing pharmacy locations from dirty delivery addresses, build one canonical revenue
 ledger, and answer four ranking questions (areas, pharmacies, suppliers). Deliver the
-results plus a small local website to browse and filter them.
+results plus a small local website (launched with a run.bat) to browse and filter them.
 **Everything is specified in `task1/TASK1.pdf`.**
 
 ## Task 2 
@@ -26,7 +26,7 @@ We have four field employees, each permanently assigned to one area. Plan tomorr
 for all of them: from the historical visit log and the invoices, figure out how long
 stops take, when each pharmacy is best visited, and how long drives really feel --
 then produce an itinerary per employee, prove each day fits, and ship a small page
-that draws each area's route (select the area, see the path). **Specified in
+that draws each area's route (select the area, see the path), launched with a run.bat. **Specified in
 `task2/TASK2.pdf`.**
 
 ## Ground rules (short version; the PDFs are the contract)
