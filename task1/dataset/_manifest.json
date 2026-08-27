@@ -4,6 +4,10 @@
       "rows": 4,
       "sha256": "f1a48c41dc9910e6322c9c31da8b19506d97619bbd48e7780305f157062c0b56"
     },
+    "field_visit_log.csv": {
+      "rows": 12231,
+      "sha256": "5b69e0e178bd029847324623181527bdcfef1925ad6347052619a6b37acd7e55"
+    },
     "invoice_details_app.csv": {
       "rows": 58491,
       "sha256": "7558e6ef438d328f12061c8427188e6b28e34f8aa9ccab51afdea8527b9361e4"
@@ -31,6 +35,10 @@
     "pharmacy_registry.csv": {
       "rows": 1826,
       "sha256": "6e625ccfb720d336b267f4bf630ab2f2f5de1de39a1978a54c1ef9149d9153dd"
+    },
+    "route_plan_tomorrow.csv": {
+      "rows": 64,
+      "sha256": "722aad512158d6dbcdc5611d997b1a223f9f5a423da82c7aa1212de47b1379fe"
     },
     "supplier_account_names.csv": {
       "rows": 14930,

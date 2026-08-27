@@ -1,4 +1,4 @@
-﻿invoice_line_id,invoice_id,quantity,unit_price_input,line_total,tax_regime_flag
+﻿invoice_line_id,invoice_id,quantity,unit_price,line_total,tax_regime_flag
 1,300005,1,22.46,18.50,
 2,300005,6,238.32,1089.04,
 3,300005,3,18.23,40.68,
