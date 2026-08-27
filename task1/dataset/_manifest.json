@@ -1,0 +1,48 @@
+{
+  "files": {
+    "areas_reference.csv": {
+      "rows": 32,
+      "sha256": "3f36d1001b9643f66faf81f4d38406286677f37881c454a892a773a32be4dfb7"
+    },
+    "invoice_details_app.csv": {
+      "rows": 58229,
+      "sha256": "b9eb6aaf554af98d3f448596d53c84c9eaa5073e436423722c5f64e558b51449"
+    },
+    "invoice_details_erp.csv": {
+      "rows": 114418,
+      "sha256": "56a14983da9ea84da09ae01d3ad3276e10fb4d55fd441e7939122818c06ca57a"
+    },
+    "invoice_details_legacy.csv": {
+      "rows": 27457,
+      "sha256": "81d7bb981b0e46c31f061976597c6240c56a3ff2a3153fdab04eddf81843375c"
+    },
+    "invoices_app.csv": {
+      "rows": 8234,
+      "sha256": "ae9e8dfb741f9674f7d4b46882767ef4e75e57001fc924dd5ad7e638984a86c2"
+    },
+    "invoices_erp.csv": {
+      "rows": 16223,
+      "sha256": "5e2dd51a16c97c03d35c1f63aaa32f4a64284c3688de7764b191cdfbfe59e763"
+    },
+    "invoices_legacy.csv": {
+      "rows": 3963,
+      "sha256": "6a0d70fde662f192ee56a6faf15cd90f525b05b1055e507421858bdb23aebd54"
+    },
+    "pharmacy_registry.csv": {
+      "rows": 1817,
+      "sha256": "627ca85a0f64652997b8501a79db17bef1c07f5382f8aa0d5360ffd29e37cd47"
+    },
+    "supplier_account_names.csv": {
+      "rows": 14886,
+      "sha256": "91ae6e2632fd08edc0a977cd4db487b5ae6d9880b85e2558d8e1db8b96dbec45"
+    },
+    "supplier_branches.csv": {
+      "rows": 71,
+      "sha256": "f3ebf9dbe9bab10fc776373ae777d18af5b0aec79359b0913f91753ce6f7d8d2"
+    }
+  },
+  "window": {
+    "end": "2026-08-26",
+    "start": "2024-09-01"
+  }
+}

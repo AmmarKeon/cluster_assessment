@@ -1,0 +1,1818 @@
+﻿id,name,class,governorate,area,lat,lon,opens_at_hh,closes_at_hh,sales_rep_id,registered_on,status_code,phone_last4
+1000,Misr Pharmacy - Agami,,Alexandria,Agami,31.106239,29.787046,8,23,1,2025-06-28,0,2783
+1001,El Nasr Pharmacy,,Alexandria,Agami,31.130572,29.806615,9,23,1,2025-01-26,0,5371
+1002,Silver Care Pharmacy - Marg,,Alexandria,Agami,31.114017,29.793742,10,23,1,2024-12-14,0,6311
+1003,El Nasr Pharmacy - Obour,,Alexandria,Agami,31.102637,29.782044,8,23,1,2024-12-15,0,9829
+1004,Nile Care Pharmacy - Zayed,,Alexandria,Agami,31.110751,29.782312,9,23,1,2025-06-22,0,7415
+1005,Salamtek Pharmacy,,Alexandria,Agami,31.111776,29.774925,9,23,1,2025-04-21,0,5559
+1006,Blue Wave Pharmacy,,Alexandria,Agami,31.123288,29.788058,9,23,1,2025-02-21,0,7701
+1007,Alpha Pharma - Zayed,,Alexandria,Agami,31.123659,29.788427,9,23,1,2025-08-01,2,4291
+1008,Metro Pharmacy,,Alexandria,Agami,31.125648,29.792715,9,23,1,2025-05-07,1,2707
+1009,Sunrise Pharmacy - Agami,,Alexandria,Agami,31.1108,29.78734,9,23,1,2024-12-14,0,1459
+1010,Better Life Pharmacy - Obour,,Alexandria,Agami,31.102382,29.775457,8,23,1,2025-08-11,0,4393
+1011,El Zahraa Pharmacy - Agami,,Alexandria,Agami,31.10912,29.787265,9,1,1,2024-11-11,2,4822
+1012,Golden Care Pharmacy - Agami,,Alexandria,Agami,31.102037,29.775939,9,23,1,2025-06-08,0,2048
+1013,Metro Pharmacy - Agami,,Alexandria,Agami,31.117346,29.784508,8,1,1,2024-11-13,0,8119
+1014,Union Pharm - Rehab View,,Alexandria,Agami,31.111155,29.776501,10,23,1,2025-06-04,0,8701
+1015,Omega Pharmacy - Agami,,Alexandria,Agami,31.103586,29.79877,10,23,1,2025-01-05,0,3591
+1016,Al Nozha Pharmacy - Agami,,Alexandria,Agami,31.125505,29.79992,10,2,1,2024-10-31,0,6707
+1017,El Zahraa Pharmacy - Maadi,,Alexandria,Agami,31.100003,29.788993,9,23,1,2025-04-19,0,1548
+1018,Metro Pharmacy - Agami,,Alexandria,Agami,31.126086,29.805889,8,1,1,2025-01-12,0,5434
+1019,Care 24 Seven,,Alexandria,Agami,31.105914,29.789923,9,23,1,2024-09-10,1,7404
+1020,Omega Pharmacy,,Alexandria,Agami,31.114318,29.791893,10,23,1,2024-12-21,0,4580
+1021,El Nasr Pharmacy - Marg,,Alexandria,Agami,31.122082,29.785046,8,23,1,2024-09-13,0,6211
+1022,El Zahraa Pharmacy - Agami,,Alexandria,Agami,31.126459,29.797631,9,1,1,2024-10-09,0,1674
+1023,Al Amal Pharmacy,,Alexandria,Agami,31.117704,29.773113,8,23,1,2025-05-23,0,6877
+1024,Care 24 Seven,,Alexandria,Agami,31.116364,29.793933,9,23,1,2025-01-18,0,9014
+1025,Elite Pharmacy,,Alexandria,Agami,31.127058,29.789613,9,2,1,2025-01-02,0,2137
+1026,Hope Pharmacy - Agami,,Alexandria,Agami,31.119654,29.775779,9,23,1,2024-09-15,0,6013
+1027,El Tourath Pharmacy,,Alexandria,Agami,31.108706,29.796623,9,1,1,2024-11-18,0,3749
+1028,Health Gate Pharmacy,,Alexandria,Agami,31.097813,29.791968,9,2,1,2025-03-29,0,2480
+1029,Al Nozha Pharmacy - Agami,,Alexandria,Agami,31.112929,29.801322,8,23,1,2024-09-06,1,1658
+1030,Blue Wave Pharmacy - Asafra,,Alexandria,Asafra,31.248258,29.98711,8,23,2,2025-07-11,0,7258
+1031,Omega Pharmacy,,Alexandria,Asafra,31.235517,29.977633,9,23,2,2025-08-28,0,3129
+1032,Silver Care Pharmacy,,Alexandria,Asafra,31.215366,29.971333,8,23,2,2025-01-15,0,2802
+1033,Blue Wave Pharmacy - Banha,,Alexandria,Asafra,31.240252,29.976483,10,1,2,2025-09-10,0,1094
+1034,El Shifa Pharmacy,,Alexandria,Asafra,31.227599,29.96938,9,23,2,2025-03-13,0,4407
+1035,Al Nozha Pharmacy,,Alexandria,Asafra,31.24736,29.977407,10,23,2,2025-05-10,0,8199
+1036,El Zahraa Pharmacy,,Alexandria,Asafra,31.22841,29.973029,9,23,2,2025-04-06,0,9134
+1037,Star Care Pharmacy,,Alexandria,Asafra,31.227265,29.988534,9,2,2,2025-03-11,0,3731
+1038,Seha First Pharmacy - Asafra,,Alexandria,Asafra,31.246459,29.973026,8,23,2,2024-11-10,0,6311
+1039,Union Pharm - Nozha,,Alexandria,Asafra,31.226041,29.980705,8,2,2,2025-04-15,0,8934
+1040,Pharma Plus - Imbaba,,Alexandria,Asafra,31.248863,29.998964,9,23,2,2025-02-24,0,5913
+1041,Elite Pharmacy,,Alexandria,Asafra,31.2483,29.981986,8,1,2,2024-11-02,0,1491
+1042,Seha First Pharmacy - Obour,,Alexandria,Asafra,31.215921,29.979652,9,23,2,2025-05-14,0,6121
+1043,Family Pharmacy,,Alexandria,Asafra,31.247413,29.968464,9,23,2,2025-05-13,0,1713
+1044,Mira Pharmacy - Maadi,,Alexandria,Asafra,31.238675,29.995424,9,1,2,2025-05-17,0,9789
+1045,Hope Pharmacy,,Alexandria,Asafra,31.247146,29.995104,9,23,2,2025-08-05,0,2156
+1046,Silver Care Pharmacy - Asafra,,Alexandria,Asafra,31.223304,29.980026,9,23,2,2025-01-12,0,4079
+1047,Alpha Pharma,,Alexandria,Asafra,31.225985,29.99771,9,1,2,2025-02-15,0,9142
+1048,Star Care Pharmacy - Square,,Alexandria,Asafra,31.245637,29.976061,9,23,2,2025-06-20,0,9415
+1049,Metro Pharmacy - Oct City,,Alexandria,Asafra,31.215089,29.967633,9,1,2,2024-11-14,0,3466
+1050,Al Amal Pharmacy,,Alexandria,Asafra,31.235828,29.987602,9,23,2,2025-01-13,0,9746
+1051,El Shifa Pharmacy - Asafra,,Alexandria,Asafra,31.245242,29.994273,9,23,2,2025-01-08,0,5926
+1052,Green Leaf Pharmacy,,Alexandria,Asafra,31.239942,29.991608,9,23,2,2024-10-04,0,3801
+1053,Mira Pharmacy - Asafra,,Alexandria,Asafra,31.245875,29.992535,9,23,2,2025-06-20,0,4803
+1054,Silver Care Pharmacy - Obour,,Alexandria,Asafra,31.223714,29.989469,10,23,2,2025-08-13,0,4143
+1055,Al Amal Pharmacy,,Alexandria,Asafra,31.245196,29.965968,8,23,2,2025-02-04,0,9645
+1056,Alpha Pharma,,Alexandria,Asafra,31.239265,29.978691,9,1,2,2024-09-04,1,3071
+1057,Silver Care Pharmacy,,Alexandria,Asafra,31.230613,29.992583,9,1,2,2025-06-30,0,1178
+1058,City Care Pharmacy - Borg,,Alexandria,Borg El Arab,30.898725,29.620718,9,2,3,2025-03-04,0,3156
+1059,Misr Pharmacy,,Alexandria,Borg El Arab,30.914203,29.609787,9,23,3,2024-12-02,1,1150
+1060,Dr Medhat Pharmacy - Borg,,Alexandria,Borg El Arab,30.927772,29.624608,8,23,3,2025-03-29,0,8929
+1061,Green Leaf Pharmacy,,Alexandria,Borg El Arab,30.913615,29.602512,9,23,3,2025-05-12,0,7054
+1062,El Zahraa Pharmacy - Borg,,Alexandria,Borg El Arab,30.930373,29.629141,9,1,3,2024-10-29,0,2375
+1063,Green Leaf Pharmacy,,Alexandria,Borg El Arab,30.901229,29.633185,9,23,3,2025-05-09,0,1076
+1064,Alpha Pharma - Borg,,Alexandria,Borg El Arab,30.92877,29.601463,8,23,3,2024-11-07,0,6822
+1065,El Hokama Pharmacy - Haram,,Alexandria,Borg El Arab,30.921261,29.607834,9,23,3,2025-04-27,0,1649
+1066,Sunrise Pharmacy - Nozha,,Alexandria,Borg El Arab,30.90211,29.618507,9,23,3,2025-04-06,2,9264
+1067,Salamtek Pharmacy,,Alexandria,Borg El Arab,30.925763,29.615427,8,1,3,2025-01-24,0,4944
+1068,Better Life Pharmacy,,Alexandria,Borg El Arab,30.911977,29.61096,10,23,3,2025-04-12,0,3178
+1069,Ebn Sina Pharmacy - Rehab View,,Alexandria,Borg El Arab,30.900606,29.634374,9,23,3,2025-02-08,1,9970
+1070,Star Care Pharmacy - Square,,Alexandria,Borg El Arab,30.918415,29.604833,10,23,3,2025-06-30,1,2603
+1071,Better Life Pharmacy - Borg,,Alexandria,Borg El Arab,30.90427,29.625232,8,23,3,2025-01-20,0,3972
+1072,Nile Care Pharmacy - Helwan,,Alexandria,Borg El Arab,30.905144,29.603,9,23,3,2025-08-02,1,6258
+1073,Hope Pharmacy - Obour,,Alexandria,Borg El Arab,30.919589,29.633485,10,1,3,2025-03-08,0,9989
+1074,Golden Care Pharmacy,,Alexandria,Borg El Arab,30.931478,29.604236,8,1,3,2024-11-03,0,8757
+1075,Angel Pharmacy - Dokki,,Alexandria,Borg El Arab,30.926103,29.605017,9,23,3,2025-09-07,0,4754
+1076,Salamtek Pharmacy,,Alexandria,Borg El Arab,30.926389,29.603841,10,23,3,2024-11-01,0,8521
+1077,Golden Care Pharmacy - Haram,,Alexandria,Borg El Arab,30.921789,29.604553,9,23,3,2025-03-10,0,1538
+1078,Salamtek Pharmacy - Imbaba,,Alexandria,Borg El Arab,30.903915,29.603297,9,23,3,2025-08-22,0,1228
+1079,Blue Wave Pharmacy - Rehab View,,Alexandria,Borg El Arab,30.901878,29.619957,9,23,3,2024-09-13,0,5043
+1080,Nile Care Pharmacy,,Alexandria,Borg El Arab,30.899205,29.600283,9,2,3,2024-10-19,1,2146
+1081,Dr Medhat Pharmacy,,Alexandria,Borg El Arab,30.920215,29.628778,9,23,3,2025-09-01,0,1242
+1082,El Shifa Pharmacy - Zayed,,Alexandria,Borg El Arab,30.900179,29.60848,9,1,3,2025-05-06,1,4916
+1083,Union Pharm - Borg,,Alexandria,Borg El Arab,30.902016,29.598782,9,23,3,2025-02-26,0,3116
+1084,Care 24 Seven,,Alexandria,Mandara,31.277003,30.024605,8,23,4,2024-10-08,0,3180
+1085,El Tourath Pharmacy,,Alexandria,Mandara,31.28767,30.005554,9,23,4,2025-08-31,0,2430
+1086,El Shifa Pharmacy,,Alexandria,Mandara,31.285367,29.993435,9,1,4,2025-02-14,0,2114
+1087,Elite Pharmacy - Mandara,,Alexandria,Mandara,31.271702,29.99221,9,23,4,2025-03-08,0,8578
+1088,Alpha Pharma,,Alexandria,Mandara,31.259097,30.009874,9,1,4,2025-06-28,0,4216
+1089,City Care Pharmacy - Square,,Alexandria,Mandara,31.273839,29.99752,9,23,4,2025-01-27,0,6551
+1090,El Faraby Pharmacy,,Alexandria,Mandara,31.266211,30.00055,10,2,4,2025-06-02,0,6618
+1091,Metro Pharmacy - Mandara,,Alexandria,Mandara,31.279191,30.020041,8,1,4,2025-01-16,0,4145
+1092,Al Amal Pharmacy,,Alexandria,Mandara,31.26633,30.024936,9,1,4,2025-04-28,0,6023
+1093,Silver Care Pharmacy - Mandara,,Alexandria,Mandara,31.268095,29.993723,9,2,4,2024-09-21,0,6713
+1094,El Shifa Pharmacy,,Alexandria,Mandara,31.272938,30.004708,8,23,4,2025-09-03,0,4574
+1095,Care 24 Seven - Helwan,,Alexandria,Mandara,31.283014,30.018048,9,23,4,2025-08-28,1,5617
+1096,Nile Care Pharmacy,,Alexandria,Mandara,31.272077,29.997878,8,23,4,2025-08-06,1,5009
+1097,Health Gate Pharmacy,,Alexandria,Mandara,31.256684,29.99383,9,1,4,2025-04-05,1,5301
+1098,Alpha Pharma - Mandara,,Alexandria,Mandara,31.277032,30.018184,9,1,4,2025-06-14,0,1623
+1099,Family Pharmacy - Dokki,,Alexandria,Mandara,31.258453,30.002722,9,23,4,2024-11-20,0,6967
+1100,Pharma Plus - Mandara,,Alexandria,Mandara,31.288907,30.026847,10,23,4,2024-12-05,0,7961
+1101,Sunrise Pharmacy - Helwan,,Alexandria,Mandara,31.262175,30.002136,9,23,4,2025-04-01,0,8960
+1102,Silver Care Pharmacy - Mandara,,Alexandria,Mandara,31.275306,29.996371,9,2,4,2024-12-18,0,2296
+1103,Union Pharm - Maadi,,Alexandria,Mandara,31.270431,30.008593,9,1,4,2025-05-07,0,9857
+1104,Better Life Pharmacy,,Alexandria,Mandara,31.26553,30.01862,9,2,4,2025-03-03,0,6595
+1105,Blue Wave Pharmacy,,Alexandria,Mandara,31.261148,30.014998,8,23,4,2025-02-09,0,6202
+1106,Care 24 Seven,,Alexandria,Mandara,31.257739,30.003175,9,1,4,2024-11-28,0,8696
+1107,El Zahraa Pharmacy,,Alexandria,Mandara,31.273019,30.000198,8,23,4,2025-08-21,0,7600
+1108,Dr Medhat Pharmacy - Montaza,,Alexandria,Mandara,31.281295,29.998769,9,23,4,2025-07-02,0,3589
+1109,El Shifa Pharmacy,,Alexandria,Mandara,31.289236,30.003418,9,23,4,2025-05-11,0,7957
+1110,Salamtek Pharmacy,,Alexandria,Mandara,31.271401,30.019702,10,23,4,2024-12-16,0,8907
+1111,Nile Care Pharmacy - Mandara,,Alexandria,Mandara,31.258077,29.999917,9,23,4,2025-04-29,1,6246
+1112,Ebn Sina Pharmacy - Square,,Alexandria,Mandara,31.287182,29.999874,9,1,4,2025-02-26,1,5138
+1113,Sunrise Pharmacy - Marg,,Alexandria,Mandara,31.260362,30.027015,8,23,4,2025-06-02,0,6651
+1114,Life Line Pharmacy,,Alexandria,Montaza,31.266226,29.976112,9,23,5,2025-02-28,0,9458
+1115,Care 24 Seven - Obour,,Alexandria,Montaza,31.26783,30.007966,9,23,5,2024-09-29,0,4387
+1116,City Care Pharmacy - Maadi,,Alexandria,Montaza,31.261867,29.985856,10,23,5,2024-11-19,0,1994
+1117,Elite Pharmacy,,Alexandria,Montaza,31.262499,29.976736,9,23,5,2024-11-11,0,1128
+1118,Nile Care Pharmacy - Montaza,,Alexandria,Montaza,31.246797,29.981575,9,23,5,2025-01-26,0,6307
+1119,El Zahraa Pharmacy - Montaza,,Alexandria,Montaza,31.262033,29.993607,9,23,5,2025-04-10,0,7807
+1120,El Nasr Pharmacy,,Alexandria,Montaza,31.262505,29.976838,9,23,5,2025-05-03,1,8574
+1121,Silver Care Pharmacy - Montaza,,Alexandria,Montaza,31.255033,29.98243,10,23,5,2025-07-22,0,4323
+1122,El Zahraa Pharmacy - Rehab View,,Alexandria,Montaza,31.253224,29.983943,9,1,5,2025-02-14,0,8038
+1123,Hope Pharmacy,,Alexandria,Montaza,31.252783,30.010971,9,1,5,2025-07-03,0,6888
+1124,Union Pharm - Montaza,,Alexandria,Montaza,31.266598,29.98219,8,23,5,2025-04-23,0,6425
+1125,El Faraby Pharmacy,,Alexandria,Montaza,31.25581,29.987976,9,23,5,2025-03-31,0,5305
+1126,Life Line Pharmacy,,Alexandria,Montaza,31.259868,29.997342,9,23,5,2025-04-12,0,1791
+1127,Blue Wave Pharmacy - Oct City,,Alexandria,Montaza,31.270191,29.998755,10,23,5,2025-09-12,0,9500
+1128,Alpha Pharma - Montaza,,Alexandria,Montaza,31.265443,29.986429,9,23,5,2025-07-04,0,6563
+1129,Al Amal Pharmacy,,Alexandria,Montaza,31.263184,29.977607,9,1,5,2024-11-10,1,1927
+1130,Silver Care Pharmacy - Montaza,,Alexandria,Montaza,31.241613,29.982097,9,23,5,2025-07-06,0,7352
+1131,Silver Care Pharmacy,,Alexandria,Montaza,31.266886,29.988657,9,1,5,2024-12-23,0,9874
+1132,El Shifa Pharmacy - Marg,,Alexandria,Montaza,31.243697,29.999569,9,2,5,2025-05-30,0,8452
+1133,Family Pharmacy - Obour,,Alexandria,Montaza,31.261566,29.992117,10,23,5,2025-04-11,0,8419
+1134,Pharma Plus - Montaza,,Alexandria,Montaza,31.251271,29.983754,10,1,5,2025-01-01,0,9703
+1135,El Shifa Pharmacy - Oct City,,Alexandria,Montaza,31.266466,29.977492,9,2,5,2024-09-08,0,3222
+1136,Dr Medhat Pharmacy - Haram,,Alexandria,Montaza,31.255658,30.007043,9,23,5,2024-09-11,0,3216
+1137,Pharma Plus - Banha,,Alexandria,Montaza,31.268916,29.98128,9,23,5,2025-07-13,0,4727
+1138,Al Nozha Pharmacy,,Alexandria,Montaza,31.275404,29.993307,10,23,5,2024-11-15,0,2312
+1139,Hope Pharmacy - Montaza,,Alexandria,Montaza,31.265273,29.975051,8,1,5,2025-08-07,0,2422
+1140,Alpha Pharma,,Alexandria,Montaza,31.255503,30.00012,9,1,5,2025-04-29,1,3679
+1141,El Faraby Pharmacy,,Alexandria,Montaza,31.255897,29.988416,9,2,5,2025-05-22,0,3285
+1142,El Baraka Pharmacy - Rehab View,,Alexandria,Montaza,31.257194,30.005935,9,23,5,2025-07-01,1,2415
+1143,Dr Medhat Pharmacy - Agami,,Alexandria,Montaza,31.268999,29.985467,9,23,5,2025-05-28,0,6383
+1144,Family Pharmacy,,Alexandria,Montaza,31.260692,30.000597,8,2,5,2024-10-23,0,6870
+1145,Blue Wave Pharmacy,,Alexandria,Montaza,31.255273,29.995538,9,23,5,2024-12-23,0,6522
+1146,El Faraby Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.212593,29.932071,8,23,6,2024-10-14,0,5277
+1147,Life Line Pharmacy,,Alexandria,Sidi Gaber,31.219539,29.940204,9,23,6,2025-09-06,0,2206
+1148,El Hokama Pharmacy - Helwan,,Alexandria,Sidi Gaber,31.225562,29.936662,8,23,6,2025-04-24,0,4305
+1149,Silver Care Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.239634,29.941054,9,23,6,2025-07-24,0,6536
+1150,Family Pharmacy - Banha,,Alexandria,Sidi Gaber,31.237986,29.934659,8,23,6,2025-08-12,0,3256
+1151,Ebn Sina Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.210865,29.936785,9,23,6,2025-09-02,0,9646
+1152,Mira Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.210516,29.946559,9,1,6,2025-06-19,0,5809
+1153,Misr Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.210458,29.936865,10,23,6,2025-07-15,0,1821
+1154,El Baraka Pharmacy,,Alexandria,Sidi Gaber,31.225364,29.949485,10,23,6,2025-04-02,0,5469
+1155,El Nasr Pharmacy - Banha,,Alexandria,Sidi Gaber,31.237798,29.952476,9,1,6,2025-05-30,0,3841
+1156,El Hokama Pharmacy,,Alexandria,Sidi Gaber,31.227384,29.96264,9,2,6,2025-09-02,0,7078
+1157,El Faraby Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.244718,29.964275,9,23,6,2025-05-17,0,4025
+1158,Star Care Pharmacy,,Alexandria,Sidi Gaber,31.238757,29.939941,8,1,6,2024-11-27,0,1589
+1159,Mira Pharmacy,,Alexandria,Sidi Gaber,31.223018,29.93919,9,23,6,2024-12-02,0,6023
+1160,Golden Care Pharmacy,,Alexandria,Sidi Gaber,31.231996,29.94217,10,23,6,2024-12-08,0,6751
+1161,El Hokama Pharmacy,,Alexandria,Sidi Gaber,31.21843,29.953788,9,23,6,2025-01-05,0,8002
+1162,El Hokama Pharmacy - Square,,Alexandria,Sidi Gaber,31.233131,29.962955,10,23,6,2025-01-25,0,9503
+1163,Angel Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.242381,29.962285,10,23,6,2025-08-29,0,2031
+1164,Salamtek Pharmacy,,Alexandria,Sidi Gaber,31.241368,29.93438,8,23,6,2025-06-06,0,8736
+1165,Care 24 Seven - Square,,Alexandria,Sidi Gaber,31.242097,29.945952,8,1,6,2024-11-16,1,9333
+1166,Seha First Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.221562,29.955447,8,23,6,2025-04-27,0,3980
+1167,Mira Pharmacy - Smouha,,Alexandria,Sidi Gaber,31.229701,29.943572,9,23,6,2025-05-21,0,3107
+1168,El Baraka Pharmacy - Square,,Alexandria,Sidi Gaber,31.243442,29.953053,9,23,6,2025-08-02,0,9613
+1169,City Care Pharmacy - Zayed,,Alexandria,Sidi Gaber,31.226935,29.955904,9,23,6,2025-05-23,1,4586
+1170,Care 24 Seven,,Alexandria,Sidi Gaber,31.238497,29.954832,10,23,6,2025-07-10,0,3658
+1171,Green Leaf Pharmacy - Haram,,Alexandria,Sidi Gaber,31.215475,29.964224,9,23,6,2025-02-12,0,3680
+1172,Family Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.239408,29.947362,9,23,6,2025-06-14,1,6315
+1173,Pharma Plus - Sidi,,Alexandria,Sidi Gaber,31.218608,29.965673,8,1,6,2025-01-22,0,5285
+1174,Angel Pharmacy - Faisal,,Alexandria,Sidi Gaber,31.211718,29.94684,9,1,6,2025-03-26,0,6199
+1175,El Tourath Pharmacy - Sidi,,Alexandria,Sidi Gaber,31.213786,29.948069,9,23,6,2024-10-11,0,8420
+1176,El Hokama Pharmacy,,Alexandria,Sidi Gaber,31.235314,29.957632,8,23,6,2025-06-19,1,5217
+1177,Sunrise Pharmacy,,Alexandria,Sidi Gaber,31.218263,29.933918,10,23,6,2024-11-20,1,9674
+1178,El Faraby Pharmacy - Imbaba,,Alexandria,Sidi Gaber,31.240018,29.958672,10,23,6,2024-11-01,0,8613
+1179,El Zahraa Pharmacy - Square,,Alexandria,Sidi Gaber,31.245695,29.966829,9,23,6,2025-08-13,0,9491
+1180,Al Amal Pharmacy,,Alexandria,Sidi Gaber,31.218524,29.954451,9,1,6,2024-11-16,0,2950
+1181,Health Gate Pharmacy,,Alexandria,Sidi Gaber,31.221629,29.937048,9,23,6,2024-10-21,0,6125
+1182,Blue Wave Pharmacy,,Alexandria,Sidi Gaber,31.244208,29.944999,9,1,6,2025-07-28,0,4653
+1183,Mira Pharmacy - Marg,,Alexandria,Sidi Gaber,31.232692,29.943696,8,23,6,2024-11-28,0,8998
+1184,Golden Care Pharmacy - Shubra,,Alexandria,Sidi Gaber,31.243929,29.958893,9,23,6,2025-03-19,1,1570
+1185,Mira Pharmacy - Dokki,,Alexandria,Sidi Gaber,31.22317,29.955846,8,23,6,2025-09-07,0,2014
+1186,Star Care Pharmacy,,Alexandria,Smouha,31.207602,29.954284,8,23,7,2024-10-14,1,1590
+1187,Pharma Plus - Nozha,,Alexandria,Smouha,31.207153,29.961919,10,23,7,2024-11-30,0,8578
+1188,El Baraka Pharmacy,,Alexandria,Smouha,31.226392,29.928389,8,23,7,2025-04-21,0,4441
+1189,Mira Pharmacy - Smouha,,Alexandria,Smouha,31.193046,29.95512,9,23,7,2024-09-01,0,5138
+1190,El Shifa Pharmacy,,Alexandria,Smouha,31.217408,29.930647,10,1,7,2025-03-13,0,8657
+1191,Silver Care Pharmacy,,Alexandria,Smouha,31.200896,29.941356,8,23,7,2024-12-16,0,6915
+1192,Golden Care Pharmacy - Smouha,,Alexandria,Smouha,31.200527,29.927187,9,23,7,2025-02-13,0,5603
+1193,El Faraby Pharmacy - Smouha,,Alexandria,Smouha,31.196543,29.95546,10,23,7,2024-10-12,2,8760
+1194,Misr Pharmacy - Helwan,,Alexandria,Smouha,31.204385,29.943101,9,23,7,2025-08-19,0,5954
+1195,Misr Pharmacy,,Alexandria,Smouha,31.21953,29.935461,9,23,7,2025-04-20,0,3560
+1196,El Zahraa Pharmacy - Agami,,Alexandria,Smouha,31.208483,29.951737,8,23,7,2025-01-20,0,4915
+1197,Al Amal Pharmacy - Obour,,Alexandria,Smouha,31.227221,29.931705,9,1,7,2025-06-19,0,2637
+1198,Green Leaf Pharmacy - Smouha,,Alexandria,Smouha,31.210611,29.961004,10,23,7,2025-08-01,0,4279
+1199,El Tourath Pharmacy,,Alexandria,Smouha,31.195382,29.947557,8,23,7,2024-09-17,0,6079
+1200,Family Pharmacy,,Alexandria,Smouha,31.193112,29.930726,9,1,7,2024-09-09,0,7902
+1201,Salamtek Pharmacy,,Alexandria,Smouha,31.211338,29.926748,9,23,7,2025-04-23,0,4436
+1202,Alpha Pharma,,Alexandria,Smouha,31.203631,29.928785,9,23,7,2025-08-05,0,8212
+1203,El Hokama Pharmacy - Smouha,,Alexandria,Smouha,31.208022,29.952448,9,23,7,2024-09-02,0,8596
+1204,Dr Medhat Pharmacy - Faisal,,Alexandria,Smouha,31.196309,29.955884,9,1,7,2025-02-14,0,1406
+1205,Union Pharm,,Alexandria,Smouha,31.227202,29.939493,10,1,7,2025-07-01,0,9660
+1206,El Faraby Pharmacy - Smouha,,Alexandria,Smouha,31.202355,29.955475,9,23,7,2024-09-03,0,2661
+1207,Ebn Sina Pharmacy - Smouha,,Alexandria,Smouha,31.207275,29.927858,9,2,7,2025-06-02,0,7174
+1208,Elite Pharmacy,,Alexandria,Smouha,31.217396,29.940719,8,1,7,2024-12-26,0,3306
+1209,Misr Pharmacy,,Alexandria,Smouha,31.202733,29.958181,9,23,7,2024-10-13,0,2097
+1210,Life Line Pharmacy - Smouha,,Alexandria,Smouha,31.205352,29.941094,9,1,7,2025-08-26,0,9536
+1211,Golden Care Pharmacy,,Alexandria,Smouha,31.22172,29.953579,9,1,7,2025-01-02,0,5605
+1212,El Zahraa Pharmacy - Haram,,Alexandria,Smouha,31.204001,29.929311,9,23,7,2025-03-20,0,3504
+1213,Omega Pharmacy,,Alexandria,Smouha,31.207321,29.933997,10,23,7,2024-10-31,0,4215
+1214,El Faraby Pharmacy - Rehab View,,Alexandria,Smouha,31.201523,29.932649,8,2,7,2025-09-15,0,5197
+1215,Green Leaf Pharmacy,,Alexandria,Smouha,31.220731,29.929358,9,23,7,2025-07-13,0,9436
+1216,Nile Care Pharmacy,,Alexandria,Smouha,31.201451,29.955989,8,23,7,2024-09-30,0,8266
+1217,Mira Pharmacy,,Alexandria,Smouha,31.215842,29.940502,9,1,7,2025-07-29,0,3918
+1218,Care 24 Seven - Obour,,Alexandria,Smouha,31.197047,29.940312,10,23,7,2025-06-03,0,2228
+1219,Ebn Sina Pharmacy - Smouha,,Alexandria,Smouha,31.222112,29.942865,8,23,7,2025-07-06,0,1093
+1220,Family Pharmacy,,Alexandria,Smouha,31.206127,29.956294,9,2,7,2024-11-19,0,5194
+1221,Al Nozha Pharmacy,,Alexandria,Smouha,31.217346,29.958609,9,23,7,2025-03-24,0,5261
+1222,Health Gate Pharmacy,,Alexandria,Smouha,31.219913,29.955702,9,23,7,2024-12-16,0,8765
+1223,City Care Pharmacy - Smouha,,Alexandria,Smouha,31.209301,29.961566,8,23,7,2025-02-06,0,4746
+1224,Family Pharmacy - Smouha,,Alexandria,Smouha,31.214075,29.955774,8,23,7,2024-12-15,0,8981
+1225,Al Amal Pharmacy - Banha,,Alexandria,Smouha,31.192056,29.934948,9,2,7,2025-04-26,0,5393
+1226,Sunrise Pharmacy,,Alexandria,Smouha,31.198443,29.945194,9,23,7,2024-09-13,0,1884
+1227,Better Life Pharmacy - Smouha,,Alexandria,Smouha,31.21634,29.948896,10,23,7,2024-10-04,0,4076
+1228,Seha First Pharmacy - Marg,,Alexandria,Smouha,31.201168,29.954604,8,2,7,2024-09-13,0,9332
+1229,Pharma Plus - Square,,Alexandria,Smouha,31.22388,29.927856,9,23,7,2024-11-10,0,6481
+1230,Misr Pharmacy - Dokki,,Alexandria,Smouha,31.2201,29.959603,9,23,7,2024-09-27,0,5824
+1231,Elite Pharmacy,,Alexandria,Smouha,31.205233,29.933303,9,23,7,2025-03-22,1,4828
+1232,Seha First Pharmacy - Oct City,,Alexandria,Smouha,31.214941,29.953544,9,23,7,2025-03-15,0,6911
+1233,Salamtek Pharmacy - Smouha,,Alexandria,Smouha,31.220638,29.959191,8,2,7,2025-01-04,0,2803
+1234,Elite Pharmacy - Smouha,,Alexandria,Smouha,31.218655,29.938499,8,1,7,2024-10-05,1,7018
+1235,Seha First Pharmacy,,Alexandria,Smouha,31.194861,29.935253,9,23,7,2025-03-18,1,7119
+1236,Hope Pharmacy - Imbaba,,Alexandria,Smouha,31.223233,29.945287,9,23,7,2025-08-23,0,5629
+1237,Green Leaf Pharmacy - Agami,,Alexandria,Smouha,31.198238,29.949563,9,1,7,2024-11-29,0,6881
+1238,Green Leaf Pharmacy - Smouha,,Alexandria,Smouha,31.224179,29.954632,8,23,7,2025-05-15,0,5941
+1239,City Care Pharmacy,,Alexandria,Smouha,31.225271,29.958152,10,1,7,2025-05-19,0,2201
+1240,Care 24 Seven - Oct City,,Alexandria,Smouha,31.192931,29.946737,8,1,7,2025-09-12,0,5750
+1241,Misr Pharmacy - Obour,,Alexandria,Smouha,31.205665,29.949735,9,23,7,2024-10-30,0,2882
+1242,Golden Care Pharmacy - Smouha,,Alexandria,Smouha,31.216951,29.92688,10,23,7,2025-03-19,0,8550
+1243,El Nasr Pharmacy,,Alexandria,Smouha,31.217687,29.935843,8,2,7,2024-09-29,0,4304
+1244,Ebn Sina Pharmacy - Dokki,,Alexandria,Smouha,31.206648,29.94489,9,23,7,2025-03-26,0,1812
+1245,Elite Pharmacy - Zayed,,Alexandria,Smouha,31.204195,29.940606,9,23,7,2024-12-30,0,6558
+1246,Life Line Pharmacy,,Alexandria,Smouha,31.207085,29.929412,9,1,7,2025-03-16,0,2920
+1247,Angel Pharmacy,,Alexandria,Smouha,31.205935,29.94638,9,23,7,2025-07-03,0,4048
+1248,Angel Pharmacy,,Alexandria,Smouha,31.206085,29.949807,9,2,7,2025-01-10,0,1773
+1249,Al Amal Pharmacy - Zayed,,Alexandria,Smouha,31.221313,29.953083,9,2,7,2025-03-31,0,3162
+1250,Salamtek Pharmacy - Smouha,,Alexandria,Smouha,31.196957,29.949688,9,23,7,2025-07-05,0,5628
+1251,El Faraby Pharmacy,,Alexandria,Smouha,31.218071,29.94265,9,23,7,2025-06-22,0,2603
+1252,Care 24 Seven - Marg,,Alexandria,Smouha,31.200978,29.929652,9,23,7,2025-03-20,0,3025
+1253,Seha First Pharmacy - Marg,,Alexandria,Smouha,31.200586,29.937062,8,23,7,2025-06-19,0,5636
+1254,Better Life Pharmacy - Imbaba,,Alexandria,Smouha,31.192134,29.941385,9,23,7,2025-08-17,0,6343
+1255,Union Pharm - Smouha,,Alexandria,Smouha,31.22426,29.949414,10,23,7,2025-01-14,0,7944
+1256,El Hokama Pharmacy,,Alexandria,Smouha,31.225706,29.929483,10,23,7,2025-04-10,0,4617
+1257,Blue Wave Pharmacy - Smouha,,Alexandria,Smouha,31.210928,29.96137,8,23,7,2025-02-03,0,4370
+1258,El Hokama Pharmacy - Maadi,,Alexandria,Smouha,31.193392,29.93048,8,1,7,2025-08-21,0,6234
+1259,El Hokama Pharmacy,,Alexandria,Smouha,31.195044,29.936872,9,2,7,2025-07-11,0,7235
+1260,Ebn Sina Pharmacy - Smouha,,Alexandria,Smouha,31.203878,29.928322,10,23,7,2024-12-08,0,1138
+1261,Alpha Pharma - Smouha,,Alexandria,Smouha,31.196825,29.941096,10,2,7,2025-06-20,0,1408
+1262,Life Line Pharmacy - Smouha,,Alexandria,Smouha,31.207333,29.937135,9,23,7,2025-01-30,0,4168
+1263,Elite Pharmacy - Agami,,Alexandria,Smouha,31.210925,29.945415,10,23,7,2024-10-09,0,7911
+1264,Misr Pharmacy - Smouha,,Alexandria,Smouha,31.227798,29.959546,10,23,7,2025-09-08,0,1117
+1265,El Hokama Pharmacy - Shubra,,Alexandria,Smouha,31.216338,29.961108,9,23,7,2025-05-25,0,3419
+1266,Health Gate Pharmacy - Smouha,,Alexandria,Smouha,31.192008,29.927317,9,23,7,2025-01-29,0,7610
+1267,Nile Care Pharmacy,,Alexandria,Smouha,31.208453,29.937436,9,23,7,2024-11-08,0,4699
+1268,Metro Pharmacy,,Alexandria,Smouha,31.204824,29.955233,9,23,7,2024-11-30,0,3116
+1269,Silver Care Pharmacy - Zayed,,Alexandria,Smouha,31.20985,29.959072,9,1,7,2025-06-16,0,6732
+1270,Life Line Pharmacy - Smouha,,Alexandria,Smouha,31.196132,29.961941,9,23,7,2025-06-07,0,2594
+1271,Dr Medhat Pharmacy,,Alexandria,Smouha,31.203057,29.935176,9,23,7,2025-01-15,0,7233
+1272,Health Gate Pharmacy,,Alexandria,Smouha,31.221265,29.940949,9,1,7,2025-06-02,0,7792
+1273,El Faraby Pharmacy - Rehab View,,Alexandria,Smouha,31.223377,29.945596,10,23,7,2025-05-13,0,5964
+1274,El Hokama Pharmacy - Smouha,,Alexandria,Smouha,31.223925,29.929293,9,23,7,2024-10-26,0,8357
+1275,Health Gate Pharmacy,,Alexandria,Smouha,31.217753,29.959356,9,23,7,2025-03-05,0,9253
+1276,Better Life Pharmacy,,Alexandria,Smouha,31.221276,29.938342,9,23,7,2025-01-11,0,3939
+1277,Misr Pharmacy,,Alexandria,Smouha,31.199915,29.947987,9,23,7,2025-04-16,0,5120
+1278,City Care Pharmacy,,Alexandria,Smouha,31.203419,29.928248,9,23,7,2024-10-15,0,5101
+1279,Metro Pharmacy,,Alexandria,Smouha,31.203079,29.93669,9,2,7,2025-01-23,0,2681
+1280,Nile Care Pharmacy,,Alexandria,Smouha,31.219235,29.944973,8,2,7,2024-11-26,0,9536
+1281,Care 24 Seven - Marg,,Alexandria,Smouha,31.196445,29.935336,9,23,7,2025-07-10,0,3123
+1282,Blue Wave Pharmacy - Ain,,Cairo,Ain Shams,30.134582,31.32992,10,1,8,2025-03-08,0,2379
+1283,Family Pharmacy - Montaza,,Cairo,Ain Shams,30.126666,31.322723,9,1,8,2025-07-26,0,8955
+1284,Pharma Plus - Oct City,,Cairo,Ain Shams,30.137161,31.306818,9,23,8,2025-05-22,1,1368
+1285,El Faraby Pharmacy - Faisal,,Cairo,Ain Shams,30.115055,31.321134,8,23,8,2025-08-01,0,1047
+1286,Dr Medhat Pharmacy,,Cairo,Ain Shams,30.118691,31.312202,9,1,8,2025-04-08,0,7044
+1287,El Hokama Pharmacy - Obour,,Cairo,Ain Shams,30.134133,31.317629,10,23,8,2025-03-02,0,7737
+1288,Mira Pharmacy - Marg,,Cairo,Ain Shams,30.12037,31.30483,10,23,8,2024-10-08,0,4322
+1289,Nile Care Pharmacy - Dokki,,Cairo,Ain Shams,30.119497,31.329263,9,23,8,2024-10-13,0,6488
+1290,Salamtek Pharmacy - Helwan,,Cairo,Ain Shams,30.123612,31.310635,8,23,8,2025-02-01,1,3992
+1291,Blue Wave Pharmacy - Oct City,,Cairo,Ain Shams,30.140824,31.323644,9,1,8,2025-02-13,0,3264
+1292,El Hokama Pharmacy,,Cairo,Ain Shams,30.141539,31.309209,9,23,8,2025-08-31,2,9614
+1293,El Baraka Pharmacy - Imbaba,,Cairo,Ain Shams,30.122263,31.327085,8,1,8,2024-10-11,2,8010
+1294,Metro Pharmacy,,Cairo,Ain Shams,30.125323,31.306746,9,23,8,2025-04-11,0,5156
+1295,Sunrise Pharmacy - Banha,,Cairo,Ain Shams,30.146934,31.304243,9,23,8,2025-07-18,0,4914
+1296,Metro Pharmacy - Zayed,,Cairo,Ain Shams,30.134256,31.306113,9,23,8,2024-12-21,0,6476
+1297,Metro Pharmacy - Montaza,,Cairo,Ain Shams,30.134837,31.336272,8,1,8,2024-11-30,0,6123
+1298,Mira Pharmacy,,Cairo,Ain Shams,30.116754,31.324265,9,23,8,2025-02-25,0,4348
+1299,Care 24 Seven,,Cairo,Ain Shams,30.145298,31.330273,9,23,8,2025-08-19,2,1604
+1300,Star Care Pharmacy - Dokki,,Cairo,Ain Shams,30.143115,31.323671,9,23,8,2025-08-23,0,8667
+1301,Health Gate Pharmacy - Shubra,,Cairo,Ain Shams,30.129141,31.323388,9,23,8,2024-09-06,0,9213
+1302,Ebn Sina Pharmacy - Marg,,Cairo,Ain Shams,30.146366,31.318854,8,23,8,2024-09-11,0,6938
+1303,Misr Pharmacy - Faisal,,Cairo,Ain Shams,30.124749,31.331348,9,23,8,2025-04-18,0,9135
+1304,El Faraby Pharmacy - Ain,,Cairo,Ain Shams,30.145666,31.331691,9,23,8,2025-07-03,0,5137
+1305,Elite Pharmacy - Agami,,Cairo,Ain Shams,30.14405,31.337212,9,23,8,2024-12-22,0,4353
+1306,Al Amal Pharmacy - Maadi,,Cairo,Ain Shams,30.14409,31.315171,9,23,8,2024-10-09,0,1514
+1307,Metro Pharmacy - Ain,,Cairo,Ain Shams,30.116056,31.323646,9,23,8,2025-06-27,0,3623
+1308,Al Amal Pharmacy - Imbaba,,Cairo,Ain Shams,30.136022,31.314216,9,23,8,2025-02-09,0,5146
+1309,Dr Medhat Pharmacy - Ain,,Cairo,Ain Shams,30.126431,31.336506,9,23,8,2025-06-26,1,8240
+1310,Golden Care Pharmacy,,Cairo,Ain Shams,30.129575,31.316336,9,23,8,2025-08-07,0,1425
+1311,City Care Pharmacy - Imbaba,,Cairo,Ain Shams,30.133519,31.321284,8,23,8,2025-08-04,0,2371
+1312,El Nasr Pharmacy,,Cairo,Ain Shams,30.135137,31.322038,9,23,8,2025-06-11,0,2776
+1313,Nile Care Pharmacy - Montaza,,Cairo,Ain Shams,30.142506,31.326633,9,23,8,2025-01-07,0,6963
+1314,Seha First Pharmacy,,Cairo,Ain Shams,30.119423,31.325574,8,23,8,2025-02-16,0,9972
+1315,Mira Pharmacy - Ain,,Cairo,Ain Shams,30.114424,31.333021,8,1,8,2024-12-05,2,2087
+1316,Health Gate Pharmacy,,Cairo,Ain Shams,30.148965,31.320338,10,23,8,2025-03-28,0,2467
+1317,Omega Pharmacy - Ain,,Cairo,Ain Shams,30.126983,31.315484,9,1,8,2024-09-25,0,5364
+1318,Silver Care Pharmacy - Square,,Cairo,Ain Shams,30.118526,31.323392,9,23,8,2025-07-02,1,6098
+1319,Al Amal Pharmacy - Shubra,,Cairo,Ain Shams,30.132052,31.306868,9,23,8,2024-09-07,0,9775
+1320,Metro Pharmacy - Smouha,,Cairo,Ain Shams,30.13307,31.329009,9,23,8,2024-12-17,0,2003
+1321,Union Pharm - Nozha,,Cairo,Ain Shams,30.144609,31.339217,9,23,8,2024-12-17,0,5336
+1322,El Hokama Pharmacy - Ain,,Cairo,Ain Shams,30.118255,31.312826,9,23,8,2024-12-15,0,7704
+1323,Better Life Pharmacy - Ain,,Cairo,Ain Shams,30.125339,31.330268,9,23,8,2024-10-16,1,3960
+1324,El Nasr Pharmacy,,Cairo,Downtown,30.048058,31.237124,9,23,9,2024-11-11,0,2736
+1325,Al Nozha Pharmacy - Faisal,,Cairo,Downtown,30.030405,31.251438,8,1,9,2025-07-20,0,6599
+1326,El Hokama Pharmacy - Downtown,,Cairo,Downtown,30.054836,31.226286,9,23,9,2024-10-22,0,4660
+1327,Seha First Pharmacy - Downtown,,Cairo,Downtown,30.032902,31.244401,8,23,9,2025-08-14,0,6067
+1328,Dr Medhat Pharmacy - Faisal,,Cairo,Downtown,30.028808,31.251666,9,23,9,2025-08-10,0,4639
+1329,Seha First Pharmacy - Agami,,Cairo,Downtown,30.053329,31.249864,9,2,9,2024-12-17,1,2090
+1330,Sunrise Pharmacy - Faisal,,Cairo,Downtown,30.026473,31.23123,9,23,9,2025-09-12,1,6336
+1331,Silver Care Pharmacy - Downtown,,Cairo,Downtown,30.042756,31.243872,9,23,9,2024-11-09,0,9353
+1332,El Nasr Pharmacy - Downtown,,Cairo,Downtown,30.053663,31.223913,9,1,9,2025-06-20,0,6346
+1333,Star Care Pharmacy - Oct City,,Cairo,Downtown,30.047932,31.241358,9,1,9,2024-09-23,1,5106
+1334,Union Pharm - Oct City,,Cairo,Downtown,30.061048,31.251933,9,23,9,2025-06-23,0,2488
+1335,El Tourath Pharmacy,,Cairo,Downtown,30.05622,31.23596,9,23,9,2024-11-20,1,7709
+1336,El Zahraa Pharmacy - Nozha,,Cairo,Downtown,30.055848,31.243784,9,2,9,2024-12-26,1,4568
+1337,El Shifa Pharmacy,,Cairo,Downtown,30.026469,31.250976,9,23,9,2025-01-18,0,4502
+1338,Elite Pharmacy,,Cairo,Downtown,30.05785,31.23848,8,23,9,2025-09-03,0,8686
+1339,City Care Pharmacy,,Cairo,Downtown,30.037454,31.249034,8,23,9,2025-08-28,1,7578
+1340,Better Life Pharmacy - Downtown,,Cairo,Downtown,30.047223,31.237275,9,23,9,2025-03-11,0,8531
+1341,Seha First Pharmacy - Downtown,,Cairo,Downtown,30.031201,31.233284,10,1,9,2025-02-07,0,2429
+1342,Omega Pharmacy - Downtown,,Cairo,Downtown,30.039461,31.237273,9,23,9,2024-12-03,0,1161
+1343,Nile Care Pharmacy - Downtown,,Cairo,Downtown,30.027405,31.236845,9,23,9,2025-07-05,0,5363
+1344,Nile Care Pharmacy - Obour,,Cairo,Downtown,30.054928,31.253273,9,23,9,2025-09-09,0,5493
+1345,Elite Pharmacy - Dokki,,Cairo,Downtown,30.049132,31.245351,10,23,9,2025-03-27,0,9387
+1346,Sunrise Pharmacy,,Cairo,Downtown,30.053419,31.230777,9,23,9,2024-12-28,0,4403
+1347,Omega Pharmacy - Helwan,,Cairo,Downtown,30.047808,31.244275,9,23,9,2025-07-16,0,9032
+1348,Blue Wave Pharmacy,,Cairo,Downtown,30.055455,31.224576,9,1,9,2024-10-26,0,5740
+1349,Alpha Pharma - Square,,Cairo,Downtown,30.03282,31.24962,9,23,9,2024-11-11,0,6923
+1350,Star Care Pharmacy - Agami,,Cairo,Downtown,30.050154,31.225759,9,23,9,2025-07-27,0,8616
+1351,Family Pharmacy - Downtown,,Cairo,Downtown,30.042029,31.225839,8,23,9,2024-09-06,0,7500
+1352,El Nasr Pharmacy - Obour,,Cairo,Downtown,30.040267,31.228083,8,23,9,2025-01-09,0,8932
+1353,Silver Care Pharmacy - Dokki,,Cairo,Downtown,30.036469,31.222818,8,1,9,2025-05-11,0,1223
+1354,Sunrise Pharmacy - Oct City,,Cairo,Downtown,30.03344,31.250821,9,23,9,2025-06-19,1,6173
+1355,Dr Medhat Pharmacy,,Cairo,Downtown,30.060276,31.242389,9,23,9,2025-04-03,0,6960
+1356,El Baraka Pharmacy - Obour,,Cairo,Downtown,30.029522,31.23738,8,23,9,2024-11-29,2,7043
+1357,Golden Care Pharmacy - Downtown,,Cairo,Downtown,30.040309,31.238199,9,23,9,2025-08-15,0,9599
+1358,Alpha Pharma - El,,Cairo,El Marg,30.162591,31.356172,8,23,10,2024-10-28,2,5669
+1359,Care 24 Seven - Nozha,,Cairo,El Marg,30.172293,31.337707,9,1,10,2025-03-14,0,6013
+1360,Star Care Pharmacy - El,,Cairo,El Marg,30.150327,31.341259,10,23,10,2025-07-30,0,2576
+1361,Health Gate Pharmacy - Helwan,,Cairo,El Marg,30.151617,31.366341,8,23,10,2025-06-01,0,1003
+1362,Metro Pharmacy - El,,Cairo,El Marg,30.146713,31.352596,8,23,10,2024-09-07,0,4721
+1363,Dr Medhat Pharmacy - Montaza,,Cairo,El Marg,30.171325,31.344362,8,2,10,2025-06-13,0,3801
+1364,El Baraka Pharmacy,,Cairo,El Marg,30.164528,31.346861,9,23,10,2024-09-23,0,3066
+1365,Angel Pharmacy - El,,Cairo,El Marg,30.176195,31.356406,8,1,10,2024-10-25,1,1978
+1366,El Shifa Pharmacy - El,,Cairo,El Marg,30.150789,31.339045,9,23,10,2024-09-24,0,5192
+1367,Green Leaf Pharmacy,,Cairo,El Marg,30.14484,31.352675,9,23,10,2025-04-30,0,8379
+1368,Misr Pharmacy,,Cairo,El Marg,30.174145,31.345283,9,23,10,2024-11-28,0,8489
+1369,Union Pharm - El,,Cairo,El Marg,30.156081,31.357304,10,23,10,2025-08-04,0,6767
+1370,Better Life Pharmacy - El,,Cairo,El Marg,30.146788,31.354041,9,23,10,2024-09-02,2,5558
+1371,Elite Pharmacy - Haram,,Cairo,El Marg,30.172511,31.342776,9,23,10,2025-03-08,0,1466
+1372,Al Nozha Pharmacy - El,,Cairo,El Marg,30.175855,31.366481,9,23,10,2025-09-08,1,9779
+1373,El Zahraa Pharmacy - Montaza,,Cairo,El Marg,30.155937,31.355004,8,1,10,2024-12-12,0,7491
+1374,El Nasr Pharmacy - Square,,Cairo,El Marg,30.175471,31.335942,8,1,10,2025-02-23,0,5158
+1375,El Tourath Pharmacy,,Cairo,El Marg,30.16876,31.363183,8,23,10,2025-07-15,1,6159
+1376,Misr Pharmacy,,Cairo,El Marg,30.149106,31.361954,8,23,10,2025-03-12,1,5726
+1377,Pharma Plus,,Cairo,El Marg,30.158616,31.335388,9,23,10,2025-04-05,0,6461
+1378,El Tourath Pharmacy - Rehab View,,Cairo,El Marg,30.158816,31.350478,9,23,10,2025-02-26,0,3750
+1379,El Shifa Pharmacy - El,,Cairo,El Marg,30.158623,31.351222,10,23,10,2025-01-16,0,5483
+1380,Ebn Sina Pharmacy - El,,Cairo,El Marg,30.150241,31.357829,9,23,10,2025-01-23,0,6139
+1381,Blue Wave Pharmacy - El,,Cairo,El Marg,30.161855,31.360357,10,23,10,2025-05-19,0,9414
+1382,El Zahraa Pharmacy - El,,Cairo,El Marg,30.149812,31.363169,9,2,10,2024-12-13,0,3958
+1383,Sunrise Pharmacy - El,,Cairo,El Marg,30.148998,31.342763,9,1,10,2024-09-23,0,9562
+1384,Golden Care Pharmacy,,Cairo,El Marg,30.14536,31.367764,8,23,10,2025-04-04,0,4060
+1385,Family Pharmacy - Oct City,,Cairo,El Marg,30.143135,31.364285,9,23,10,2025-07-28,0,2166
+1386,Hope Pharmacy - El,,Cairo,El Marg,30.160574,31.335186,9,2,10,2025-02-22,1,4673
+1387,Health Gate Pharmacy - El,,Cairo,El Marg,30.149283,31.350013,9,23,10,2025-08-22,0,3410
+1388,Silver Care Pharmacy - Montaza,,Cairo,El Marg,30.168011,31.355267,10,23,10,2025-04-25,0,7241
+1389,Salamtek Pharmacy,,Cairo,El Marg,30.160038,31.343448,9,1,10,2024-09-21,0,4203
+1390,Better Life Pharmacy - El,,Cairo,El Marg,30.167768,31.345124,9,23,10,2025-07-14,0,4055
+1391,Blue Wave Pharmacy - Marg,,Cairo,El Marg,30.149732,31.343847,9,23,10,2024-09-06,0,7327
+1392,Ebn Sina Pharmacy - Heliopolis,,Cairo,Heliopolis,30.095912,31.355737,10,23,11,2024-12-28,1,5363
+1393,Misr Pharmacy - Marg,,Cairo,Heliopolis,30.093113,31.337836,8,23,11,2025-04-26,1,1696
+1394,Better Life Pharmacy - Nozha,,Cairo,Heliopolis,30.089794,31.326734,9,1,11,2024-10-19,0,6869
+1395,Seha First Pharmacy - Heliopolis,,Cairo,Heliopolis,30.105018,31.353704,9,23,11,2025-01-14,0,8713
+1396,Misr Pharmacy,,Cairo,Heliopolis,30.094344,31.32899,8,23,11,2025-02-17,0,7201
+1397,Al Amal Pharmacy,,Cairo,Heliopolis,30.092646,31.352988,8,1,11,2025-09-03,0,3572
+1398,Al Amal Pharmacy - Shubra,,Cairo,Heliopolis,30.087882,31.347152,9,23,11,2025-07-26,0,9499
+1399,El Tourath Pharmacy - Heliopolis,,Cairo,Heliopolis,30.083841,31.339027,10,23,11,2025-02-07,0,4766
+1400,Ebn Sina Pharmacy,,Cairo,Heliopolis,30.103045,31.338747,10,23,11,2025-02-06,0,7031
+1401,El Shifa Pharmacy - Heliopolis,,Cairo,Heliopolis,30.073013,31.358945,9,23,11,2025-04-20,0,4658
+1402,Metro Pharmacy,,Cairo,Heliopolis,30.101024,31.355265,9,23,11,2025-07-07,0,4102
+1403,El Baraka Pharmacy - Agami,,Cairo,Heliopolis,30.089038,31.326557,9,23,11,2025-09-09,0,7238
+1404,Metro Pharmacy,,Cairo,Heliopolis,30.08879,31.341313,9,23,11,2025-01-07,0,2778
+1405,Nile Care Pharmacy - Square,,Cairo,Heliopolis,30.08016,31.330563,8,23,11,2025-02-26,0,7228
+1406,Salamtek Pharmacy,,Cairo,Heliopolis,30.095159,31.330801,10,23,11,2025-09-14,1,7413
+1407,Elite Pharmacy - Heliopolis,,Cairo,Heliopolis,30.073931,31.341146,10,1,11,2025-01-16,1,1039
+1408,El Shifa Pharmacy - Heliopolis,,Cairo,Heliopolis,30.0861,31.34581,10,1,11,2025-07-06,0,3898
+1409,El Nasr Pharmacy - Heliopolis,,Cairo,Heliopolis,30.099356,31.335041,8,23,11,2024-10-03,0,2009
+1410,Mira Pharmacy,,Cairo,Heliopolis,30.074909,31.340381,9,23,11,2025-04-25,0,4458
+1411,Green Leaf Pharmacy - Dokki,,Cairo,Heliopolis,30.089333,31.329527,9,23,11,2024-09-06,0,7560
+1412,Life Line Pharmacy - Nozha,,Cairo,Heliopolis,30.103587,31.335519,10,23,11,2025-08-03,1,7318
+1413,El Hokama Pharmacy - Montaza,,Cairo,Heliopolis,30.07291,31.353164,9,1,11,2024-11-23,0,8047
+1414,Blue Wave Pharmacy - Faisal,,Cairo,Heliopolis,30.099546,31.34227,8,23,11,2025-05-30,0,4886
+1415,Star Care Pharmacy - Haram,,Cairo,Heliopolis,30.089241,31.343695,9,23,11,2025-04-16,0,9151
+1416,Angel Pharmacy - Faisal,,Cairo,Heliopolis,30.076119,31.36022,9,2,11,2025-04-04,0,4313
+1417,Angel Pharmacy,,Cairo,Heliopolis,30.097655,31.325802,8,23,11,2025-09-15,0,8690
+1418,Alpha Pharma - Heliopolis,,Cairo,Heliopolis,30.086931,31.333046,9,23,11,2024-12-27,0,3666
+1419,Care 24 Seven,,Cairo,Heliopolis,30.102939,31.355536,10,23,11,2024-11-20,0,6133
+1420,Angel Pharmacy - Marg,,Cairo,Heliopolis,30.085203,31.356259,10,23,11,2025-08-29,0,4055
+1421,El Shifa Pharmacy,,Cairo,Heliopolis,30.076668,31.336495,9,23,11,2024-09-11,0,6201
+1422,Ebn Sina Pharmacy,,Cairo,Heliopolis,30.09505,31.348985,9,23,11,2025-07-09,0,7978
+1423,Golden Care Pharmacy - Nozha,,Cairo,Heliopolis,30.102512,31.352374,8,23,11,2025-02-19,0,9620
+1424,El Hokama Pharmacy - Heliopolis,,Cairo,Heliopolis,30.082485,31.33702,8,23,11,2025-03-15,0,5122
+1425,Omega Pharmacy,,Cairo,Heliopolis,30.08678,31.346326,9,23,11,2025-05-20,0,5355
+1426,Better Life Pharmacy,,Cairo,Heliopolis,30.107523,31.346188,9,23,11,2024-09-19,0,7814
+1427,Green Leaf Pharmacy - Heliopolis,,Cairo,Heliopolis,30.096729,31.332387,9,23,11,2024-11-30,0,9088
+1428,Care 24 Seven,,Cairo,Heliopolis,30.106651,31.328628,9,23,11,2025-02-26,0,7586
+1429,El Baraka Pharmacy,,Cairo,Heliopolis,30.075848,31.339086,8,23,11,2024-11-24,1,6176
+1430,Star Care Pharmacy - Faisal,,Cairo,Heliopolis,30.099315,31.352565,9,2,11,2025-01-26,0,3324
+1431,Al Nozha Pharmacy,,Cairo,Heliopolis,30.083542,31.358751,10,23,11,2024-09-21,0,2607
+1432,Silver Care Pharmacy,,Cairo,Heliopolis,30.081963,31.333822,9,23,11,2024-11-12,0,3714
+1433,El Tourath Pharmacy - Oct City,,Cairo,Heliopolis,30.073263,31.348318,9,23,11,2024-09-07,0,3016
+1434,City Care Pharmacy - Heliopolis,,Cairo,Heliopolis,30.077574,31.332779,8,2,11,2025-07-13,2,6486
+1435,Salamtek Pharmacy,,Cairo,Heliopolis,30.082389,31.335939,8,2,11,2025-02-17,0,5961
+1436,Blue Wave Pharmacy,,Cairo,Heliopolis,30.077678,31.35225,9,23,11,2025-05-19,0,9563
+1437,Blue Wave Pharmacy - Agami,,Cairo,Heliopolis,30.087754,31.342437,10,23,11,2025-05-12,0,2314
+1438,Family Pharmacy,,Cairo,Heliopolis,30.105116,31.337573,8,23,11,2025-03-12,0,6855
+1439,Nile Care Pharmacy - Heliopolis,,Cairo,Heliopolis,30.074396,31.361097,9,23,11,2025-08-09,0,3042
+1440,El Zahraa Pharmacy - Faisal,,Cairo,Heliopolis,30.075195,31.350854,9,23,11,2025-01-09,0,6250
+1441,Golden Care Pharmacy,,Cairo,Heliopolis,30.099529,31.345488,8,1,11,2025-01-06,0,1720
+1442,El Nasr Pharmacy,,Cairo,Heliopolis,30.106506,31.33638,10,23,11,2025-05-26,1,9293
+1443,El Nasr Pharmacy,,Cairo,Heliopolis,30.104463,31.338453,9,23,11,2024-12-14,0,2643
+1444,Mira Pharmacy - Obour,,Cairo,Heliopolis,30.100303,31.340412,8,1,11,2024-09-07,0,8110
+1445,Misr Pharmacy - Haram,,Cairo,Heliopolis,30.080758,31.338874,9,23,11,2025-01-19,0,8234
+1446,Star Care Pharmacy,,Cairo,Heliopolis,30.076741,31.342916,9,1,11,2024-09-07,0,5477
+1447,Mira Pharmacy - Square,,Cairo,Heliopolis,30.094089,31.341915,10,23,11,2025-05-09,0,3817
+1448,Mira Pharmacy,,Cairo,Heliopolis,30.082074,31.356853,9,23,11,2025-04-20,0,8995
+1449,Blue Wave Pharmacy,,Cairo,Heliopolis,30.077843,31.350592,9,1,11,2024-09-06,0,7364
+1450,Misr Pharmacy,,Cairo,Heliopolis,30.08267,31.352668,9,23,11,2025-08-13,0,1594
+1451,Life Line Pharmacy - Maadi,,Cairo,Heliopolis,30.095944,31.33002,9,23,11,2024-10-05,0,6059
+1452,Union Pharm - Haram,,Cairo,Heliopolis,30.079963,31.332486,9,1,11,2025-07-07,1,5061
+1453,Sunrise Pharmacy - Heliopolis,,Cairo,Heliopolis,30.105619,31.360581,9,1,11,2025-01-19,0,8643
+1454,Al Amal Pharmacy - Maadi,,Cairo,Heliopolis,30.104695,31.358492,10,23,11,2025-02-19,0,4924
+1455,Pharma Plus,,Cairo,Heliopolis,30.103217,31.326498,9,23,11,2024-11-01,0,3930
+1456,Star Care Pharmacy - Heliopolis,,Cairo,Heliopolis,30.104867,31.339183,10,23,11,2025-06-25,0,9243
+1457,El Hokama Pharmacy,,Cairo,Heliopolis,30.084144,31.343303,9,23,11,2024-11-04,0,9876
+1458,Family Pharmacy - Nozha,,Cairo,Heliopolis,30.074374,31.329609,9,23,11,2024-09-02,2,1368
+1459,Pharma Plus - Heliopolis,,Cairo,Heliopolis,30.092757,31.32662,9,2,11,2025-07-02,0,6410
+1460,Mira Pharmacy,,Cairo,Heliopolis,30.094735,31.330523,9,23,11,2025-07-29,1,5387
+1461,Angel Pharmacy - Montaza,,Cairo,Heliopolis,30.107599,31.326669,10,23,11,2024-12-07,1,4058
+1462,Angel Pharmacy - Dokki,,Cairo,Heliopolis,30.072834,31.333362,8,23,11,2024-09-07,0,1949
+1463,Dr Medhat Pharmacy - Heliopolis,,Cairo,Heliopolis,30.103978,31.336699,10,23,11,2025-03-06,0,9268
+1464,Mira Pharmacy - Heliopolis,,Cairo,Heliopolis,30.083518,31.358553,8,1,11,2025-09-02,1,2456
+1465,Elite Pharmacy - Imbaba,,Cairo,Heliopolis,30.100285,31.348529,9,2,11,2025-03-13,0,9326
+1466,Green Leaf Pharmacy,,Cairo,Heliopolis,30.103711,31.333201,9,23,11,2024-11-08,0,2310
+1467,Alpha Pharma - Heliopolis,,Cairo,Heliopolis,30.100696,31.343112,9,23,11,2025-02-18,0,2157
+1468,Hope Pharmacy - Heliopolis,,Cairo,Heliopolis,30.099853,31.336947,9,23,11,2025-01-31,0,7510
+1469,Health Gate Pharmacy,,Cairo,Heliopolis,30.085283,31.346238,9,23,11,2024-09-12,1,7968
+1470,City Care Pharmacy,,Cairo,Heliopolis,30.098942,31.356596,8,2,11,2025-02-20,0,2584
+1471,Life Line Pharmacy - Heliopolis,,Cairo,Heliopolis,30.084582,31.341566,9,1,11,2025-05-10,0,5276
+1472,El Baraka Pharmacy - Heliopolis,,Cairo,Heliopolis,30.103093,31.333154,8,23,11,2024-10-12,1,2506
+1473,Nile Care Pharmacy - Dokki,,Cairo,Heliopolis,30.075651,31.328108,8,23,11,2025-04-09,0,8650
+1474,City Care Pharmacy - Zayed,,Cairo,Heliopolis,30.076356,31.334282,9,23,11,2024-09-10,0,5720
+1475,Hope Pharmacy - Imbaba,,Cairo,Heliopolis,30.099767,31.337722,9,1,11,2025-05-27,0,7636
+1476,Star Care Pharmacy,,Cairo,Heliopolis,30.088898,31.35892,8,23,11,2025-03-03,0,5769
+1477,Union Pharm - Heliopolis,,Cairo,Heliopolis,30.101672,31.356461,10,23,11,2025-01-18,0,6868
+1478,Care 24 Seven - Heliopolis,,Cairo,Heliopolis,30.08195,31.33521,10,23,11,2025-03-22,0,8778
+1479,Al Amal Pharmacy - Smouha,,Cairo,Heliopolis,30.088006,31.338691,9,23,11,2025-01-09,0,2620
+1480,Better Life Pharmacy,,Cairo,Heliopolis,30.093162,31.332445,8,23,11,2024-12-28,0,7927
+1481,Mira Pharmacy - Marg,,Cairo,Heliopolis,30.105791,31.353493,9,23,11,2024-09-23,0,8723
+1482,Family Pharmacy - Shubra,,Cairo,Heliopolis,30.084918,31.335017,9,2,11,2025-03-05,0,2369
+1483,Misr Pharmacy - Heliopolis,,Cairo,Heliopolis,30.079419,31.345642,9,23,11,2024-10-08,0,9330
+1484,Elite Pharmacy - Heliopolis,,Cairo,Heliopolis,30.098373,31.348397,8,23,11,2025-07-24,0,9803
+1485,Union Pharm,,Cairo,Heliopolis,30.104608,31.356361,9,23,11,2025-02-17,0,8408
+1486,El Nasr Pharmacy - Nozha,,Cairo,Heliopolis,30.090323,31.33137,8,23,11,2025-02-16,1,1661
+1487,Angel Pharmacy - Heliopolis,,Cairo,Heliopolis,30.074352,31.348847,8,23,11,2025-04-24,0,8695
+1488,Family Pharmacy - Heliopolis,,Cairo,Heliopolis,30.108024,31.350601,8,23,11,2025-07-24,2,3160
+1489,Green Leaf Pharmacy - Banha,,Cairo,Heliopolis,30.098748,31.332471,9,1,11,2025-02-16,0,7889
+1490,El Nasr Pharmacy - Maadi,,Cairo,Heliopolis,30.076333,31.352995,8,23,11,2024-09-02,0,7634
+1491,Dr Medhat Pharmacy,,Cairo,Heliopolis,30.089848,31.359448,9,1,11,2025-07-04,0,8805
+1492,Elite Pharmacy,,Cairo,Heliopolis,30.097149,31.339817,10,23,11,2024-10-15,0,4027
+1493,Family Pharmacy - Heliopolis,,Cairo,Heliopolis,30.096529,31.340091,9,23,11,2025-07-22,0,5196
+1494,City Care Pharmacy,,Cairo,Heliopolis,30.08088,31.340708,10,23,11,2025-06-09,0,7048
+1495,Seha First Pharmacy - Nozha,,Cairo,Heliopolis,30.10245,31.348958,9,23,11,2025-01-11,0,5296
+1496,Silver Care Pharmacy - Marg,,Cairo,Heliopolis,30.085817,31.354687,10,23,11,2025-04-08,0,8714
+1497,Metro Pharmacy,,Cairo,Heliopolis,30.092745,31.347306,9,2,11,2025-03-31,1,8268
+1498,El Zahraa Pharmacy,,Cairo,Heliopolis,30.094001,31.358968,8,2,11,2024-11-22,0,5874
+1499,El Zahraa Pharmacy - Heliopolis,,Cairo,Heliopolis,30.104177,31.357491,8,23,11,2025-04-20,0,5746
+1500,Misr Pharmacy,,Cairo,Heliopolis,30.100074,31.353976,9,23,11,2025-02-24,1,9939
+1501,Salamtek Pharmacy - Smouha,,Cairo,Heliopolis,30.087612,31.355446,9,23,11,2025-05-26,2,3453
+1502,Health Gate Pharmacy,,Cairo,Heliopolis,30.106203,31.345195,8,23,11,2025-08-07,0,6681
+1503,Pharma Plus - Square,,Cairo,Heliopolis,30.080655,31.33379,8,2,11,2025-07-25,0,1330
+1504,City Care Pharmacy,,Cairo,Helwan,29.853573,31.348666,9,23,12,2025-05-18,1,2732
+1505,Misr Pharmacy,,Cairo,Helwan,29.837433,31.332862,9,23,12,2024-12-10,0,5433
+1506,Salamtek Pharmacy - Helwan,,Cairo,Helwan,29.846037,31.337399,9,23,12,2024-11-08,2,5357
+1507,Health Gate Pharmacy - Helwan,,Cairo,Helwan,29.853105,31.327882,8,23,12,2025-06-21,0,9588
+1508,Seha First Pharmacy,,Cairo,Helwan,29.854689,31.345016,8,2,12,2025-05-18,1,3295
+1509,Union Pharm,,Cairo,Helwan,29.832673,31.347809,9,23,12,2025-06-10,1,1895
+1510,Salamtek Pharmacy - Oct City,,Cairo,Helwan,29.846875,31.339573,9,2,12,2025-06-12,0,4976
+1511,Dr Medhat Pharmacy - Helwan,,Cairo,Helwan,29.835302,31.330554,9,23,12,2024-09-15,0,4401
+1512,Life Line Pharmacy,,Cairo,Helwan,29.854568,31.346952,8,23,12,2025-04-20,0,1590
+1513,Green Leaf Pharmacy,,Cairo,Helwan,29.84498,31.343989,10,23,12,2024-09-18,0,6090
+1514,Salamtek Pharmacy - Helwan,,Cairo,Helwan,29.851701,31.34324,8,1,12,2025-07-28,0,9017
+1515,Alpha Pharma - Helwan,,Cairo,Helwan,29.842847,31.330837,9,23,12,2025-07-12,0,7550
+1516,Seha First Pharmacy,,Cairo,Helwan,29.837739,31.317014,9,23,12,2025-07-25,0,3384
+1517,Pharma Plus,,Cairo,Helwan,29.843581,31.335254,9,23,12,2025-09-07,0,3180
+1518,Blue Wave Pharmacy - Marg,,Cairo,Helwan,29.842078,31.317045,8,23,12,2025-04-29,0,7575
+1519,Hope Pharmacy,,Cairo,Helwan,29.849237,31.339564,9,23,12,2024-12-18,0,7177
+1520,Star Care Pharmacy - Helwan,,Cairo,Helwan,29.847698,31.323677,10,1,12,2025-06-07,0,7385
+1521,El Baraka Pharmacy - Faisal,,Cairo,Helwan,29.846477,31.341836,9,23,12,2025-07-31,0,5068
+1522,Mira Pharmacy - Marg,,Cairo,Helwan,29.855742,31.342799,9,23,12,2025-03-01,0,2406
+1523,Green Leaf Pharmacy - Zayed,,Cairo,Helwan,29.840898,31.31669,8,1,12,2025-06-12,0,4932
+1524,Seha First Pharmacy - Helwan,,Cairo,Helwan,29.836697,31.342282,9,1,12,2025-05-23,0,4931
+1525,Green Leaf Pharmacy,,Cairo,Helwan,29.850752,31.346874,9,23,12,2025-08-26,0,4351
+1526,Mira Pharmacy,,Cairo,Helwan,29.85794,31.322256,10,23,12,2024-12-22,0,5215
+1527,El Tourath Pharmacy,,Cairo,Helwan,29.837453,31.33145,8,23,12,2025-04-18,0,2932
+1528,El Nasr Pharmacy - Agami,,Cairo,Helwan,29.835566,31.345352,9,23,12,2025-08-28,0,8647
+1529,Health Gate Pharmacy - Smouha,,Cairo,Helwan,29.848295,31.342975,9,1,12,2025-02-03,0,6739
+1530,Family Pharmacy,,Cairo,Helwan,29.837666,31.321303,9,23,12,2024-12-23,0,6367
+1531,Silver Care Pharmacy,,Cairo,Helwan,29.84447,31.344362,9,23,12,2025-02-04,0,9372
+1532,Misr Pharmacy,,Cairo,Helwan,29.843463,31.320948,9,1,12,2025-04-15,0,4996
+1533,Care 24 Seven - Helwan,,Cairo,Helwan,29.853101,31.342704,10,2,12,2025-02-05,0,2382
+1534,Al Amal Pharmacy,,Cairo,Helwan,29.839264,31.34419,9,2,12,2025-04-21,0,7269
+1535,Hope Pharmacy,,Cairo,Helwan,29.858343,31.337534,9,23,12,2024-09-17,0,8355
+1536,Star Care Pharmacy - Helwan,,Cairo,Helwan,29.856547,31.325366,9,2,12,2024-11-28,0,5036
+1537,Angel Pharmacy,,Cairo,Helwan,29.855657,31.32319,8,23,12,2025-05-02,0,6213
+1538,Star Care Pharmacy,,Cairo,Helwan,29.853128,31.321118,8,23,12,2024-09-13,0,3934
+1539,El Hokama Pharmacy - Helwan,,Cairo,Helwan,29.858911,31.340083,9,2,12,2024-11-26,0,1598
+1540,El Baraka Pharmacy - Rehab View,,Cairo,Helwan,29.825372,31.344324,9,23,12,2025-02-16,0,3869
+1541,Alpha Pharma - Imbaba,,Cairo,Helwan,29.82635,31.349306,10,23,12,2025-08-08,0,2814
+1542,El Baraka Pharmacy - Maadi,,Cairo,Maadi,29.975678,31.244324,10,1,13,2025-07-01,0,4790
+1543,Angel Pharmacy,,Cairo,Maadi,29.954907,31.268376,8,23,13,2025-02-09,0,1527
+1544,Mira Pharmacy,,Cairo,Maadi,29.950563,31.249114,9,23,13,2025-06-13,0,9708
+1545,Al Amal Pharmacy,,Cairo,Maadi,29.961605,31.270815,8,23,13,2025-01-29,1,2512
+1546,Elite Pharmacy,,Cairo,Maadi,29.978119,31.262399,9,23,13,2025-01-23,2,8598
+1547,Star Care Pharmacy - Dokki,,Cairo,Maadi,29.955432,31.247303,8,23,13,2024-09-25,2,1267
+1548,City Care Pharmacy - Maadi,,Cairo,Maadi,29.955798,31.271406,8,23,13,2025-05-03,0,8219
+1549,Dr Medhat Pharmacy - Shubra,,Cairo,Maadi,29.974912,31.274752,10,23,13,2024-12-23,1,4812
+1550,El Hokama Pharmacy,,Cairo,Maadi,29.963347,31.249559,8,1,13,2025-06-30,0,2871
+1551,Misr Pharmacy,,Cairo,Maadi,29.968735,31.259574,8,23,13,2024-12-19,2,1474
+1552,El Tourath Pharmacy,,Cairo,Maadi,29.973388,31.266593,9,1,13,2024-09-27,0,4947
+1553,Dr Medhat Pharmacy,,Cairo,Maadi,29.973679,31.244954,8,2,13,2025-05-07,0,1229
+1554,El Shifa Pharmacy,,Cairo,Maadi,29.970838,31.244229,9,23,13,2025-04-08,0,4317
+1555,El Nasr Pharmacy - Maadi,,Cairo,Maadi,29.952878,31.269976,9,2,13,2025-02-27,2,2035
+1556,Sunrise Pharmacy - Maadi,,Cairo,Maadi,29.962126,31.241072,8,23,13,2025-03-23,0,2150
+1557,Health Gate Pharmacy,,Cairo,Maadi,29.948515,31.251445,9,23,13,2025-06-08,0,9382
+1558,Salamtek Pharmacy - Maadi,,Cairo,Maadi,29.969761,31.259199,8,23,13,2025-01-18,0,8308
+1559,Care 24 Seven - Maadi,,Cairo,Maadi,29.952321,31.244232,8,1,13,2025-06-13,2,9024
+1560,El Faraby Pharmacy,,Cairo,Maadi,29.960865,31.24058,9,23,13,2025-04-04,0,5672
+1561,City Care Pharmacy - Marg,,Cairo,Maadi,29.944792,31.26168,9,23,13,2025-01-20,0,8733
+1562,Family Pharmacy - Shubra,,Cairo,Maadi,29.96219,31.270946,9,23,13,2024-09-21,0,5915
+1563,Sunrise Pharmacy - Oct City,,Cairo,Maadi,29.976496,31.24681,9,23,13,2024-10-21,1,2902
+1564,Salamtek Pharmacy - Square,,Cairo,Maadi,29.975349,31.273118,8,23,13,2024-09-23,0,6777
+1565,Family Pharmacy - Banha,,Cairo,Maadi,29.969552,31.24778,9,23,13,2024-12-23,0,1410
+1566,El Shifa Pharmacy - Maadi,,Cairo,Maadi,29.94462,31.247683,9,1,13,2025-05-15,0,4385
+1567,Mira Pharmacy,,Cairo,Maadi,29.96869,31.259387,8,23,13,2024-11-07,0,7152
+1568,Nile Care Pharmacy - Rehab View,,Cairo,Maadi,29.960398,31.255675,10,23,13,2025-02-18,0,2084
+1569,Angel Pharmacy,,Cairo,Maadi,29.974778,31.262277,10,23,13,2025-01-08,0,1325
+1570,El Zahraa Pharmacy - Nozha,,Cairo,Maadi,29.961317,31.250691,9,23,13,2025-06-12,0,2308
+1571,Health Gate Pharmacy - Maadi,,Cairo,Maadi,29.967419,31.264497,8,23,13,2024-12-24,0,4960
+1572,Pharma Plus - Maadi,,Cairo,Maadi,29.942945,31.252561,9,2,13,2025-03-18,1,2700
+1573,Green Leaf Pharmacy,,Cairo,Maadi,29.961263,31.273962,8,23,13,2024-09-21,0,9959
+1574,Star Care Pharmacy,,Cairo,Maadi,29.961131,31.266016,9,23,13,2025-05-02,0,5693
+1575,Pharma Plus - Maadi,,Cairo,Maadi,29.947603,31.267906,9,23,13,2025-06-04,0,8879
+1576,Sunrise Pharmacy - Smouha,,Cairo,Maadi,29.9655,31.250781,9,23,13,2025-07-25,1,7300
+1577,Seha First Pharmacy - Helwan,,Cairo,Maadi,29.965065,31.245787,8,23,13,2024-12-05,0,6280
+1578,Ebn Sina Pharmacy,,Cairo,Maadi,29.977358,31.260862,8,23,13,2025-06-21,0,2407
+1579,Star Care Pharmacy,,Cairo,Maadi,29.954934,31.262381,9,1,13,2025-05-13,1,4409
+1580,Ebn Sina Pharmacy,,Cairo,Maadi,29.94774,31.258974,9,23,13,2025-06-13,0,4627
+1581,Hope Pharmacy,,Cairo,Maadi,29.956213,31.250121,9,2,13,2025-05-12,0,4578
+1582,Misr Pharmacy - Montaza,,Cairo,Maadi,29.947522,31.239671,8,1,13,2025-08-10,0,8645
+1583,Sunrise Pharmacy - Haram,,Cairo,Maadi,29.961829,31.252719,9,23,13,2024-09-06,2,4388
+1584,Silver Care Pharmacy,,Cairo,Maadi,29.972552,31.266184,10,23,13,2024-09-03,0,4759
+1585,Al Amal Pharmacy - Maadi,,Cairo,Maadi,29.971278,31.239609,9,23,13,2025-01-10,0,9237
+1586,Health Gate Pharmacy - Banha,,Cairo,Maadi,29.946832,31.264896,9,23,13,2025-08-04,0,6684
+1587,El Baraka Pharmacy - Helwan,,Cairo,Maadi,29.963648,31.274481,8,23,13,2025-01-26,2,3067
+1588,El Faraby Pharmacy - Maadi,,Cairo,Maadi,29.947442,31.24328,10,23,13,2025-08-14,0,9057
+1589,Seha First Pharmacy,,Cairo,Maadi,29.954214,31.270635,8,23,13,2025-03-09,0,5671
+1590,Al Amal Pharmacy - Imbaba,,Cairo,Maadi,29.965901,31.240647,9,23,13,2024-12-11,1,5934
+1591,Health Gate Pharmacy - Banha,,Cairo,Maadi,29.968303,31.246253,9,23,13,2024-09-26,0,9132
+1592,El Hokama Pharmacy,,Cairo,Maadi,29.966221,31.274737,8,1,13,2025-07-13,1,9276
+1593,Angel Pharmacy - Maadi,,Cairo,Maadi,29.973623,31.263846,8,23,13,2024-12-04,0,2022
+1594,El Nasr Pharmacy,,Cairo,Maadi,29.973157,31.243837,9,23,13,2025-03-06,1,7838
+1595,Seha First Pharmacy - Maadi,,Cairo,Maadi,29.957518,31.253297,9,23,13,2025-07-07,0,4619
+1596,Star Care Pharmacy,,Cairo,Maadi,29.96006,31.262771,9,23,13,2025-01-11,0,9927
+1597,Silver Care Pharmacy,,Cairo,Maadi,29.967945,31.23959,9,23,13,2025-05-08,0,1876
+1598,Better Life Pharmacy - Obour,,Cairo,Maadi,29.944727,31.264152,9,2,13,2025-08-20,0,7999
+1599,Misr Pharmacy - Oct City,,Cairo,Maadi,29.963085,31.243022,9,1,13,2024-10-16,0,5166
+1600,Pharma Plus - Maadi,,Cairo,Maadi,29.960366,31.24525,8,23,13,2025-07-23,0,9705
+1601,Al Nozha Pharmacy,,Cairo,Maadi,29.952197,31.245049,9,23,13,2024-09-24,0,7068
+1602,Dr Medhat Pharmacy,,Cairo,Maadi,29.968853,31.253555,9,1,13,2024-12-07,0,5005
+1603,El Zahraa Pharmacy - Obour,,Cairo,Maadi,29.956487,31.250431,9,23,13,2025-03-19,1,2378
+1604,Seha First Pharmacy,,Cairo,Maadi,29.942853,31.249115,9,2,13,2025-04-27,0,1892
+1605,Green Leaf Pharmacy - Dokki,,Cairo,Maadi,29.944957,31.274068,10,23,13,2025-04-02,0,8126
+1606,Elite Pharmacy,,Cairo,Maadi,29.962626,31.246147,9,23,13,2025-09-08,0,7864
+1607,El Hokama Pharmacy - Agami,,Cairo,Maadi,29.95927,31.240549,9,2,13,2025-02-01,0,1583
+1608,Omega Pharmacy,,Cairo,Maadi,29.953623,31.239992,9,23,13,2025-02-09,0,7087
+1609,Salamtek Pharmacy - Maadi,,Cairo,Maadi,29.974945,31.257123,9,23,13,2024-09-09,0,6352
+1610,Seha First Pharmacy - Maadi,,Cairo,Maadi,29.950275,31.267745,10,23,13,2024-10-17,0,7899
+1611,El Nasr Pharmacy,,Cairo,Maadi,29.954114,31.269735,9,1,13,2025-04-30,0,5676
+1612,Al Nozha Pharmacy,,Cairo,Maadi,29.976864,31.242186,8,23,13,2025-09-14,0,2477
+1613,El Baraka Pharmacy - Maadi,,Cairo,Maadi,29.97281,31.244678,9,23,13,2025-04-28,0,6321
+1614,Metro Pharmacy - Rehab View,,Cairo,Maadi,29.944959,31.270354,8,23,13,2024-11-06,0,7921
+1615,Seha First Pharmacy - Maadi,,Cairo,Maadi,29.977866,31.273448,8,23,13,2025-04-08,0,2608
+1616,City Care Pharmacy - Haram,,Cairo,Maadi,29.965138,31.244603,9,1,13,2024-09-06,0,2863
+1617,Health Gate Pharmacy - Maadi,,Cairo,Maadi,29.976018,31.254068,9,1,13,2025-02-04,0,3045
+1618,El Faraby Pharmacy - Oct City,,Cairo,Maadi,29.958735,31.253612,8,23,13,2024-11-19,0,1394
+1619,Angel Pharmacy,,Cairo,Maadi,29.965326,31.257014,9,23,13,2024-11-30,0,7412
+1620,Seha First Pharmacy,,Cairo,Maadi,29.95247,31.239175,9,23,13,2024-10-31,0,8939
+1621,Pharma Plus - Maadi,,Cairo,Maadi,29.973518,31.259528,8,23,13,2024-11-13,0,3836
+1622,Family Pharmacy - Montaza,,Cairo,Maadi,29.94969,31.249472,8,23,13,2025-06-01,0,6933
+1623,Union Pharm,,Cairo,Maadi,29.956301,31.264982,9,23,13,2024-10-09,0,4060
+1624,Union Pharm - Banha,,Cairo,Maadi,29.9481,31.255939,8,23,13,2024-10-24,0,1775
+1625,Misr Pharmacy - Maadi,,Cairo,Maadi,29.9462,31.272032,10,23,13,2025-05-17,0,9301
+1626,El Baraka Pharmacy - Maadi,,Cairo,Maadi,29.968285,31.270678,8,23,13,2025-02-23,1,7666
+1627,City Care Pharmacy - Maadi,,Cairo,Maadi,29.954952,31.265709,9,23,13,2024-12-09,1,4420
+1628,Salamtek Pharmacy - Obour,,Cairo,Maadi,29.969372,31.266718,8,23,13,2025-07-24,1,5578
+1629,Metro Pharmacy - Maadi,,Cairo,Maadi,29.947557,31.273752,10,1,13,2024-09-16,0,1475
+1630,Ebn Sina Pharmacy - Smouha,,Cairo,Maadi,29.944213,31.274145,8,23,13,2025-07-02,0,2988
+1631,Green Leaf Pharmacy - Maadi,,Cairo,Maadi,29.951591,31.262208,8,1,13,2024-12-16,0,4165
+1632,Seha First Pharmacy - Nozha,,Cairo,Maadi,29.970449,31.246762,8,2,13,2024-12-11,0,5143
+1633,City Care Pharmacy,,Cairo,Maadi,29.944801,31.252319,9,23,13,2025-02-21,0,6914
+1634,Life Line Pharmacy - Faisal,,Cairo,Maadi,29.945039,31.273054,9,1,13,2025-06-06,0,5917
+1635,Salamtek Pharmacy - Maadi,,Cairo,Maadi,29.977325,31.272167,9,23,13,2025-01-15,0,7644
+1636,El Tourath Pharmacy - Helwan,,Cairo,Maadi,29.954986,31.253841,9,23,13,2025-01-26,0,2523
+1637,El Baraka Pharmacy - Maadi,,Cairo,Maadi,29.955778,31.255112,9,1,13,2024-12-21,0,8891
+1638,Better Life Pharmacy,,Cairo,Maadi,29.967676,31.257065,8,1,13,2025-05-20,0,7171
+1639,El Faraby Pharmacy - Zayed,,Cairo,Maadi,29.977215,31.267501,10,23,13,2025-04-09,0,4042
+1640,Omega Pharmacy - Agami,,Cairo,Maadi,29.968731,31.257276,9,23,13,2024-09-26,0,5144
+1641,El Hokama Pharmacy,,Cairo,Maadi,29.969012,31.262875,8,23,13,2024-09-25,2,2033
+1642,Dr Medhat Pharmacy - Square,,Cairo,Maadi,29.974158,31.264663,9,23,13,2025-03-16,0,6355
+1643,Seha First Pharmacy,,Cairo,Maadi,29.944529,31.243774,8,23,13,2025-07-16,0,9501
+1644,El Baraka Pharmacy,,Cairo,Maadi,29.972436,31.243058,9,1,13,2025-01-30,0,4229
+1645,El Faraby Pharmacy - Maadi,,Cairo,Maadi,29.94494,31.26102,10,23,13,2025-01-17,0,9913
+1646,Mira Pharmacy,,Cairo,Maadi,29.957447,31.259741,10,23,13,2025-07-28,0,1528
+1647,Blue Wave Pharmacy,,Cairo,Mokattam,30.043286,31.288069,9,23,14,2025-09-08,0,5880
+1648,Family Pharmacy - Montaza,,Cairo,Mokattam,30.037919,31.292928,9,23,14,2025-01-31,0,7101
+1649,Golden Care Pharmacy - Zayed,,Cairo,Mokattam,30.017137,31.299386,10,23,14,2025-05-05,0,4811
+1650,Dr Medhat Pharmacy - Mokattam,,Cairo,Mokattam,30.049837,31.284792,9,2,14,2024-12-10,0,8108
+1651,Life Line Pharmacy,,Cairo,Mokattam,30.020263,31.300568,9,23,14,2024-11-13,0,7028
+1652,Dr Medhat Pharmacy,,Cairo,Mokattam,30.032108,31.279307,9,23,14,2025-02-09,0,3930
+1653,Better Life Pharmacy - Square,,Cairo,Mokattam,30.043139,31.290825,8,1,14,2025-07-30,0,8931
+1654,Union Pharm - Banha,,Cairo,Mokattam,30.049747,31.28728,8,23,14,2025-09-01,0,4731
+1655,Omega Pharmacy - Mokattam,,Cairo,Mokattam,30.030939,31.288555,9,23,14,2025-03-15,1,5053
+1656,Sunrise Pharmacy - Mokattam,,Cairo,Mokattam,30.025544,31.301126,10,1,14,2025-07-29,0,8518
+1657,City Care Pharmacy - Obour,,Cairo,Mokattam,30.035798,31.294756,9,23,14,2025-06-27,0,5631
+1658,El Faraby Pharmacy - Nozha,,Cairo,Mokattam,30.047569,31.27645,8,23,14,2025-07-17,0,4276
+1659,Angel Pharmacy - Nozha,,Cairo,Mokattam,30.034965,31.270239,9,23,14,2024-11-20,0,3787
+1660,Hope Pharmacy - Nozha,,Cairo,Mokattam,30.028741,31.2658,8,23,14,2025-02-08,1,9115
+1661,Silver Care Pharmacy - Square,,Cairo,Mokattam,30.046273,31.267109,9,23,14,2025-04-23,1,8647
+1662,Elite Pharmacy - Agami,,Cairo,Mokattam,30.045775,31.295794,10,23,14,2025-07-27,0,3602
+1663,Dr Medhat Pharmacy - Banha,,Cairo,Mokattam,30.02637,31.285975,8,23,14,2025-05-24,0,9737
+1664,Union Pharm - Obour,,Cairo,Mokattam,30.015722,31.272532,8,1,14,2024-10-05,0,3031
+1665,Family Pharmacy - Obour,,Cairo,Mokattam,30.029196,31.273003,9,1,14,2025-05-11,0,2326
+1666,City Care Pharmacy,,Cairo,Mokattam,30.017802,31.298108,9,23,14,2025-09-08,0,9517
+1667,Salamtek Pharmacy,,Cairo,Mokattam,30.045639,31.277997,9,1,14,2025-08-03,0,2447
+1668,Hope Pharmacy - Agami,,Cairo,Mokattam,30.04475,31.290643,8,1,14,2024-09-07,0,1994
+1669,Salamtek Pharmacy,,Cairo,Mokattam,30.028926,31.298608,9,2,14,2025-06-21,0,4509
+1670,Al Amal Pharmacy - Shubra,,Cairo,Mokattam,30.04705,31.2922,8,23,14,2025-05-12,1,4817
+1671,City Care Pharmacy - Mokattam,,Cairo,Mokattam,30.031939,31.300262,9,23,14,2024-10-17,0,8001
+1672,Misr Pharmacy - Square,,Cairo,Mokattam,30.034987,31.286691,8,23,14,2024-11-22,0,8242
+1673,Health Gate Pharmacy - Nasr,,Cairo,Nasr City,30.058447,31.355032,9,1,15,2024-12-19,0,8172
+1674,Elite Pharmacy - Shubra,,Cairo,Nasr City,30.040971,31.376465,8,1,15,2025-04-20,0,8047
+1675,El Shifa Pharmacy - Nasr,,Cairo,Nasr City,30.045023,31.365912,9,23,15,2024-11-17,1,6942
+1676,El Hokama Pharmacy,,Cairo,Nasr City,30.043333,31.379796,8,1,15,2024-12-21,0,5964
+1677,Nile Care Pharmacy - Marg,,Cairo,Nasr City,30.063024,31.361219,9,23,15,2025-01-10,1,7580
+1678,Silver Care Pharmacy,,Cairo,Nasr City,30.046116,31.37129,9,23,15,2025-03-06,0,5597
+1679,Alpha Pharma - Rehab View,,Cairo,Nasr City,30.064603,31.352791,8,23,15,2025-06-09,1,5101
+1680,Ebn Sina Pharmacy,,Cairo,Nasr City,30.056002,31.361156,9,23,15,2025-04-27,1,4981
+1681,Al Nozha Pharmacy - Nasr,,Cairo,Nasr City,30.068746,31.376383,10,23,15,2025-08-27,0,5786
+1682,Mira Pharmacy,,Cairo,Nasr City,30.041322,31.353376,8,1,15,2025-08-07,0,2322
+1683,Elite Pharmacy - Oct City,,Cairo,Nasr City,30.041567,31.377444,9,23,15,2025-04-25,0,6020
+1684,Omega Pharmacy,,Cairo,Nasr City,30.055186,31.352395,9,23,15,2025-08-10,0,8023
+1685,Dr Medhat Pharmacy - Helwan,,Cairo,Nasr City,30.062,31.350428,9,23,15,2025-01-11,0,8605
+1686,Care 24 Seven - Obour,,Cairo,Nasr City,30.045441,31.352469,9,23,15,2025-07-01,0,5098
+1687,El Hokama Pharmacy,,Cairo,Nasr City,30.059641,31.369234,8,1,15,2025-08-27,0,1121
+1688,Union Pharm - Nasr,,Cairo,Nasr City,30.063996,31.382159,9,1,15,2024-11-01,0,9004
+1689,Care 24 Seven,,Cairo,Nasr City,30.063143,31.377813,9,23,15,2025-05-11,0,8735
+1690,Dr Medhat Pharmacy - Rehab View,,Cairo,Nasr City,30.03817,31.363169,10,23,15,2025-01-10,0,7700
+1691,Misr Pharmacy,,Cairo,Nasr City,30.048751,31.362818,9,23,15,2024-09-14,0,5045
+1692,El Hokama Pharmacy,,Cairo,Nasr City,30.036016,31.360728,9,1,15,2025-07-17,0,8618
+1693,El Tourath Pharmacy - Nasr,,Cairo,Nasr City,30.03557,31.383353,9,23,15,2025-09-11,0,7751
+1694,El Hokama Pharmacy,,Cairo,Nasr City,30.045747,31.376565,9,23,15,2025-04-26,0,8194
+1695,El Hokama Pharmacy,,Cairo,Nasr City,30.061829,31.359629,9,23,15,2025-03-22,2,6231
+1696,Green Leaf Pharmacy - Nasr,,Cairo,Nasr City,30.060402,31.364674,9,1,15,2025-02-20,0,1749
+1697,Health Gate Pharmacy - Imbaba,,Cairo,Nasr City,30.033335,31.383204,8,1,15,2025-07-24,0,4916
+1698,Green Leaf Pharmacy - Square,,Cairo,Nasr City,30.060801,31.362688,9,23,15,2025-01-24,1,9093
+1699,Al Nozha Pharmacy,,Cairo,Nasr City,30.066253,31.366234,9,1,15,2024-11-02,0,5042
+1700,Union Pharm - Imbaba,,Cairo,Nasr City,30.037193,31.362514,10,1,15,2025-08-09,0,3969
+1701,Al Amal Pharmacy - Oct City,,Cairo,Nasr City,30.044096,31.368347,10,23,15,2024-10-13,1,3357
+1702,Ebn Sina Pharmacy - Shubra,,Cairo,Nasr City,30.037282,31.372757,8,23,15,2024-09-09,0,1206
+1703,El Faraby Pharmacy,,Cairo,Nasr City,30.047397,31.362564,9,23,15,2025-05-31,2,6951
+1704,El Baraka Pharmacy - Nasr,,Cairo,Nasr City,30.053415,31.348385,10,23,15,2024-12-15,0,2929
+1705,Star Care Pharmacy - Nasr,,Cairo,Nasr City,30.059172,31.363877,8,2,15,2025-04-10,0,7048
+1706,Star Care Pharmacy,,Cairo,Nasr City,30.054902,31.350042,10,1,15,2024-09-17,0,2717
+1707,Blue Wave Pharmacy - Nasr,,Cairo,Nasr City,30.034383,31.359341,9,23,15,2025-02-07,0,4167
+1708,El Tourath Pharmacy,,Cairo,Nasr City,30.062555,31.359982,9,23,15,2024-09-22,1,4847
+1709,Golden Care Pharmacy - Nasr,,Cairo,Nasr City,30.052622,31.369808,10,23,15,2025-02-19,0,3582
+1710,El Shifa Pharmacy - Nasr,,Cairo,Nasr City,30.045855,31.382527,8,23,15,2024-10-06,0,6488
+1711,El Baraka Pharmacy - Nasr,,Cairo,Nasr City,30.062681,31.353413,9,2,15,2024-10-08,0,1498
+1712,Family Pharmacy - Nasr,,Cairo,Nasr City,30.053894,31.349447,10,1,15,2025-08-03,0,5379
+1713,El Faraby Pharmacy - Shubra,,Cairo,Nasr City,30.061591,31.347855,8,2,15,2025-05-21,0,1776
+1714,Star Care Pharmacy - Nasr,,Cairo,Nasr City,30.034959,31.363789,9,23,15,2025-06-16,1,2998
+1715,Sunrise Pharmacy - Nasr,,Cairo,Nasr City,30.038468,31.351883,8,23,15,2025-08-20,0,7383
+1716,Blue Wave Pharmacy - Agami,,Cairo,Nasr City,30.052312,31.365563,9,23,15,2025-06-12,0,6010
+1717,City Care Pharmacy - Nasr,,Cairo,Nasr City,30.06448,31.3779,9,23,15,2025-07-08,1,5845
+1718,Silver Care Pharmacy,,Cairo,Nasr City,30.061248,31.365069,9,23,15,2025-04-18,0,9935
+1719,Ebn Sina Pharmacy - Smouha,,Cairo,Nasr City,30.03909,31.377309,9,2,15,2024-10-29,0,1771
+1720,Misr Pharmacy - Nasr,,Cairo,Nasr City,30.063758,31.36345,8,23,15,2024-12-10,0,9831
+1721,Pharma Plus,,Cairo,Nasr City,30.052502,31.373539,9,1,15,2025-06-27,1,7323
+1722,Omega Pharmacy,,Cairo,Nasr City,30.034088,31.362426,10,23,15,2025-01-05,0,9238
+1723,Al Nozha Pharmacy - Nasr,,Cairo,Nasr City,30.044454,31.347796,10,23,15,2025-02-26,0,5759
+1724,Nile Care Pharmacy - Nasr,,Cairo,Nasr City,30.03865,31.354485,8,23,15,2024-11-27,1,3064
+1725,Life Line Pharmacy,,Cairo,Nasr City,30.053352,31.365098,8,1,15,2025-05-19,0,6002
+1726,Al Nozha Pharmacy,,Cairo,Nasr City,30.059137,31.348921,8,2,15,2025-02-07,0,4933
+1727,Salamtek Pharmacy - Marg,,Cairo,Nasr City,30.038248,31.350258,8,1,15,2025-07-23,0,2277
+1728,El Faraby Pharmacy - Shubra,,Cairo,Nasr City,30.062981,31.366284,8,1,15,2025-02-26,0,5888
+1729,Health Gate Pharmacy - Nasr,,Cairo,Nasr City,30.0599,31.371054,9,1,15,2025-08-07,1,2506
+1730,Alpha Pharma - Nasr,,Cairo,Nasr City,30.033947,31.368779,9,23,15,2025-05-31,0,7320
+1731,Hope Pharmacy,,Cairo,Nasr City,30.055862,31.383037,10,23,15,2025-03-12,0,8596
+1732,El Tourath Pharmacy - Nasr,,Cairo,Nasr City,30.047763,31.359849,8,23,15,2025-07-01,0,7065
+1733,Angel Pharmacy - Helwan,,Cairo,Nasr City,30.064276,31.369413,9,23,15,2024-10-14,0,9579
+1734,Angel Pharmacy - Agami,,Cairo,Nasr City,30.035598,31.381346,9,23,15,2025-05-31,0,6817
+1735,Star Care Pharmacy - Zayed,,Cairo,Nasr City,30.060572,31.347606,9,23,15,2025-02-19,0,5767
+1736,Sunrise Pharmacy - Obour,,Cairo,Nasr City,30.060575,31.350506,9,1,15,2024-09-10,0,6153
+1737,Union Pharm - Nasr,,Cairo,Nasr City,30.060991,31.359113,10,23,15,2025-05-24,0,1015
+1738,Angel Pharmacy - Smouha,,Cairo,Nasr City,30.058887,31.349898,10,23,15,2024-11-08,0,1194
+1739,Angel Pharmacy,,Cairo,Nasr City,30.062093,31.361674,8,23,15,2025-03-11,0,2686
+1740,Seha First Pharmacy - Nasr,,Cairo,Nasr City,30.037258,31.36932,8,23,15,2025-06-23,0,4825
+1741,Misr Pharmacy - Nasr,,Cairo,Nasr City,30.051333,31.38053,8,2,15,2025-03-03,0,1325
+1742,Hope Pharmacy - Nasr,,Cairo,Nasr City,30.051765,31.355583,8,1,15,2025-08-26,0,4387
+1743,Seha First Pharmacy,,Cairo,Nasr City,30.064453,31.370068,8,23,15,2025-09-01,0,7058
+1744,El Hokama Pharmacy,,Cairo,Nasr City,30.039257,31.379614,9,23,15,2025-04-09,0,5642
+1745,Metro Pharmacy - Faisal,,Cairo,Nasr City,30.054066,31.372545,8,23,15,2025-01-25,0,6314
+1746,Misr Pharmacy,,Cairo,Nasr City,30.050797,31.354854,9,23,15,2025-04-07,0,6357
+1747,Ebn Sina Pharmacy,,Cairo,Nasr City,30.060943,31.366387,9,23,15,2025-01-18,2,8761
+1748,Union Pharm,,Cairo,Nasr City,30.042754,31.374936,9,1,15,2025-08-11,0,9274
+1749,Dr Medhat Pharmacy - Maadi,,Cairo,Nasr City,30.035498,31.366833,8,23,15,2025-03-15,0,3985
+1750,El Baraka Pharmacy,,Cairo,Nasr City,30.035866,31.35662,9,23,15,2024-11-27,0,7313
+1751,El Shifa Pharmacy,,Cairo,Nasr City,30.067956,31.377283,9,2,15,2025-08-29,0,2333
+1752,City Care Pharmacy - Nasr,,Cairo,Nasr City,30.038135,31.360082,9,23,15,2025-03-09,0,8856
+1753,El Tourath Pharmacy,,Cairo,Nasr City,30.067013,31.360398,8,1,15,2025-01-13,0,8743
+1754,Elite Pharmacy - Marg,,Cairo,Nasr City,30.035777,31.380725,9,23,15,2025-04-16,0,8178
+1755,Health Gate Pharmacy - Nasr,,Cairo,Nasr City,30.068052,31.377966,9,23,15,2024-12-29,0,1294
+1756,Better Life Pharmacy,,Cairo,Nasr City,30.064854,31.379479,9,23,15,2024-11-24,0,4572
+1757,Dr Medhat Pharmacy,,Cairo,Nasr City,30.046502,31.359702,9,1,15,2025-05-02,1,2587
+1758,Metro Pharmacy,,Cairo,Nasr City,30.04135,31.367169,9,23,15,2025-04-08,0,4547
+1759,Better Life Pharmacy - Nasr,,Cairo,Nasr City,30.040904,31.365851,8,23,15,2025-05-01,0,2847
+1760,Golden Care Pharmacy,,Cairo,Nasr City,30.045378,31.353072,8,23,15,2025-03-02,0,4019
+1761,Union Pharm,,Cairo,Nasr City,30.068982,31.367493,8,23,15,2025-07-29,0,7923
+1762,El Zahraa Pharmacy - Nasr,,Cairo,Nasr City,30.051134,31.36814,9,23,15,2024-10-22,1,8254
+1763,Health Gate Pharmacy,,Cairo,Nasr City,30.060798,31.368508,10,23,15,2025-08-15,0,9842
+1764,Mira Pharmacy - Nasr,,Cairo,Nasr City,30.038892,31.360768,9,1,15,2024-12-22,0,2418
+1765,Al Amal Pharmacy - Nasr,,Cairo,Nasr City,30.034971,31.359462,9,23,15,2025-01-06,0,6429
+1766,Blue Wave Pharmacy - Smouha,,Cairo,Nasr City,30.046583,31.351542,9,23,15,2025-08-13,2,9482
+1767,El Nasr Pharmacy - Montaza,,Cairo,Nasr City,30.063901,31.360888,9,23,15,2024-10-23,2,7074
+1768,Sunrise Pharmacy - Banha,,Cairo,Nasr City,30.047441,31.375337,8,23,15,2025-01-10,1,1925
+1769,El Tourath Pharmacy - Oct City,,Cairo,Nasr City,30.054823,31.358167,9,1,15,2025-01-05,0,7510
+1770,El Tourath Pharmacy - Rehab View,,Cairo,Nasr City,30.043983,31.348673,9,23,15,2025-01-25,0,6089
+1771,Omega Pharmacy - Nasr,,Cairo,Nasr City,30.051259,31.364709,9,1,15,2024-10-09,0,2725
+1772,El Faraby Pharmacy - Shubra,,Cairo,Nasr City,30.049568,31.368084,10,1,15,2025-07-09,0,6069
+1773,Family Pharmacy,,Cairo,Nasr City,30.066165,31.354296,10,23,15,2025-01-05,0,3927
+1774,El Nasr Pharmacy,,Cairo,Nasr City,30.046637,31.369951,9,23,15,2025-06-03,1,7071
+1775,Golden Care Pharmacy,,Cairo,Nasr City,30.054621,31.34764,8,23,15,2025-04-14,0,7996
+1776,Family Pharmacy,,Cairo,Nasr City,30.05072,31.354789,8,23,15,2025-03-10,0,7759
+1777,Elite Pharmacy,,Cairo,Nasr City,30.059791,31.37197,8,1,15,2024-09-19,0,8583
+1778,Union Pharm,,Cairo,Nasr City,30.06266,31.358271,9,1,15,2025-05-05,0,9361
+1779,Better Life Pharmacy,,Cairo,Nasr City,30.056303,31.359303,9,23,15,2025-09-01,0,4907
+1780,El Zahraa Pharmacy,,Cairo,Nasr City,30.053175,31.376199,9,23,15,2024-12-19,0,7340
+1781,Life Line Pharmacy - Nasr,,Cairo,Nasr City,30.049009,31.380214,10,1,15,2025-05-07,0,2282
+1782,Misr Pharmacy,,Cairo,Nasr City,30.033536,31.377958,9,23,15,2024-12-06,0,9069
+1783,Seha First Pharmacy - Nasr,,Cairo,Nasr City,30.053395,31.352394,9,1,15,2025-08-25,0,1934
+1784,Union Pharm - Nasr,,Cairo,Nasr City,30.054876,31.348936,10,23,15,2025-04-09,0,4948
+1785,El Tourath Pharmacy,,Cairo,Nasr City,30.03394,31.36654,10,23,15,2025-06-08,0,7476
+1786,Alpha Pharma - Nasr,,Cairo,Nasr City,30.043251,31.372898,9,23,15,2024-11-01,0,9702
+1787,Care 24 Seven,,Cairo,Nasr City,30.043956,31.379604,8,1,15,2025-09-07,0,2145
+1788,Sunrise Pharmacy - Nasr,,Cairo,Nasr City,30.050545,31.350598,8,23,15,2024-09-21,0,5523
+1789,Nile Care Pharmacy - Maadi,,Cairo,Nasr City,30.049145,31.382094,9,1,15,2025-01-17,0,9781
+1790,Sunrise Pharmacy - Agami,,Cairo,Nasr City,30.041571,31.370346,9,23,15,2025-04-19,0,7207
+1791,Sunrise Pharmacy - Zayed,,Cairo,Nasr City,30.033996,31.359657,10,23,15,2025-07-03,0,9496
+1792,Mira Pharmacy - Maadi,,Cairo,Nasr City,30.059112,31.364668,8,23,15,2025-05-27,0,5741
+1793,Al Amal Pharmacy - New,,Cairo,New Cairo,30.03472,31.471837,8,1,16,2024-12-08,1,1133
+1794,Golden Care Pharmacy - Marg,,Cairo,New Cairo,30.031271,31.484507,8,1,16,2024-10-02,0,8150
+1795,El Tourath Pharmacy - New,,Cairo,New Cairo,30.017521,31.493155,9,23,16,2024-09-10,0,8904
+1796,El Baraka Pharmacy - New,,Cairo,New Cairo,30.028674,31.47132,9,23,16,2025-07-15,0,1171
+1797,Metro Pharmacy - Faisal,,Cairo,New Cairo,30.028482,31.468967,8,2,16,2025-04-03,0,4913
+1798,Omega Pharmacy,,Cairo,New Cairo,30.015752,31.498136,9,23,16,2024-12-25,0,9847
+1799,Dr Medhat Pharmacy,,Cairo,New Cairo,30.003564,31.471053,9,23,16,2025-06-16,0,1832
+1800,Better Life Pharmacy - Obour,,Cairo,New Cairo,30.005089,31.498381,10,2,16,2025-02-15,0,5702
+1801,Green Leaf Pharmacy,,Cairo,New Cairo,30.013561,31.472551,9,23,16,2025-01-29,0,9842
+1802,El Zahraa Pharmacy - Faisal,,Cairo,New Cairo,30.03213,31.497724,10,1,16,2024-11-08,0,7419
+1803,Better Life Pharmacy - Square,,Cairo,New Cairo,30.013164,31.479996,9,23,16,2025-08-28,1,1750
+1804,Alpha Pharma,,Cairo,New Cairo,30.034857,31.471309,9,1,16,2025-03-08,0,9225
+1805,El Tourath Pharmacy,,Cairo,New Cairo,30.016638,31.475057,10,23,16,2025-06-26,0,4059
+1806,Health Gate Pharmacy - New,,Cairo,New Cairo,30.016575,31.497982,9,23,16,2024-12-03,1,4750
+1807,Al Amal Pharmacy - New,,Cairo,New Cairo,30.012318,31.470762,9,23,16,2025-04-26,0,1506
+1808,Life Line Pharmacy - New,,Cairo,New Cairo,30.031195,31.487364,9,23,16,2025-04-08,0,3436
+1809,Golden Care Pharmacy,,Cairo,New Cairo,30.013903,31.480102,9,23,16,2025-02-02,0,6168
+1810,Mira Pharmacy,,Cairo,New Cairo,30.019451,31.477297,9,23,16,2025-04-28,0,6246
+1811,Hope Pharmacy - New,,Cairo,New Cairo,30.029687,31.488752,9,23,16,2025-01-23,0,3829
+1812,El Faraby Pharmacy,,Cairo,New Cairo,30.013899,31.471517,9,23,16,2024-11-02,1,9917
+1813,Green Leaf Pharmacy,,Cairo,New Cairo,30.030189,31.480895,9,2,16,2024-09-17,0,8689
+1814,Seha First Pharmacy - Dokki,,Cairo,New Cairo,30.00688,31.497098,8,23,16,2024-09-16,0,2276
+1815,Metro Pharmacy,,Cairo,New Cairo,30.016983,31.499302,8,2,16,2025-02-14,0,5801
+1816,El Zahraa Pharmacy,,Cairo,New Cairo,30.018645,31.470043,9,23,16,2025-06-23,0,4489
+1817,El Hokama Pharmacy - Nozha,,Cairo,New Cairo,30.031463,31.467254,9,2,16,2024-10-10,0,7904
+1818,Al Nozha Pharmacy - New,,Cairo,New Cairo,30.014149,31.494324,8,23,16,2025-07-06,0,1218
+1819,El Zahraa Pharmacy,,Cairo,New Cairo,30.021012,31.468682,9,1,16,2025-01-20,0,3168
+1820,Hope Pharmacy,,Cairo,New Cairo,30.017509,31.479106,9,23,16,2025-05-14,0,9892
+1821,Misr Pharmacy - Oct City,,Cairo,New Cairo,30.014681,31.503036,8,23,16,2025-05-07,0,7627
+1822,El Baraka Pharmacy - New,,Cairo,New Cairo,30.002766,31.474796,8,2,16,2025-08-17,1,4753
+1823,Hope Pharmacy - Banha,,Cairo,New Cairo,30.000706,31.46746,9,23,16,2025-08-17,0,7293
+1824,Elite Pharmacy - Obour,,Cairo,New Cairo,30.014121,31.476842,8,23,16,2024-11-04,1,8017
+1825,Blue Wave Pharmacy,,Cairo,New Cairo,30.027223,31.496786,9,2,16,2024-12-02,2,4046
+1826,Al Amal Pharmacy - New,,Cairo,New Cairo,30.033679,31.477097,9,23,16,2025-06-25,0,1995
+1827,Pharma Plus - Zayed,,Cairo,New Cairo,30.003206,31.467507,9,23,16,2024-11-01,0,6685
+1828,Dr Medhat Pharmacy - New,,Cairo,New Cairo,30.021655,31.477521,10,23,16,2025-06-06,1,1359
+1829,Better Life Pharmacy,,Cairo,New Cairo,30.033566,31.47273,8,1,16,2025-03-19,0,2491
+1830,Seha First Pharmacy,,Cairo,New Cairo,30.005012,31.494048,9,23,16,2025-01-09,1,3729
+1831,Union Pharm - Imbaba,,Cairo,New Cairo,30.029148,31.493852,9,23,16,2025-07-20,0,1612
+1832,Misr Pharmacy - Agami,,Cairo,New Cairo,30.003836,31.499135,9,23,16,2025-04-10,0,3303
+1833,Hope Pharmacy,,Cairo,New Cairo,30.032478,31.50111,9,23,16,2025-07-21,0,6978
+1834,Health Gate Pharmacy,,Cairo,New Cairo,30.009066,31.475002,9,23,16,2025-02-22,0,8227
+1835,Health Gate Pharmacy - New,,Cairo,New Cairo,30.032313,31.479034,8,1,16,2024-10-18,0,6535
+1836,Metro Pharmacy,,Cairo,New Cairo,30.029334,31.501436,9,23,16,2025-08-29,0,4467
+1837,Life Line Pharmacy - New,,Cairo,New Cairo,30.032893,31.495257,9,1,16,2024-10-05,0,5896
+1838,Care 24 Seven - New,,Cairo,New Cairo,30.006686,31.488345,9,23,16,2024-10-31,0,6941
+1839,Metro Pharmacy - New,,Cairo,New Cairo,30.035528,31.483795,9,23,16,2024-10-02,0,6796
+1840,Pharma Plus,,Cairo,New Cairo,30.01497,31.484898,8,23,16,2025-05-16,0,7780
+1841,Sunrise Pharmacy,,Cairo,New Cairo,30.022245,31.473426,8,1,16,2024-10-02,0,1121
+1842,Misr Pharmacy,,Cairo,New Cairo,30.019408,31.490236,9,23,16,2024-12-03,0,9701
+1843,Al Nozha Pharmacy,,Cairo,New Cairo,30.023159,31.49168,10,2,16,2024-12-09,0,5095
+1844,Dr Medhat Pharmacy - Banha,,Cairo,New Cairo,30.030575,31.48629,8,2,16,2024-12-19,0,4728
+1845,El Tourath Pharmacy - Dokki,,Cairo,New Cairo,30.036038,31.469712,10,23,16,2024-11-30,0,6046
+1846,Pharma Plus - Obour,,Cairo,New Cairo,30.013571,31.474811,9,23,16,2024-09-20,0,3761
+1847,Alpha Pharma,,Cairo,New Cairo,30.016299,31.472018,9,23,16,2024-10-04,0,9355
+1848,Care 24 Seven - Square,,Cairo,New Cairo,30.027119,31.475239,9,23,16,2024-09-18,0,6905
+1849,Silver Care Pharmacy - Marg,,Cairo,New Cairo,30.028304,31.490275,9,23,16,2025-06-09,0,1710
+1850,Metro Pharmacy,,Cairo,New Cairo,30.011466,31.479337,9,23,16,2025-05-29,0,4750
+1851,Salamtek Pharmacy,,Cairo,New Cairo,30.024695,31.471003,10,1,16,2024-09-27,0,4974
+1852,Pharma Plus - Zayed,,Cairo,New Cairo,30.024592,31.467468,9,23,16,2025-01-22,0,3854
+1853,Alpha Pharma - Oct City,,Cairo,New Cairo,30.02933,31.467374,8,23,16,2025-08-10,2,6452
+1854,Ebn Sina Pharmacy,,Cairo,New Cairo,30.032527,31.49118,9,23,16,2025-04-21,1,7210
+1855,Ebn Sina Pharmacy - New,,Cairo,New Cairo,30.017846,31.494913,10,1,16,2024-12-30,0,7221
+1856,El Nasr Pharmacy,,Cairo,New Cairo,30.020804,31.481011,9,1,16,2024-09-15,0,3301
+1857,Silver Care Pharmacy,,Cairo,Obour,30.22534,31.475254,8,23,17,2025-02-21,0,2485
+1858,Union Pharm,,Cairo,Obour,30.238276,31.470506,9,1,17,2025-03-04,0,8473
+1859,Al Nozha Pharmacy - Obour,,Cairo,Obour,30.240823,31.447398,9,1,17,2025-06-20,0,2001
+1860,Ebn Sina Pharmacy - Obour,,Cairo,Obour,30.256517,31.46228,9,23,17,2025-01-27,0,2810
+1861,Omega Pharmacy,,Cairo,Obour,30.243871,31.457698,9,2,17,2025-02-02,0,7497
+1862,Dr Medhat Pharmacy - Square,,Cairo,Obour,30.258019,31.468749,9,23,17,2024-12-21,1,1379
+1863,Silver Care Pharmacy - Agami,,Cairo,Obour,30.248842,31.454034,8,23,17,2025-01-13,0,7495
+1864,Blue Wave Pharmacy,,Cairo,Obour,30.224892,31.481908,9,23,17,2025-01-02,0,9995
+1865,Family Pharmacy,,Cairo,Obour,30.224621,31.472872,8,23,17,2024-09-14,0,6147
+1866,Nile Care Pharmacy,,Cairo,Obour,30.229879,31.466364,10,23,17,2025-01-18,2,3821
+1867,Better Life Pharmacy - Shubra,,Cairo,Obour,30.229572,31.463923,9,23,17,2025-02-14,0,3782
+1868,Star Care Pharmacy - Agami,,Cairo,Obour,30.223777,31.447608,10,1,17,2024-11-20,0,3831
+1869,Care 24 Seven,,Cairo,Obour,30.257327,31.474947,8,23,17,2024-09-30,0,6815
+1870,Ebn Sina Pharmacy - Obour,,Cairo,Obour,30.225532,31.463918,9,23,17,2025-01-04,0,7797
+1871,Nile Care Pharmacy - Zayed,,Cairo,Obour,30.248428,31.454998,9,23,17,2025-03-27,0,2007
+1872,El Shifa Pharmacy,,Cairo,Obour,30.237259,31.464054,9,23,17,2024-09-29,0,1514
+1873,Metro Pharmacy,,Cairo,Obour,30.254101,31.465954,9,23,17,2025-03-09,0,6207
+1874,Sunrise Pharmacy - Obour,,Cairo,Obour,30.246225,31.448854,8,23,17,2025-05-24,0,5298
+1875,Elite Pharmacy,,Cairo,Obour,30.22658,31.45419,9,23,17,2025-04-24,1,4443
+1876,Better Life Pharmacy - Zayed,,Cairo,Obour,30.222554,31.452131,9,1,17,2025-03-18,1,2771
+1877,Dr Medhat Pharmacy,,Cairo,Obour,30.243036,31.45889,8,2,17,2024-12-03,0,5839
+1878,Elite Pharmacy - Agami,,Cairo,Obour,30.242164,31.45617,9,1,17,2025-09-10,0,8887
+1879,Better Life Pharmacy - Obour,,Cairo,Obour,30.239282,31.459791,9,23,17,2025-03-25,0,8202
+1880,Alpha Pharma - Obour,,Cairo,Obour,30.234369,31.4638,9,1,17,2025-01-13,0,9928
+1881,Dr Medhat Pharmacy - Obour,,Cairo,Obour,30.251737,31.44763,9,23,17,2025-04-29,0,2417
+1882,Golden Care Pharmacy - Obour,,Cairo,Obour,30.233891,31.462597,9,23,17,2024-10-14,0,8048
+1883,Pharma Plus,,Cairo,Obour,30.234038,31.468297,9,23,17,2025-08-27,0,2376
+1884,El Nasr Pharmacy,,Cairo,Obour,30.242589,31.47123,9,1,17,2025-07-22,0,7731
+1885,Star Care Pharmacy,,Cairo,Obour,30.22407,31.455151,9,23,17,2024-11-04,0,3363
+1886,Nile Care Pharmacy - Obour,,Cairo,Obour,30.242236,31.481257,9,23,17,2024-12-13,0,6713
+1887,Life Line Pharmacy - Helwan,,Cairo,Shubra,30.114765,31.251986,10,1,18,2025-02-13,2,3865
+1888,Ebn Sina Pharmacy,,Cairo,Shubra,30.088696,31.250432,9,23,18,2024-11-08,0,5314
+1889,Al Nozha Pharmacy - Shubra,,Cairo,Shubra,30.094564,31.256586,10,23,18,2025-06-14,0,5053
+1890,El Hokama Pharmacy,,Cairo,Shubra,30.081829,31.245911,8,23,18,2025-09-11,0,2861
+1891,Sunrise Pharmacy,,Cairo,Shubra,30.086466,31.247678,8,1,18,2025-08-28,0,3131
+1892,Mira Pharmacy,,Cairo,Shubra,30.083864,31.257887,9,23,18,2025-05-07,0,3539
+1893,Metro Pharmacy,,Cairo,Shubra,30.083076,31.260953,8,23,18,2024-10-07,0,2697
+1894,Green Leaf Pharmacy - Shubra,,Cairo,Shubra,30.100343,31.234445,9,2,18,2025-02-05,0,2512
+1895,Nile Care Pharmacy - Shubra,,Cairo,Shubra,30.084352,31.238606,9,23,18,2024-09-05,2,2825
+1896,Family Pharmacy - Shubra,,Cairo,Shubra,30.113487,31.247612,10,23,18,2025-02-15,1,6133
+1897,El Nasr Pharmacy,,Cairo,Shubra,30.106237,31.262015,8,23,18,2025-08-05,0,5514
+1898,Care 24 Seven - Square,,Cairo,Shubra,30.093614,31.256112,9,1,18,2025-06-30,0,7035
+1899,El Zahraa Pharmacy,,Cairo,Shubra,30.086277,31.24993,10,1,18,2025-05-28,0,3617
+1900,Al Amal Pharmacy,,Cairo,Shubra,30.10129,31.251645,9,23,18,2024-10-25,0,2080
+1901,Mira Pharmacy - Maadi,,Cairo,Shubra,30.091254,31.252017,10,23,18,2025-04-22,1,6052
+1902,El Zahraa Pharmacy - Shubra,,Cairo,Shubra,30.10289,31.264762,8,2,18,2025-05-21,0,2638
+1903,Golden Care Pharmacy - Shubra,,Cairo,Shubra,30.093575,31.25661,10,23,18,2024-09-12,1,5476
+1904,Hope Pharmacy,,Cairo,Shubra,30.104763,31.256836,8,1,18,2024-12-30,0,9489
+1905,El Zahraa Pharmacy - Helwan,,Cairo,Shubra,30.083323,31.260335,9,23,18,2025-04-11,0,7739
+1906,Green Leaf Pharmacy,,Cairo,Shubra,30.116776,31.23722,10,23,18,2024-10-05,0,5286
+1907,Golden Care Pharmacy,,Cairo,Shubra,30.083071,31.244021,9,23,18,2025-02-14,0,6776
+1908,Sunrise Pharmacy - Shubra,,Cairo,Shubra,30.096095,31.257104,8,23,18,2024-10-17,0,4756
+1909,Salamtek Pharmacy - Shubra,,Cairo,Shubra,30.110651,31.243469,9,23,18,2025-02-14,0,6200
+1910,Angel Pharmacy - Shubra,,Cairo,Shubra,30.096585,31.232721,9,23,18,2025-02-11,0,5188
+1911,Family Pharmacy - Shubra,,Cairo,Shubra,30.082013,31.255283,9,23,18,2024-12-20,0,1201
+1912,Metro Pharmacy - Zayed,,Cairo,Shubra,30.088624,31.255503,9,1,18,2025-04-10,0,9977
+1913,El Baraka Pharmacy - Square,,Cairo,Shubra,30.095626,31.262919,9,1,18,2025-06-03,0,8281
+1914,Pharma Plus - Maadi,,Cairo,Shubra,30.090027,31.248303,10,2,18,2024-09-09,0,6577
+1915,Alpha Pharma - Shubra,,Cairo,Shubra,30.109863,31.24659,9,23,18,2024-11-13,0,2621
+1916,Mira Pharmacy,,Cairo,Shubra,30.091529,31.238194,8,23,18,2025-08-07,0,1185
+1917,Hope Pharmacy - Obour,,Cairo,Shubra,30.110559,31.232566,10,23,18,2025-01-28,0,9712
+1918,Hope Pharmacy - Obour,,Cairo,Shubra,30.110814,31.261061,9,23,18,2025-03-02,2,4175
+1919,Nile Care Pharmacy - Zayed,,Cairo,Shubra,30.087314,31.263732,9,1,18,2025-08-18,0,3127
+1920,El Zahraa Pharmacy,,Cairo,Shubra,30.107947,31.230755,9,1,18,2024-11-23,0,8264
+1921,Dr Medhat Pharmacy,,Cairo,Shubra,30.097529,31.254859,9,23,18,2024-10-28,0,5422
+1922,Angel Pharmacy - Haram,,Cairo,Shubra,30.101079,31.257064,9,23,18,2025-08-02,0,5114
+1923,City Care Pharmacy,,Cairo,Shubra,30.092636,31.260695,9,23,18,2024-12-12,0,3051
+1924,Nile Care Pharmacy - Smouha,,Cairo,Shubra,30.09619,31.252996,10,1,18,2025-09-04,0,7093
+1925,El Faraby Pharmacy - Oct City,,Cairo,Shubra,30.10799,31.238952,9,23,18,2025-01-20,0,3609
+1926,Mira Pharmacy - Shubra,,Cairo,Shubra,30.086749,31.263223,9,23,18,2024-09-25,0,8347
+1927,El Baraka Pharmacy,,Cairo,Shubra,30.114201,31.263772,8,2,18,2025-06-28,1,1244
+1928,Family Pharmacy,,Cairo,Shubra,30.082641,31.249613,9,23,18,2024-10-29,2,3371
+1929,Al Amal Pharmacy - Haram,,Cairo,Shubra,30.112596,31.23778,9,23,18,2024-10-04,0,5635
+1930,Pharma Plus,,Cairo,Shubra,30.094278,31.240832,9,2,18,2025-01-03,0,4444
+1931,Seha First Pharmacy - Agami,,Cairo,Shubra,30.116926,31.252579,8,23,18,2024-09-16,2,3491
+1932,Star Care Pharmacy - Imbaba,,Cairo,Shubra,30.10328,31.239068,8,23,18,2025-03-01,0,3019
+1933,Sunrise Pharmacy - Shubra,,Cairo,Shubra,30.110777,31.263235,8,23,18,2025-07-23,1,9170
+1934,Silver Care Pharmacy - Helwan,,Cairo,Shubra,30.083197,31.244171,9,23,18,2024-12-02,1,8634
+1935,Metro Pharmacy,,Cairo,Shubra,30.101017,31.241209,8,23,18,2025-06-17,0,5340
+1936,Ebn Sina Pharmacy - Haram,,Cairo,Shubra,30.106019,31.238192,9,1,18,2025-04-20,0,3086
+1937,Dr Medhat Pharmacy - Shubra,,Cairo,Shubra,30.117179,31.236094,9,23,18,2024-10-14,0,5255
+1938,Ebn Sina Pharmacy - Shubra,,Cairo,Shubra,30.081952,31.252638,8,23,18,2024-10-16,0,1075
+1939,El Faraby Pharmacy - Shubra,,Cairo,Shubra,30.114847,31.238128,9,1,18,2025-08-17,0,4909
+1940,Misr Pharmacy - Imbaba,,Cairo,Shubra,30.095423,31.231648,10,23,18,2025-08-09,1,3355
+1941,Life Line Pharmacy - Shubra,,Cairo,Shubra,30.117082,31.25866,9,23,18,2024-11-30,0,8878
+1942,Sunrise Pharmacy,,Cairo,Shubra,30.103038,31.261841,9,1,18,2025-06-16,0,2893
+1943,El Nasr Pharmacy,,Cairo,Shubra,30.11174,31.248977,10,23,18,2025-06-30,0,4826
+1944,Dr Medhat Pharmacy - Shubra,,Cairo,Shubra,30.099072,31.235662,9,23,18,2024-10-19,0,2326
+1945,El Hokama Pharmacy - Smouha,,Cairo,Zamalek,30.067424,31.202672,8,23,19,2024-12-20,0,9732
+1946,Omega Pharmacy,,Cairo,Zamalek,30.057115,31.212649,9,23,19,2025-02-21,0,3621
+1947,El Hokama Pharmacy - Banha,,Cairo,Zamalek,30.068382,31.214865,9,23,19,2025-01-27,0,3927
+1948,Seha First Pharmacy,,Cairo,Zamalek,30.06652,31.203382,9,23,19,2025-04-02,0,6068
+1949,Al Nozha Pharmacy - Zamalek,,Cairo,Zamalek,30.044655,31.230719,8,1,19,2025-01-09,0,8423
+1950,Angel Pharmacy - Zamalek,,Cairo,Zamalek,30.058532,31.202348,9,23,19,2025-05-16,0,1923
+1951,Pharma Plus - Zayed,,Cairo,Zamalek,30.074209,31.232772,9,23,19,2024-10-08,0,8147
+1952,Health Gate Pharmacy,,Cairo,Zamalek,30.067333,31.228935,8,23,19,2024-12-31,0,2938
+1953,El Zahraa Pharmacy - Dokki,,Cairo,Zamalek,30.065834,31.230495,9,23,19,2025-05-20,0,4886
+1954,Mira Pharmacy,,Cairo,Zamalek,30.07758,31.228247,8,23,19,2024-12-27,0,8989
+1955,El Hokama Pharmacy - Zamalek,,Cairo,Zamalek,30.045399,31.224482,9,23,19,2025-02-11,0,4248
+1956,Dr Medhat Pharmacy - Nozha,,Cairo,Zamalek,30.043393,31.208902,9,23,19,2024-09-05,0,2101
+1957,Family Pharmacy - Maadi,,Cairo,Zamalek,30.073495,31.215773,9,23,19,2024-09-27,0,9045
+1958,Pharma Plus - Zamalek,,Cairo,Zamalek,30.048407,31.210849,9,1,19,2025-05-02,0,4089
+1959,Star Care Pharmacy - Zamalek,,Cairo,Zamalek,30.054622,31.231286,8,23,19,2025-06-28,0,6319
+1960,Mira Pharmacy,,Cairo,Zamalek,30.074265,31.231681,9,23,19,2025-01-30,2,2271
+1961,Nile Care Pharmacy,,Cairo,Zamalek,30.047391,31.212003,10,23,19,2024-12-02,0,7481
+1962,El Zahraa Pharmacy - Smouha,,Cairo,Zamalek,30.074684,31.20742,10,23,19,2025-01-31,0,4276
+1963,Al Amal Pharmacy,,Cairo,Zamalek,30.064577,31.227345,10,23,19,2025-03-09,0,7500
+1964,Sunrise Pharmacy - Montaza,,Cairo,Zamalek,30.055699,31.22163,8,23,19,2025-06-07,0,3930
+1965,Sunrise Pharmacy,,Cairo,Zamalek,30.051024,31.215217,9,23,19,2025-04-12,0,9818
+1966,El Shifa Pharmacy - Maadi,,Cairo,Zamalek,30.058623,31.236674,9,23,19,2025-08-05,0,5029
+1967,Health Gate Pharmacy,,Giza,6th of October,29.984552,30.938533,9,23,20,2025-06-12,0,6265
+1968,Star Care Pharmacy - Zayed,,Giza,6th of October,29.974827,30.946867,9,23,20,2024-10-14,0,5469
+1969,Salamtek Pharmacy - Agami,,Giza,6th of October,29.974251,30.941053,9,1,20,2025-07-02,0,8061
+1970,Golden Care Pharmacy - 6th,,Giza,6th of October,29.983269,30.925008,10,2,20,2024-09-30,1,3446
+1971,Salamtek Pharmacy - Obour,,Giza,6th of October,29.971007,30.944181,9,23,20,2025-09-15,0,8686
+1972,Mira Pharmacy - Zayed,,Giza,6th of October,29.985806,30.928885,9,1,20,2025-03-17,0,8165
+1973,Better Life Pharmacy - 6th,,Giza,6th of October,29.975006,30.940146,9,1,20,2025-05-05,0,9870
+1974,El Faraby Pharmacy,,Giza,6th of October,29.9656,30.945021,9,23,20,2025-09-15,0,9581
+1975,Ebn Sina Pharmacy - 6th,,Giza,6th of October,29.963824,30.95102,9,23,20,2024-10-24,0,4362
+1976,Metro Pharmacy - Haram,,Giza,6th of October,29.96181,30.937651,10,23,20,2025-08-18,0,1837
+1977,Golden Care Pharmacy - Dokki,,Giza,6th of October,29.964733,30.93879,10,23,20,2025-04-01,0,8944
+1978,El Zahraa Pharmacy,,Giza,6th of October,29.97345,30.93917,10,1,20,2025-07-01,1,8676
+1979,Golden Care Pharmacy - Square,,Giza,6th of October,29.988602,30.948153,8,23,20,2025-01-31,0,5898
+1980,Green Leaf Pharmacy - Square,,Giza,6th of October,29.960492,30.932465,9,23,20,2024-10-04,0,3474
+1981,Al Amal Pharmacy,,Giza,6th of October,29.968064,30.927768,9,23,20,2025-01-24,0,1455
+1982,Al Nozha Pharmacy - 6th,,Giza,6th of October,29.96909,30.926809,8,1,20,2025-05-27,0,7597
+1983,Star Care Pharmacy,,Giza,6th of October,29.983069,30.936825,8,1,20,2025-07-26,0,5556
+1984,Care 24 Seven - 6th,,Giza,6th of October,29.976369,30.943493,9,1,20,2025-04-05,1,2108
+1985,Seha First Pharmacy - Haram,,Giza,6th of October,29.986701,30.931694,9,1,20,2025-02-05,1,1164
+1986,El Zahraa Pharmacy - Agami,,Giza,6th of October,29.986146,30.932682,9,2,20,2025-01-21,1,5965
+1987,El Nasr Pharmacy,,Giza,6th of October,29.982179,30.925989,9,23,20,2025-01-18,0,4136
+1988,El Hokama Pharmacy,,Giza,6th of October,29.968157,30.952696,8,23,20,2025-01-03,0,8373
+1989,Family Pharmacy,,Giza,6th of October,29.981036,30.933317,9,23,20,2024-10-26,0,7878
+1990,Nile Care Pharmacy,,Giza,6th of October,29.977445,30.939523,9,23,20,2024-12-06,0,7456
+1991,Life Line Pharmacy - Montaza,,Giza,6th of October,29.966745,30.950893,8,23,20,2025-03-04,0,3829
+1992,Metro Pharmacy - 6th,,Giza,6th of October,29.97825,30.924904,8,1,20,2025-06-07,0,8784
+1993,El Faraby Pharmacy,,Giza,6th of October,29.968506,30.931486,9,23,20,2024-12-13,0,7424
+1994,El Baraka Pharmacy,,Giza,6th of October,29.978293,30.943604,9,23,20,2024-11-07,0,7269
+1995,Life Line Pharmacy - 6th,,Giza,6th of October,29.964938,30.951235,8,23,20,2024-11-21,0,2131
+1996,El Hokama Pharmacy,,Giza,6th of October,29.98122,30.925839,9,23,20,2025-08-05,0,4368
+1997,El Zahraa Pharmacy,,Giza,6th of October,29.989437,30.945894,9,1,20,2025-08-29,0,4102
+1998,El Zahraa Pharmacy - Haram,,Giza,6th of October,29.978726,30.923454,9,1,20,2025-04-10,0,5050
+1999,Seha First Pharmacy - 6th,,Giza,6th of October,29.965305,30.947793,10,23,20,2024-09-28,0,3816
+2000,Pharma Plus,,Giza,6th of October,29.974458,30.937226,8,2,20,2024-10-25,0,5373
+2001,Al Nozha Pharmacy - Smouha,,Giza,6th of October,29.962715,30.948264,9,2,20,2024-12-17,0,3641
+2002,Seha First Pharmacy - 6th,,Giza,6th of October,29.974786,30.944434,9,1,20,2025-04-11,0,4499
+2003,Health Gate Pharmacy - Banha,,Giza,6th of October,29.985268,30.923391,10,23,20,2025-08-18,0,3781
+2004,City Care Pharmacy,,Giza,6th of October,29.991616,30.943375,8,23,20,2025-03-24,0,9694
+2005,Ebn Sina Pharmacy - Nozha,,Giza,6th of October,29.987916,30.951587,9,1,20,2025-04-25,0,1071
+2006,Pharma Plus - Zayed,,Giza,6th of October,29.96296,30.925812,9,23,20,2025-08-25,0,3158
+2007,Dr Medhat Pharmacy,,Giza,6th of October,29.958025,30.939552,9,1,20,2024-09-11,0,8648
+2008,Family Pharmacy - 6th,,Giza,6th of October,29.972149,30.935137,8,23,20,2025-08-18,1,9914
+2009,Misr Pharmacy,,Giza,6th of October,29.957164,30.921591,8,23,20,2025-08-25,0,8143
+2010,Al Nozha Pharmacy - 6th,,Giza,6th of October,29.962257,30.94594,9,23,20,2024-10-25,1,7046
+2011,El Nasr Pharmacy - 6th,,Giza,6th of October,29.977097,30.923304,9,23,20,2025-07-24,0,3115
+2012,Misr Pharmacy,,Giza,6th of October,29.959054,30.950466,10,23,20,2025-05-31,0,3269
+2013,Seha First Pharmacy - 6th,,Giza,6th of October,29.986941,30.954125,10,23,20,2025-01-16,1,1874
+2014,City Care Pharmacy - Haram,,Giza,6th of October,29.986004,30.927567,8,1,20,2024-12-09,0,6012
+2015,Elite Pharmacy,,Giza,6th of October,29.980871,30.922714,9,23,20,2025-07-26,0,7616
+2016,El Hokama Pharmacy,,Giza,6th of October,29.991011,30.920001,9,23,20,2024-09-04,0,9338
+2017,Care 24 Seven - 6th,,Giza,6th of October,29.958357,30.926662,9,2,20,2025-02-21,0,5856
+2018,Angel Pharmacy,,Giza,6th of October,29.981155,30.946353,9,23,20,2025-02-17,1,4675
+2019,El Baraka Pharmacy - 6th,,Giza,6th of October,29.968873,30.947998,8,23,20,2024-10-18,0,2418
+2020,El Shifa Pharmacy,,Giza,6th of October,29.98025,30.940164,9,1,20,2025-01-10,0,1278
+2021,Mira Pharmacy,,Giza,6th of October,29.977357,30.923883,8,23,20,2025-06-11,0,1737
+2022,El Faraby Pharmacy - Marg,,Giza,6th of October,29.962933,30.952692,10,23,20,2025-06-01,0,1736
+2023,Alpha Pharma - Square,,Giza,6th of October,29.956222,30.950548,10,23,20,2025-03-06,0,4573
+2024,Hope Pharmacy - Dokki,,Giza,6th of October,29.956053,30.953812,9,23,20,2024-09-05,0,7535
+2025,Life Line Pharmacy,,Giza,6th of October,29.964904,30.926115,10,2,20,2025-06-29,0,1877
+2026,El Zahraa Pharmacy,,Giza,6th of October,29.95726,30.932403,8,23,20,2024-09-26,0,9929
+2027,Union Pharm - Rehab View,,Giza,6th of October,29.988355,30.929545,8,1,20,2025-05-23,0,7794
+2028,Pharma Plus,,Giza,6th of October,29.97516,30.93782,9,1,20,2024-10-19,0,2412
+2029,Better Life Pharmacy - 6th,,Giza,6th of October,29.985616,30.930422,8,23,20,2025-04-17,0,1586
+2030,Blue Wave Pharmacy - Shubra,,Giza,6th of October,29.96299,30.94377,8,23,20,2024-11-27,0,6214
+2031,Silver Care Pharmacy - Haram,,Giza,6th of October,29.965908,30.922372,8,23,20,2025-07-18,0,2641
+2032,El Zahraa Pharmacy - Imbaba,,Giza,6th of October,29.980102,30.921761,8,1,20,2024-09-08,2,2014
+2033,El Shifa Pharmacy - Zayed,,Giza,6th of October,29.98412,30.926883,9,23,20,2025-05-31,0,9169
+2034,Blue Wave Pharmacy,,Giza,6th of October,29.96358,30.955114,8,23,20,2024-11-10,0,8754
+2035,Mira Pharmacy - 6th,,Giza,6th of October,29.95601,30.954127,9,1,20,2025-07-14,0,6632
+2036,Omega Pharmacy - 6th,,Giza,6th of October,29.968239,30.931696,8,23,20,2024-09-28,2,9075
+2037,Blue Wave Pharmacy - Montaza,,Giza,6th of October,29.964232,30.928894,8,23,20,2025-05-09,0,9017
+2038,Al Amal Pharmacy - Faisal,,Giza,6th of October,29.983141,30.950982,9,1,20,2025-08-31,0,1701
+2039,Sunrise Pharmacy,,Giza,6th of October,29.967689,30.927027,9,1,20,2025-04-14,0,7605
+2040,Omega Pharmacy - 6th,,Giza,6th of October,29.972262,30.937586,8,23,20,2024-10-07,2,5554
+2041,Elite Pharmacy,,Giza,6th of October,29.975445,30.945458,8,23,20,2024-11-05,1,8786
+2042,El Baraka Pharmacy,,Giza,6th of October,29.969378,30.940914,10,23,20,2025-04-18,0,8087
+2043,Elite Pharmacy,,Giza,6th of October,29.979653,30.937588,10,2,20,2025-05-04,0,2738
+2044,Elite Pharmacy,,Giza,6th of October,29.965102,30.92092,9,1,20,2025-03-03,0,3639
+2045,Sunrise Pharmacy - Agami,,Giza,6th of October,29.986804,30.924943,9,23,20,2024-11-12,0,6007
+2046,Better Life Pharmacy,,Giza,6th of October,29.973951,30.928108,10,23,20,2025-04-23,0,9040
+2047,Care 24 Seven,,Giza,6th of October,29.967259,30.953143,9,2,20,2024-09-12,0,9240
+2048,Nile Care Pharmacy,,Giza,6th of October,29.957777,30.926685,9,23,20,2024-12-07,0,5917
+2049,Ebn Sina Pharmacy - 6th,,Giza,6th of October,29.957179,30.942023,9,23,20,2025-06-04,0,3388
+2050,Nile Care Pharmacy,,Giza,6th of October,29.97959,30.952211,9,23,20,2024-11-03,0,1870
+2051,Golden Care Pharmacy,,Giza,6th of October,29.989656,30.940848,10,23,20,2025-06-25,0,2923
+2052,Nile Care Pharmacy,,Giza,6th of October,29.975188,30.928449,9,23,20,2024-12-16,0,7013
+2053,Omega Pharmacy - Oct City,,Giza,6th of October,29.967691,30.946063,8,23,20,2025-03-31,0,2563
+2054,Care 24 Seven,,Giza,6th of October,29.964822,30.948132,9,23,20,2024-10-25,0,7117
+2055,Better Life Pharmacy - Agouza,,Giza,Agouza,30.052324,31.211149,9,23,21,2025-05-23,0,7270
+2056,Dr Medhat Pharmacy - Imbaba,,Giza,Agouza,30.044937,31.20608,8,23,21,2025-06-29,0,5761
+2057,Silver Care Pharmacy,,Giza,Agouza,30.062306,31.203292,8,23,21,2024-09-15,2,5892
+2058,Angel Pharmacy,,Giza,Agouza,30.052393,31.22999,8,23,21,2025-07-23,0,2215
+2059,Salamtek Pharmacy,,Giza,Agouza,30.059057,31.227598,8,23,21,2025-02-03,0,3918
+2060,El Baraka Pharmacy - Marg,,Giza,Agouza,30.065781,31.216277,9,23,21,2024-11-18,0,8302
+2061,Elite Pharmacy - Haram,,Giza,Agouza,30.049233,31.2157,9,2,21,2025-07-26,0,1222
+2062,El Zahraa Pharmacy - Obour,,Giza,Agouza,30.079585,31.199541,8,1,21,2025-05-11,0,3545
+2063,Omega Pharmacy - Agouza,,Giza,Agouza,30.053387,31.202308,8,1,21,2025-03-31,0,5077
+2064,Alpha Pharma,,Giza,Agouza,30.066374,31.205617,8,2,21,2024-12-11,0,3774
+2065,El Nasr Pharmacy,,Giza,Agouza,30.055268,31.208118,8,1,21,2025-06-16,0,7592
+2066,Omega Pharmacy - Agami,,Giza,Agouza,30.056106,31.228115,9,23,21,2025-01-27,0,3201
+2067,Angel Pharmacy - Nozha,,Giza,Agouza,30.046402,31.233858,8,1,21,2025-02-03,0,4501
+2068,Union Pharm - Zayed,,Giza,Agouza,30.045132,31.202953,9,23,21,2025-01-29,0,1479
+2069,Better Life Pharmacy - Nozha,,Giza,Agouza,30.063722,31.215369,9,23,21,2025-06-15,0,6435
+2070,Mira Pharmacy,,Giza,Agouza,30.068628,31.206802,9,23,21,2025-05-23,2,2425
+2071,El Zahraa Pharmacy - Agouza,,Giza,Agouza,30.055963,31.222211,9,23,21,2025-02-15,0,8129
+2072,Health Gate Pharmacy - Zayed,,Giza,Agouza,30.060689,31.218864,8,1,21,2025-05-08,0,7871
+2073,Blue Wave Pharmacy,,Giza,Agouza,30.045747,31.209092,8,1,21,2025-06-05,0,9256
+2074,Pharma Plus - Agouza,,Giza,Agouza,30.057353,31.211047,10,23,21,2025-04-30,0,9276
+2075,Health Gate Pharmacy - Agouza,,Giza,Agouza,30.057186,31.208727,8,23,21,2025-08-07,0,1312
+2076,Elite Pharmacy - Agami,,Giza,Agouza,30.070076,31.208289,8,23,21,2025-05-13,0,5947
+2077,Ebn Sina Pharmacy - Agouza,,Giza,Agouza,30.072623,31.220208,10,2,21,2025-01-02,0,8202
+2078,El Zahraa Pharmacy,,Giza,Agouza,30.079662,31.225716,8,23,21,2024-10-21,0,8251
+2079,Dr Medhat Pharmacy,,Giza,Agouza,30.060789,31.219537,9,1,21,2025-06-27,0,8772
+2080,Elite Pharmacy - Dokki,,Giza,Agouza,30.056815,31.226526,10,23,21,2025-04-30,0,2695
+2081,Better Life Pharmacy - Agami,,Giza,Agouza,30.079321,31.22577,9,23,21,2025-08-30,2,8603
+2082,Family Pharmacy - Faisal,,Giza,Agouza,30.050227,31.223764,9,23,21,2025-07-30,0,6792
+2083,Hope Pharmacy,,Giza,Agouza,30.074401,31.233709,8,23,21,2025-03-28,0,3577
+2084,Sunrise Pharmacy - Montaza,,Giza,Agouza,30.057703,31.202494,8,23,21,2024-12-06,0,5189
+2085,Omega Pharmacy,,Giza,Agouza,30.059988,31.206687,9,23,21,2024-09-25,0,4099
+2086,Al Amal Pharmacy - Faisal,,Giza,Agouza,30.074174,31.211522,9,23,21,2025-02-02,0,2092
+2087,Ebn Sina Pharmacy - Agouza,,Giza,Agouza,30.046465,31.202928,9,23,21,2025-05-02,0,4235
+2088,Green Leaf Pharmacy - Agouza,,Giza,Agouza,30.060968,31.212113,8,23,21,2025-06-10,0,9132
+2089,Salamtek Pharmacy - Agouza,,Giza,Agouza,30.054859,31.205754,9,23,21,2025-06-08,0,1741
+2090,El Shifa Pharmacy - Helwan,,Giza,Agouza,30.065028,31.208938,8,23,21,2024-09-17,0,7733
+2091,Metro Pharmacy - Obour,,Giza,Agouza,30.061392,31.224573,9,23,21,2025-05-27,0,8518
+2092,Nile Care Pharmacy - Agouza,,Giza,Agouza,30.050111,31.232503,8,23,21,2025-04-18,0,5419
+2093,Green Leaf Pharmacy,,Giza,Agouza,30.058751,31.200803,8,23,21,2025-06-09,0,2745
+2094,Green Leaf Pharmacy,,Giza,Agouza,30.072547,31.210021,10,2,21,2024-09-23,0,3576
+2095,Star Care Pharmacy - Agouza,,Giza,Agouza,30.051755,31.223939,10,23,21,2025-08-29,0,2888
+2096,Green Leaf Pharmacy,,Giza,Agouza,30.061208,31.22744,9,23,21,2025-05-26,0,2347
+2097,Silver Care Pharmacy - Dokki,,Giza,Agouza,30.071351,31.216549,8,23,21,2025-06-29,0,4050
+2098,Green Leaf Pharmacy - Maadi,,Giza,Agouza,30.049872,31.200737,9,23,21,2025-07-06,0,6283
+2099,Metro Pharmacy,,Giza,Ard El Lewa,29.985359,31.203163,9,1,22,2024-12-19,0,6321
+2100,City Care Pharmacy - Rehab View,,Giza,Ard El Lewa,29.986972,31.221766,10,23,22,2025-08-06,0,6933
+2101,Alpha Pharma - Rehab View,,Giza,Ard El Lewa,29.971618,31.192531,8,2,22,2025-02-03,0,8902
+2102,Silver Care Pharmacy - Marg,,Giza,Ard El Lewa,29.99616,31.194595,9,23,22,2025-09-07,0,4414
+2103,Al Amal Pharmacy,,Giza,Ard El Lewa,29.983748,31.222857,9,23,22,2024-11-28,0,8760
+2104,Pharma Plus - Dokki,,Giza,Ard El Lewa,29.997284,31.219133,9,23,22,2024-09-10,0,9320
+2105,Golden Care Pharmacy - Imbaba,,Giza,Ard El Lewa,29.996579,31.226982,9,23,22,2025-07-28,0,2803
+2106,El Hokama Pharmacy - Ard,,Giza,Ard El Lewa,29.975572,31.215351,9,23,22,2025-02-10,0,2849
+2107,Nile Care Pharmacy - Ard,,Giza,Ard El Lewa,29.968228,31.197798,10,23,22,2024-10-31,0,9863
+2108,Al Nozha Pharmacy,,Giza,Ard El Lewa,29.978266,31.203182,9,1,22,2025-08-07,0,9916
+2109,Seha First Pharmacy,,Giza,Ard El Lewa,29.969247,31.199189,9,23,22,2025-06-01,0,7969
+2110,Star Care Pharmacy,,Giza,Ard El Lewa,29.984192,31.222431,9,2,22,2024-09-27,0,3551
+2111,Better Life Pharmacy - Imbaba,,Giza,Ard El Lewa,30.000892,31.222421,9,23,22,2025-04-07,2,2978
+2112,Metro Pharmacy - Ard,,Giza,Ard El Lewa,30.001384,31.203166,9,23,22,2025-02-11,0,1354
+2113,El Zahraa Pharmacy - Ard,,Giza,Ard El Lewa,30.000773,31.199978,9,23,22,2024-09-27,1,7464
+2114,Nile Care Pharmacy,,Giza,Ard El Lewa,29.980262,31.221486,10,1,22,2025-08-27,0,9495
+2115,El Nasr Pharmacy - Ard,,Giza,Ard El Lewa,29.971059,31.197721,9,23,22,2025-04-14,0,6302
+2116,Star Care Pharmacy - Ard,,Giza,Ard El Lewa,29.989967,31.222982,9,1,22,2024-09-12,0,1292
+2117,Better Life Pharmacy - Square,,Giza,Ard El Lewa,29.973055,31.20366,9,23,22,2025-04-09,0,6204
+2118,Metro Pharmacy - Ard,,Giza,Ard El Lewa,29.975063,31.209034,8,23,22,2024-09-04,0,9797
+2119,Alpha Pharma,,Giza,Ard El Lewa,29.983102,31.202461,9,23,22,2025-02-12,0,7331
+2120,Sunrise Pharmacy - Ard,,Giza,Ard El Lewa,29.971329,31.214291,8,23,22,2024-10-16,0,3348
+2121,Sunrise Pharmacy,,Giza,Ard El Lewa,29.999709,31.224273,9,2,22,2025-02-05,0,4507
+2122,Al Nozha Pharmacy,,Giza,Ard El Lewa,30.002282,31.207699,9,23,22,2025-01-06,0,3254
+2123,Al Amal Pharmacy - Ard,,Giza,Ard El Lewa,29.995608,31.22027,9,23,22,2025-01-15,0,3539
+2124,Health Gate Pharmacy - Ard,,Giza,Ard El Lewa,29.972323,31.209509,9,23,22,2025-01-20,0,7266
+2125,El Faraby Pharmacy - Zayed,,Giza,Ard El Lewa,29.968349,31.192863,9,23,22,2025-06-20,0,2684
+2126,Alpha Pharma,,Giza,Ard El Lewa,29.981685,31.205683,9,23,22,2025-08-28,0,5240
+2127,El Shifa Pharmacy - Ard,,Giza,Ard El Lewa,29.978404,31.210328,8,1,22,2025-08-10,1,7845
+2128,El Hokama Pharmacy - Ard,,Giza,Ard El Lewa,29.993197,31.19657,9,23,22,2025-01-21,0,8477
+2129,Union Pharm - Shubra,,Giza,Ard El Lewa,29.972578,31.217122,9,23,22,2025-08-19,0,7721
+2130,Pharma Plus - Ard,,Giza,Ard El Lewa,29.971111,31.226269,9,23,22,2025-05-18,0,9704
+2131,Star Care Pharmacy - Ard,,Giza,Ard El Lewa,29.982803,31.214022,8,1,22,2025-06-16,0,7847
+2132,El Baraka Pharmacy - Obour,,Giza,Ard El Lewa,29.973299,31.225689,9,23,22,2025-06-04,0,3081
+2133,Dr Medhat Pharmacy - Nozha,,Giza,Ard El Lewa,29.974559,31.226943,8,23,22,2024-11-11,0,1393
+2134,El Zahraa Pharmacy - Obour,,Giza,Ard El Lewa,29.979032,31.198302,8,1,22,2025-02-28,0,2028
+2135,Alpha Pharma - Banha,,Giza,Boulak Dakrour,30.067572,31.190847,10,23,23,2025-08-15,0,1817
+2136,Green Leaf Pharmacy - Helwan,,Giza,Boulak Dakrour,30.058031,31.209474,9,23,23,2025-03-10,0,3882
+2137,El Zahraa Pharmacy,,Giza,Boulak Dakrour,30.082471,31.177476,9,1,23,2025-07-30,0,1284
+2138,Health Gate Pharmacy - Obour,,Giza,Boulak Dakrour,30.085417,31.186724,10,2,23,2024-09-27,0,2838
+2139,El Zahraa Pharmacy - Boulak,,Giza,Boulak Dakrour,30.063588,31.201499,9,23,23,2025-05-06,0,7696
+2140,Angel Pharmacy,,Giza,Boulak Dakrour,30.071696,31.2097,9,2,23,2025-06-19,0,1382
+2141,Mira Pharmacy - Boulak,,Giza,Boulak Dakrour,30.086815,31.192709,9,23,23,2025-02-23,0,3018
+2142,Ebn Sina Pharmacy - Boulak,,Giza,Boulak Dakrour,30.072853,31.211954,9,2,23,2025-03-26,0,7934
+2143,Life Line Pharmacy - Boulak,,Giza,Boulak Dakrour,30.089209,31.193368,10,23,23,2024-10-12,0,4487
+2144,Sunrise Pharmacy - Boulak,,Giza,Boulak Dakrour,30.07067,31.1762,9,1,23,2024-09-25,0,3196
+2145,Nile Care Pharmacy - Dokki,,Giza,Boulak Dakrour,30.070806,31.200687,9,23,23,2025-03-22,0,5250
+2146,Union Pharm - Boulak,,Giza,Boulak Dakrour,30.066956,31.204197,9,1,23,2025-02-16,0,5730
+2147,Golden Care Pharmacy,,Giza,Boulak Dakrour,30.086999,31.199338,9,1,23,2025-05-08,0,5765
+2148,Star Care Pharmacy,,Giza,Boulak Dakrour,30.065449,31.176795,8,23,23,2025-01-24,0,1771
+2149,Life Line Pharmacy - Boulak,,Giza,Boulak Dakrour,30.061215,31.201033,9,23,23,2024-09-10,0,8914
+2150,City Care Pharmacy - Boulak,,Giza,Boulak Dakrour,30.05762,31.209672,9,1,23,2024-10-06,0,2639
+2151,Union Pharm - Agami,,Giza,Boulak Dakrour,30.080047,31.205412,9,23,23,2025-03-21,0,7143
+2152,Salamtek Pharmacy - Boulak,,Giza,Boulak Dakrour,30.08246,31.202322,8,23,23,2024-09-19,0,4993
+2153,Mira Pharmacy - Boulak,,Giza,Boulak Dakrour,30.059252,31.203968,10,2,23,2025-09-10,2,7531
+2154,Union Pharm,,Giza,Boulak Dakrour,30.066434,31.204779,9,23,23,2024-10-20,0,1191
+2155,Star Care Pharmacy - Maadi,,Giza,Boulak Dakrour,30.09102,31.207346,9,1,23,2025-06-03,0,1848
+2156,City Care Pharmacy - Nozha,,Giza,Boulak Dakrour,30.089128,31.178088,9,23,23,2025-01-10,0,9507
+2157,El Faraby Pharmacy - Boulak,,Giza,Boulak Dakrour,30.078862,31.197216,9,2,23,2025-03-10,0,4066
+2158,Elite Pharmacy,,Giza,Boulak Dakrour,30.066565,31.186259,9,23,23,2024-12-23,0,6629
+2159,Golden Care Pharmacy,,Giza,Boulak Dakrour,30.064741,31.206806,9,23,23,2025-01-16,1,7857
+2160,Dr Medhat Pharmacy - Imbaba,,Giza,Boulak Dakrour,30.091595,31.211632,9,23,23,2025-03-30,0,1895
+2161,El Zahraa Pharmacy - Boulak,,Giza,Boulak Dakrour,30.060457,31.188925,9,23,23,2025-07-14,1,4195
+2162,Al Amal Pharmacy,,Giza,Boulak Dakrour,30.058764,31.201303,9,23,23,2024-12-20,0,9198
+2163,Ebn Sina Pharmacy,,Giza,Boulak Dakrour,30.080521,31.205025,9,23,23,2025-08-28,0,2198
+2164,Salamtek Pharmacy - Haram,,Giza,Boulak Dakrour,30.086493,31.192509,8,23,23,2025-05-30,0,1804
+2165,Alpha Pharma - Zayed,,Giza,Boulak Dakrour,30.081292,31.180259,8,23,23,2025-07-09,0,8202
+2166,Misr Pharmacy,,Giza,Boulak Dakrour,30.085205,31.180595,8,1,23,2025-04-09,0,4577
+2167,Sunrise Pharmacy,,Giza,Boulak Dakrour,30.071556,31.191265,9,2,23,2024-12-15,0,2863
+2168,Al Amal Pharmacy - Marg,,Giza,Boulak Dakrour,30.087076,31.186691,9,23,23,2025-07-30,0,2545
+2169,City Care Pharmacy,,Giza,Boulak Dakrour,30.082676,31.20709,9,23,23,2024-12-13,0,3348
+2170,Al Nozha Pharmacy - Boulak,,Giza,Boulak Dakrour,30.089722,31.211519,10,23,23,2025-04-18,0,4919
+2171,El Zahraa Pharmacy,,Giza,Boulak Dakrour,30.067962,31.186056,10,23,23,2024-12-05,0,8985
+2172,Dr Medhat Pharmacy - Boulak,,Giza,Boulak Dakrour,30.073237,31.194866,9,23,23,2025-06-17,0,6085
+2173,Blue Wave Pharmacy - Boulak,,Giza,Boulak Dakrour,30.077266,31.188853,9,23,23,2025-08-29,0,2276
+2174,Green Leaf Pharmacy,,Giza,Boulak Dakrour,30.083489,31.206047,8,2,23,2025-06-03,2,6400
+2175,Pharma Plus - Dokki,,Giza,Dokki,30.023886,31.199727,9,23,24,2025-03-26,1,5171
+2176,El Shifa Pharmacy - Dokki,,Giza,Dokki,30.03828,31.226731,10,2,24,2025-06-13,1,4590
+2177,Star Care Pharmacy - Oct City,,Giza,Dokki,30.025514,31.206027,9,2,24,2024-11-12,0,6967
+2178,El Shifa Pharmacy - Agami,,Giza,Dokki,30.033443,31.195499,8,23,24,2024-10-16,0,5446
+2179,Hope Pharmacy,,Giza,Dokki,30.03516,31.220407,9,23,24,2025-06-07,0,3813
+2180,Sunrise Pharmacy - Faisal,,Giza,Dokki,30.036237,31.222687,9,23,24,2024-11-03,0,3029
+2181,Omega Pharmacy - Dokki,,Giza,Dokki,30.021941,31.215548,9,23,24,2025-08-21,0,5220
+2182,Pharma Plus - Square,,Giza,Dokki,30.02464,31.211164,9,23,24,2024-11-10,0,4320
+2183,Salamtek Pharmacy - Dokki,,Giza,Dokki,30.036719,31.226191,9,23,24,2024-10-13,0,7274
+2184,Family Pharmacy - Dokki,,Giza,Dokki,30.021497,31.197001,8,23,24,2025-01-15,0,2573
+2185,Misr Pharmacy,,Giza,Dokki,30.042071,31.208229,9,23,24,2024-12-31,0,2610
+2186,Omega Pharmacy - Dokki,,Giza,Dokki,30.03454,31.19543,9,23,24,2025-07-18,0,2737
+2187,Life Line Pharmacy - Dokki,,Giza,Dokki,30.049848,31.195213,8,23,24,2025-01-23,0,5697
+2188,Omega Pharmacy - Nozha,,Giza,Dokki,30.043415,31.206444,10,23,24,2025-08-19,0,9509
+2189,Blue Wave Pharmacy - Dokki,,Giza,Dokki,30.039649,31.22373,9,23,24,2025-02-26,0,5860
+2190,Pharma Plus,,Giza,Dokki,30.044166,31.201425,8,23,24,2025-02-19,0,2345
+2191,Hope Pharmacy - Dokki,,Giza,Dokki,30.049844,31.211971,10,1,24,2024-11-30,1,5239
+2192,Alpha Pharma,,Giza,Dokki,30.023525,31.197418,8,23,24,2025-07-14,0,8112
+2193,El Hokama Pharmacy - Faisal,,Giza,Dokki,30.055679,31.217453,9,23,24,2025-09-01,0,4961
+2194,Sunrise Pharmacy,,Giza,Dokki,30.021765,31.206792,9,23,24,2025-04-20,0,6919
+2195,El Shifa Pharmacy - Dokki,,Giza,Dokki,30.031386,31.198342,9,23,24,2025-01-08,0,3554
+2196,Sunrise Pharmacy,,Giza,Dokki,30.038248,31.21661,10,23,24,2025-03-18,0,2976
+2197,City Care Pharmacy - Imbaba,,Giza,Dokki,30.026912,31.201479,9,23,24,2025-05-30,0,3392
+2198,El Shifa Pharmacy,,Giza,Dokki,30.035609,31.210623,10,23,24,2025-02-06,0,2777
+2199,Nile Care Pharmacy - Maadi,,Giza,Dokki,30.025777,31.194955,9,23,24,2024-12-06,0,2554
+2200,El Nasr Pharmacy - Dokki,,Giza,Dokki,30.050795,31.221622,9,23,24,2024-10-28,0,7044
+2201,El Hokama Pharmacy - Marg,,Giza,Dokki,30.030508,31.219815,9,23,24,2024-11-12,0,6443
+2202,Hope Pharmacy,,Giza,Dokki,30.055703,31.21541,9,1,24,2024-10-19,0,1814
+2203,Angel Pharmacy,,Giza,Dokki,30.028686,31.222412,9,23,24,2025-09-05,0,6254
+2204,Al Amal Pharmacy - Dokki,,Giza,Dokki,30.026918,31.206317,9,23,24,2024-11-05,0,1005
+2205,Pharma Plus - Dokki,,Giza,Dokki,30.036329,31.211905,10,1,24,2025-05-25,0,8879
+2206,El Hokama Pharmacy - Dokki,,Giza,Dokki,30.032467,31.201011,10,23,24,2025-04-08,1,7055
+2207,Blue Wave Pharmacy,,Giza,Dokki,30.043766,31.199969,8,23,24,2025-04-12,0,3351
+2208,Star Care Pharmacy - Dokki,,Giza,Dokki,30.04318,31.218111,9,1,24,2025-04-10,0,6393
+2209,Dr Medhat Pharmacy - Agami,,Giza,Dokki,30.032211,31.210609,9,23,24,2025-04-07,0,2889
+2210,Al Amal Pharmacy - Dokki,,Giza,Dokki,30.03687,31.201838,9,23,24,2025-02-09,0,3688
+2211,El Hokama Pharmacy - Dokki,,Giza,Dokki,30.048431,31.197884,8,1,24,2024-11-22,0,1643
+2212,Ebn Sina Pharmacy,,Giza,Dokki,30.027611,31.228172,8,23,24,2025-03-02,1,3745
+2213,Elite Pharmacy - Dokki,,Giza,Dokki,30.022974,31.200082,10,23,24,2025-09-13,0,5766
+2214,Pharma Plus - Dokki,,Giza,Dokki,30.023885,31.217121,9,2,24,2025-02-17,0,9289
+2215,Alpha Pharma,,Giza,Dokki,30.034929,31.221906,9,23,24,2025-05-02,0,8734
+2216,El Shifa Pharmacy,,Giza,Dokki,30.025731,31.224562,9,23,24,2025-07-02,0,9110
+2217,Misr Pharmacy,,Giza,Dokki,30.054313,31.201959,8,1,24,2025-07-04,2,3846
+2218,Seha First Pharmacy - Marg,,Giza,Dokki,30.026527,31.21172,8,23,24,2025-08-18,2,3331
+2219,Star Care Pharmacy,,Giza,Dokki,30.022807,31.223137,9,23,24,2024-09-27,1,8283
+2220,City Care Pharmacy - Square,,Giza,Dokki,30.04047,31.222545,8,1,24,2025-03-11,1,9529
+2221,Metro Pharmacy - Dokki,,Giza,Dokki,30.040417,31.229652,9,23,24,2025-07-01,0,1634
+2222,El Nasr Pharmacy - Obour,,Giza,Dokki,30.05073,31.224809,8,23,24,2024-12-03,0,7063
+2223,Care 24 Seven - Dokki,,Giza,Dokki,30.031362,31.213972,8,23,24,2024-12-10,0,6326
+2224,Dr Medhat Pharmacy,,Giza,Dokki,30.051253,31.227032,8,23,24,2025-04-23,0,9390
+2225,El Baraka Pharmacy - Dokki,,Giza,Dokki,30.04275,31.222035,9,23,24,2024-11-10,0,8592
+2226,El Nasr Pharmacy - Oct City,,Giza,Dokki,30.04496,31.225934,10,1,24,2025-03-12,0,9900
+2227,Ebn Sina Pharmacy - Shubra,,Giza,Dokki,30.025394,31.205302,10,1,24,2024-10-18,0,8579
+2228,Nile Care Pharmacy - Imbaba,,Giza,Dokki,30.047541,31.204526,8,23,24,2025-04-22,0,7412
+2229,Blue Wave Pharmacy - Dokki,,Giza,Dokki,30.030233,31.204047,9,23,24,2024-09-22,1,1660
+2230,Nile Care Pharmacy - Dokki,,Giza,Dokki,30.036463,31.214957,9,23,24,2024-11-19,0,1251
+2231,Star Care Pharmacy,,Giza,Dokki,30.053585,31.229228,8,2,24,2025-01-06,1,1296
+2232,Angel Pharmacy - Marg,,Giza,Dokki,30.024385,31.197353,9,2,24,2024-09-27,0,9061
+2233,Salamtek Pharmacy,,Giza,Dokki,30.039117,31.229549,10,23,24,2025-02-18,1,9803
+2234,Hope Pharmacy - Haram,,Giza,Dokki,30.041505,31.208996,9,1,24,2025-04-01,0,3444
+2235,El Shifa Pharmacy - Dokki,,Giza,Dokki,30.034969,31.198201,9,23,24,2024-12-31,0,9455
+2236,Union Pharm,,Giza,Dokki,30.036563,31.201506,9,2,24,2025-03-12,0,3725
+2237,Mira Pharmacy - Maadi,,Giza,Dokki,30.049949,31.212754,8,23,24,2025-03-12,1,1426
+2238,Health Gate Pharmacy,,Giza,Dokki,30.040708,31.222752,9,23,24,2024-11-19,0,4812
+2239,Elite Pharmacy - Dokki,,Giza,Dokki,30.049492,31.22883,10,23,24,2025-06-07,0,6920
+2240,Union Pharm - Banha,,Giza,Dokki,30.043505,31.206107,9,1,24,2024-09-02,0,6019
+2241,Better Life Pharmacy,,Giza,Dokki,30.044401,31.217791,8,23,24,2025-02-25,0,2661
+2242,Salamtek Pharmacy - Faisal,,Giza,Dokki,30.055804,31.226239,10,23,24,2025-04-09,0,6647
+2243,El Nasr Pharmacy,,Giza,Dokki,30.053398,31.196517,9,23,24,2025-06-27,0,8901
+2244,Sunrise Pharmacy - Dokki,,Giza,Dokki,30.044015,31.206018,8,23,24,2025-04-06,0,9886
+2245,El Faraby Pharmacy,,Giza,Dokki,30.024163,31.198408,9,23,24,2025-04-22,0,8310
+2246,City Care Pharmacy - Faisal,,Giza,Dokki,30.046747,31.230216,9,23,24,2024-12-15,0,5206
+2247,Misr Pharmacy - Oct City,,Giza,Dokki,30.026834,31.2094,9,2,24,2025-01-26,0,3547
+2248,Life Line Pharmacy - Dokki,,Giza,Dokki,30.038144,31.21697,9,23,24,2025-05-29,0,7478
+2249,El Shifa Pharmacy - Oct City,,Giza,Dokki,30.027399,31.225829,9,23,24,2025-02-15,0,7432
+2250,Al Nozha Pharmacy - Marg,,Giza,Dokki,30.055921,31.220725,10,1,24,2025-01-26,0,5021
+2251,El Zahraa Pharmacy - Dokki,,Giza,Dokki,30.024885,31.216216,8,23,24,2025-06-22,0,2357
+2252,Al Amal Pharmacy - Dokki,,Giza,Dokki,30.034086,31.213262,8,23,24,2024-10-16,0,3155
+2253,Health Gate Pharmacy - Dokki,,Giza,Dokki,30.026894,31.214136,9,1,24,2025-03-28,0,4773
+2254,Al Amal Pharmacy - Dokki,,Giza,Dokki,30.038148,31.222499,9,23,24,2025-02-11,0,3179
+2255,El Hokama Pharmacy,,Giza,Dokki,30.04039,31.196813,8,23,24,2025-06-07,0,8463
+2256,El Tourath Pharmacy - Dokki,,Giza,Dokki,30.041807,31.219907,8,1,24,2025-07-31,0,2554
+2257,Salamtek Pharmacy,,Giza,Dokki,30.036965,31.198453,9,23,24,2025-04-05,0,2416
+2258,El Nasr Pharmacy,,Giza,Dokki,30.023912,31.204298,8,23,24,2025-03-09,0,9061
+2259,Alpha Pharma - Dokki,,Giza,Dokki,30.023544,31.214405,9,23,24,2025-07-25,0,2612
+2260,Golden Care Pharmacy - Dokki,,Giza,Dokki,30.054932,31.207969,9,23,24,2024-12-23,0,3071
+2261,Star Care Pharmacy - Dokki,,Giza,Dokki,30.025211,31.214405,9,23,24,2025-07-02,1,4022
+2262,Life Line Pharmacy - Maadi,,Giza,Dokki,30.026424,31.210698,9,23,24,2024-11-03,0,2447
+2263,Silver Care Pharmacy - Obour,,Giza,Dokki,30.05275,31.221866,10,23,24,2025-03-24,0,1515
+2264,Star Care Pharmacy - Dokki,,Giza,Dokki,30.044801,31.196134,9,23,24,2024-11-22,0,3880
+2265,El Zahraa Pharmacy,,Giza,Dokki,30.032983,31.213268,9,23,24,2024-09-25,1,5119
+2266,El Faraby Pharmacy - Dokki,,Giza,Dokki,30.043967,31.217393,9,2,24,2025-04-04,0,2018
+2267,El Tourath Pharmacy,,Giza,Dokki,30.044214,31.198137,8,23,24,2025-06-23,0,5149
+2268,Metro Pharmacy,,Giza,Dokki,30.05404,31.197577,8,23,24,2025-03-18,0,1602
+2269,Angel Pharmacy - Dokki,,Giza,Dokki,30.041901,31.218286,9,2,24,2025-08-15,0,4900
+2270,El Baraka Pharmacy - Smouha,,Giza,Dokki,30.041895,31.212065,10,23,24,2024-11-27,1,1258
+2271,El Hokama Pharmacy,,Giza,Dokki,30.047701,31.204347,9,23,24,2025-07-21,0,6545
+2272,Omega Pharmacy - Rehab View,,Giza,Dokki,30.04511,31.212472,9,23,24,2024-10-05,0,5770
+2273,Nile Care Pharmacy - Dokki,,Giza,Dokki,30.044926,31.211237,9,23,24,2025-01-10,0,8937
+2274,Elite Pharmacy - Dokki,,Giza,Dokki,30.032382,31.227311,9,1,24,2024-11-13,0,4549
+2275,Al Amal Pharmacy,,Giza,Dokki,30.027997,31.216699,9,1,24,2025-09-04,0,6302
+2276,Star Care Pharmacy - Marg,,Giza,Dokki,30.036027,31.207619,8,23,24,2024-10-08,2,6721
+2277,Misr Pharmacy,,Giza,Dokki,30.051786,31.219048,9,23,24,2024-11-28,0,6514
+2278,Green Leaf Pharmacy - Dokki,,Giza,Dokki,30.03275,31.195104,9,2,24,2025-01-25,2,1185
+2279,El Baraka Pharmacy,,Giza,Dokki,30.037411,31.222591,10,23,24,2024-11-02,0,5020
+2280,Life Line Pharmacy - Agami,,Giza,Dokki,30.033931,31.228938,8,23,24,2025-01-22,0,1111
+2281,Blue Wave Pharmacy,,Giza,Dokki,30.026258,31.20106,9,1,24,2025-04-12,2,5293
+2282,Al Amal Pharmacy,,Giza,Dokki,30.028916,31.198464,8,23,24,2025-08-06,0,2888
+2283,Family Pharmacy,,Giza,Dokki,30.050167,31.225125,8,23,24,2024-12-13,0,3095
+2284,Dr Medhat Pharmacy - Imbaba,,Giza,Dokki,30.020321,31.221139,8,1,24,2025-01-14,0,9031
+2285,Life Line Pharmacy,,Giza,Faisal,30.025574,31.169793,8,23,25,2025-01-16,0,7005
+2286,Al Amal Pharmacy - Maadi,,Giza,Faisal,30.013351,31.186181,8,2,25,2025-08-02,0,1802
+2287,Better Life Pharmacy,,Giza,Faisal,29.992742,31.181825,9,23,25,2025-09-09,0,6844
+2288,El Zahraa Pharmacy,,Giza,Faisal,30.009813,31.169356,8,23,25,2025-06-23,0,8245
+2289,Star Care Pharmacy - Square,,Giza,Faisal,29.993067,31.180213,8,23,25,2024-09-21,0,9832
+2290,Omega Pharmacy,,Giza,Faisal,30.017225,31.195907,8,23,25,2025-03-04,0,9443
+2291,Sunrise Pharmacy - Faisal,,Giza,Faisal,30.006404,31.175217,9,23,25,2024-09-10,1,6276
+2292,Omega Pharmacy,,Giza,Faisal,29.992419,31.164277,10,23,25,2025-01-18,0,1576
+2293,Ebn Sina Pharmacy,,Giza,Faisal,30.021692,31.170313,9,23,25,2025-03-12,0,2770
+2294,Hope Pharmacy - Faisal,,Giza,Faisal,30.024307,31.187963,9,23,25,2024-10-20,0,8216
+2295,Angel Pharmacy - Faisal,,Giza,Faisal,29.998518,31.169509,8,23,25,2025-08-21,0,1342
+2296,El Zahraa Pharmacy,,Giza,Faisal,30.014168,31.182662,8,23,25,2025-01-09,0,9530
+2297,Life Line Pharmacy,,Giza,Faisal,30.001418,31.179239,10,23,25,2025-08-17,0,7883
+2298,Green Leaf Pharmacy - Helwan,,Giza,Faisal,30.008898,31.197694,8,23,25,2025-09-03,0,1535
+2299,El Zahraa Pharmacy - Faisal,,Giza,Faisal,30.024813,31.183572,9,23,25,2025-04-17,0,2589
+2300,Ebn Sina Pharmacy,,Giza,Faisal,29.991356,31.171419,8,23,25,2024-12-14,2,4279
+2301,Angel Pharmacy - Smouha,,Giza,Faisal,30.021922,31.185905,8,23,25,2025-05-23,1,7286
+2302,Nile Care Pharmacy,,Giza,Faisal,30.006275,31.18851,9,23,25,2025-08-11,2,7727
+2303,Life Line Pharmacy - Obour,,Giza,Faisal,30.019703,31.178232,9,23,25,2024-12-05,1,3458
+2304,Seha First Pharmacy - Obour,,Giza,Faisal,30.008143,31.162069,9,23,25,2025-04-22,0,8011
+2305,Star Care Pharmacy,,Giza,Faisal,29.996378,31.176438,9,23,25,2024-11-23,0,5797
+2306,Ebn Sina Pharmacy - Faisal,,Giza,Faisal,30.018167,31.192348,9,23,25,2024-12-07,0,9668
+2307,Hope Pharmacy - Faisal,,Giza,Faisal,30.015715,31.195335,9,23,25,2024-10-20,0,5363
+2308,Al Amal Pharmacy,,Giza,Faisal,29.999097,31.186197,10,2,25,2024-11-15,0,3835
+2309,Ebn Sina Pharmacy,,Giza,Faisal,30.006732,31.178685,9,23,25,2025-04-30,0,9487
+2310,Metro Pharmacy - Obour,,Giza,Faisal,29.999666,31.170958,8,23,25,2025-08-13,0,1267
+2311,Life Line Pharmacy - Nozha,,Giza,Faisal,30.02579,31.193308,10,1,25,2024-11-01,0,8637
+2312,Golden Care Pharmacy,,Giza,Faisal,30.012269,31.172195,9,1,25,2024-12-29,1,9485
+2313,Elite Pharmacy,,Giza,Faisal,30.008774,31.189051,9,2,25,2025-08-15,0,2306
+2314,Star Care Pharmacy - Obour,,Giza,Faisal,30.005504,31.175467,8,23,25,2025-08-09,0,1435
+2315,Ebn Sina Pharmacy - Nozha,,Giza,Faisal,29.991577,31.190474,9,23,25,2025-02-08,0,7500
+2316,Al Nozha Pharmacy - Faisal,,Giza,Faisal,30.02018,31.164948,9,23,25,2024-12-23,0,8113
+2317,El Zahraa Pharmacy - Faisal,,Giza,Faisal,30.019709,31.16998,9,23,25,2025-04-24,2,9278
+2318,El Faraby Pharmacy,,Giza,Faisal,30.024339,31.181727,9,23,25,2025-08-29,0,6872
+2319,Al Nozha Pharmacy - Faisal,,Giza,Faisal,29.996244,31.196252,9,23,25,2024-11-24,0,9347
+2320,Hope Pharmacy - Shubra,,Giza,Faisal,30.008216,31.170921,9,23,25,2025-03-23,0,9936
+2321,El Tourath Pharmacy - Rehab View,,Giza,Faisal,30.002433,31.189355,9,23,25,2025-08-31,0,5044
+2322,El Hokama Pharmacy - Nozha,,Giza,Faisal,30.019409,31.165089,10,23,25,2025-02-16,0,5821
+2323,Misr Pharmacy - Faisal,,Giza,Faisal,30.013741,31.171472,8,23,25,2025-02-25,0,5592
+2324,El Hokama Pharmacy - Oct City,,Giza,Faisal,29.991655,31.165497,9,23,25,2025-07-28,0,8605
+2325,Star Care Pharmacy - Dokki,,Giza,Faisal,30.004593,31.180273,8,23,25,2025-08-25,0,3798
+2326,Metro Pharmacy - Faisal,,Giza,Faisal,30.009468,31.183123,9,23,25,2025-04-27,0,9306
+2327,Nile Care Pharmacy,,Giza,Faisal,30.019722,31.194985,8,2,25,2024-09-06,0,2976
+2328,Al Nozha Pharmacy,,Giza,Faisal,29.998118,31.163748,9,23,25,2025-03-04,0,7128
+2329,Al Nozha Pharmacy,,Giza,Faisal,30.015147,31.191249,9,23,25,2024-12-26,1,3772
+2330,Golden Care Pharmacy,,Giza,Faisal,30.021347,31.169077,9,2,25,2024-11-27,0,6382
+2331,Seha First Pharmacy,,Giza,Faisal,29.995713,31.177355,9,1,25,2025-05-03,0,4674
+2332,Metro Pharmacy - Nozha,,Giza,Faisal,30.026164,31.192509,9,23,25,2025-01-12,0,5030
+2333,Star Care Pharmacy - Faisal,,Giza,Faisal,29.991756,31.167156,8,23,25,2024-09-23,1,4793
+2334,Ebn Sina Pharmacy,,Giza,Faisal,30.014753,31.18286,9,23,25,2024-09-07,0,6473
+2335,Elite Pharmacy - Banha,,Giza,Faisal,30.010279,31.180576,10,23,25,2024-10-07,0,7510
+2336,Misr Pharmacy - Smouha,,Giza,Faisal,30.004622,31.179884,9,1,25,2025-07-07,0,7826
+2337,El Tourath Pharmacy,,Giza,Faisal,30.014984,31.178837,9,23,25,2025-03-18,0,9988
+2338,Green Leaf Pharmacy,,Giza,Faisal,29.999043,31.183352,10,23,25,2025-01-24,0,6078
+2339,El Baraka Pharmacy - Faisal,,Giza,Faisal,29.996608,31.168399,9,23,25,2024-10-05,0,1720
+2340,Star Care Pharmacy - Agami,,Giza,Faisal,30.014568,31.166982,8,23,25,2024-09-13,0,7350
+2341,Ebn Sina Pharmacy - Faisal,,Giza,Faisal,30.00705,31.173001,10,23,25,2024-10-15,0,5697
+2342,Seha First Pharmacy,,Giza,Faisal,30.017405,31.162701,9,23,25,2025-05-17,0,6846
+2343,El Baraka Pharmacy,,Giza,Faisal,30.014107,31.177528,9,23,25,2025-08-14,0,7250
+2344,Green Leaf Pharmacy,,Giza,Faisal,29.997719,31.165117,9,23,25,2025-06-24,0,8936
+2345,Silver Care Pharmacy,,Giza,Faisal,30.016747,31.176447,9,1,25,2024-09-24,0,3468
+2346,Golden Care Pharmacy,,Giza,Faisal,30.021911,31.175154,9,23,25,2025-04-10,0,8646
+2347,Alpha Pharma,,Giza,Faisal,30.016259,31.167795,10,1,25,2025-05-30,0,4711
+2348,Pharma Plus,,Giza,Faisal,30.021194,31.16647,8,23,25,2025-08-01,0,8447
+2349,Pharma Plus,,Giza,Faisal,30.023544,31.162702,9,23,25,2025-04-30,2,3450
+2350,Angel Pharmacy,,Giza,Faisal,29.994233,31.196315,9,1,25,2025-01-09,0,9334
+2351,Seha First Pharmacy - Faisal,,Giza,Faisal,30.017443,31.189325,9,23,25,2025-01-28,0,4126
+2352,Mira Pharmacy - Faisal,,Giza,Faisal,29.996371,31.173093,8,23,25,2025-07-23,0,1815
+2353,Silver Care Pharmacy - Haram,,Giza,Faisal,30.002569,31.171001,10,23,25,2024-11-03,1,9580
+2354,Alpha Pharma,,Giza,Faisal,30.005912,31.181901,9,23,25,2025-05-19,0,6900
+2355,Alpha Pharma,,Giza,Faisal,30.000215,31.190759,9,23,25,2025-06-12,0,6405
+2356,Angel Pharmacy - Faisal,,Giza,Faisal,30.015981,31.165867,8,1,25,2025-04-10,0,8133
+2357,Green Leaf Pharmacy - Agami,,Giza,Faisal,30.000135,31.188618,8,23,25,2025-06-07,0,3080
+2358,Family Pharmacy - Faisal,,Giza,Faisal,29.99395,31.167928,8,23,25,2024-11-30,0,9154
+2359,Union Pharm - Faisal,,Giza,Faisal,30.023051,31.174226,10,2,25,2025-02-26,2,6369
+2360,Star Care Pharmacy - Helwan,,Giza,Faisal,30.003087,31.18021,9,1,25,2024-11-15,0,4532
+2361,Star Care Pharmacy - Rehab View,,Giza,Faisal,29.997095,31.18115,8,23,25,2025-02-16,1,2049
+2362,Green Leaf Pharmacy,,Giza,Faisal,30.023718,31.180182,9,23,25,2024-10-01,0,7350
+2363,Omega Pharmacy,,Giza,Faisal,30.021664,31.168871,8,2,25,2025-06-24,0,9587
+2364,Blue Wave Pharmacy - Shubra,,Giza,Faisal,30.01761,31.180874,8,1,25,2024-12-20,0,4731
+2365,Ebn Sina Pharmacy,,Giza,Faisal,30.014745,31.178065,10,23,25,2025-05-01,0,6191
+2366,Al Nozha Pharmacy - Square,,Giza,Faisal,30.013669,31.184079,9,1,25,2025-06-30,0,8039
+2367,Life Line Pharmacy - Faisal,,Giza,Faisal,29.992769,31.188229,8,23,25,2025-08-31,1,9371
+2368,El Baraka Pharmacy,,Giza,Faisal,30.008065,31.166398,9,1,25,2024-11-23,0,9055
+2369,Family Pharmacy,,Giza,Faisal,29.997674,31.174703,9,23,25,2024-10-16,0,6570
+2370,Alpha Pharma,,Giza,Faisal,30.013764,31.174091,10,23,25,2024-11-24,0,9229
+2371,El Shifa Pharmacy - Faisal,,Giza,Faisal,30.026228,31.196338,8,2,25,2025-07-11,0,3439
+2372,Metro Pharmacy - Rehab View,,Giza,Faisal,30.017333,31.168541,9,1,25,2025-03-05,0,3659
+2373,El Tourath Pharmacy - Smouha,,Giza,Faisal,30.015547,31.178358,8,23,25,2025-01-15,0,3102
+2374,El Zahraa Pharmacy,,Giza,Faisal,29.991767,31.173808,9,23,25,2025-09-13,0,7065
+2375,Seha First Pharmacy - Faisal,,Giza,Faisal,30.013619,31.172923,9,1,25,2024-11-11,0,9543
+2376,Life Line Pharmacy,,Giza,Faisal,30.004585,31.163826,8,23,25,2024-12-05,0,4096
+2377,El Hokama Pharmacy - Faisal,,Giza,Faisal,29.995083,31.176485,9,2,25,2025-04-02,1,3153
+2378,Silver Care Pharmacy - Rehab View,,Giza,Faisal,30.018523,31.190598,8,23,25,2024-11-22,0,6841
+2379,Nile Care Pharmacy - Oct City,,Giza,Faisal,30.017292,31.177644,9,23,25,2025-03-24,1,8404
+2380,El Shifa Pharmacy - Smouha,,Giza,Faisal,29.996556,31.170729,9,23,25,2025-01-21,0,3906
+2381,Silver Care Pharmacy - Faisal,,Giza,Faisal,29.99704,31.194985,9,23,25,2024-11-11,0,2493
+2382,Health Gate Pharmacy - Dokki,,Giza,Faisal,29.993075,31.164424,8,23,25,2025-05-29,0,9673
+2383,Elite Pharmacy - Montaza,,Giza,Faisal,30.000998,31.167042,9,23,25,2025-06-15,0,6173
+2384,El Shifa Pharmacy - Faisal,,Giza,Faisal,30.012171,31.193386,10,2,25,2025-07-04,0,6631
+2385,Seha First Pharmacy,,Giza,Hadayek October,30.017039,31.024074,9,23,26,2024-10-28,0,5670
+2386,Life Line Pharmacy - Hadayek,,Giza,Hadayek October,30.020872,30.997071,8,2,26,2025-06-30,0,2721
+2387,Al Nozha Pharmacy,,Giza,Hadayek October,30.017297,31.00732,8,1,26,2024-11-13,0,3667
+2388,El Faraby Pharmacy,,Giza,Hadayek October,30.015252,31.010695,10,23,26,2024-10-09,0,6788
+2389,Care 24 Seven,,Giza,Hadayek October,30.027778,31.027985,8,23,26,2025-07-24,0,1084
+2390,Golden Care Pharmacy - Hadayek,,Giza,Hadayek October,30.036519,30.994925,9,23,26,2025-06-08,0,6660
+2391,Alpha Pharma - Agami,,Giza,Hadayek October,30.010806,31.028774,8,23,26,2025-01-30,0,7862
+2392,Silver Care Pharmacy - Smouha,,Giza,Hadayek October,30.007234,31.017456,8,23,26,2025-07-20,1,7199
+2393,Omega Pharmacy - Nozha,,Giza,Hadayek October,30.036395,31.021836,8,1,26,2025-09-08,0,1203
+2394,Sunrise Pharmacy,,Giza,Hadayek October,30.022205,31.01293,9,2,26,2024-11-05,0,2855
+2395,El Nasr Pharmacy - Hadayek,,Giza,Hadayek October,30.032125,31.011755,8,2,26,2024-09-06,0,5053
+2396,El Faraby Pharmacy - Hadayek,,Giza,Hadayek October,30.026706,30.998309,8,23,26,2025-04-20,1,6215
+2397,Al Nozha Pharmacy,,Giza,Hadayek October,30.012276,31.007878,9,23,26,2025-09-06,0,6295
+2398,Angel Pharmacy - Hadayek,,Giza,Hadayek October,30.040025,31.000593,10,23,26,2025-05-03,0,6049
+2399,City Care Pharmacy - Rehab View,,Giza,Hadayek October,30.011832,31.021926,9,23,26,2024-09-09,0,7951
+2400,City Care Pharmacy - Hadayek,,Giza,Hadayek October,30.036068,31.022968,9,23,26,2024-11-10,0,6501
+2401,Seha First Pharmacy,,Giza,Hadayek October,30.023137,31.023302,9,1,26,2024-12-27,1,2605
+2402,Life Line Pharmacy,,Giza,Hadayek October,30.018766,31.0252,9,23,26,2024-12-16,0,3935
+2403,Pharma Plus - Hadayek,,Giza,Hadayek October,30.034356,31.0238,9,23,26,2025-06-15,0,7976
+2404,Dr Medhat Pharmacy - Hadayek,,Giza,Hadayek October,30.015177,31.000392,8,2,26,2025-06-21,0,3622
+2405,El Tourath Pharmacy - Hadayek,,Giza,Hadayek October,30.03474,31.027323,9,2,26,2025-03-22,0,7807
+2406,Metro Pharmacy - Hadayek,,Giza,Hadayek October,30.027187,30.998419,8,23,26,2025-04-17,0,4003
+2407,Family Pharmacy - Hadayek,,Giza,Hadayek October,30.03831,31.003364,8,1,26,2025-09-10,0,1903
+2408,Al Amal Pharmacy - Square,,Giza,Hadayek October,30.034192,31.025275,9,1,26,2024-10-09,0,8503
+2409,El Nasr Pharmacy - Haram,,Giza,Hadayek October,30.039401,31.000842,10,23,26,2025-03-13,0,2699
+2410,El Tourath Pharmacy - Hadayek,,Giza,Hadayek October,30.008607,31.008938,9,23,26,2025-02-18,0,6985
+2411,El Tourath Pharmacy - Hadayek,,Giza,Hadayek October,30.025458,31.006196,9,23,26,2025-01-16,0,7105
+2412,Green Leaf Pharmacy,,Giza,Hadayek October,30.030712,31.01838,9,23,26,2025-03-24,0,2084
+2413,Sunrise Pharmacy - Obour,,Giza,Hadayek October,30.035597,31.01046,9,1,26,2024-10-15,0,7387
+2414,Pharma Plus - Square,,Giza,Hadayek October,30.00721,31.027425,9,23,26,2025-02-02,0,5013
+2415,City Care Pharmacy - Hadayek,,Giza,Hadayek October,30.029406,31.013854,9,1,26,2024-12-20,0,6291
+2416,Seha First Pharmacy,,Giza,Hadayek October,30.028318,30.998725,9,23,26,2025-07-20,0,8873
+2417,Life Line Pharmacy - Imbaba,,Giza,Hadayek October,30.008059,31.015989,10,23,26,2024-12-10,0,5925
+2418,Golden Care Pharmacy,,Giza,Hadayek October,30.013219,31.027843,9,2,26,2025-02-13,0,7637
+2419,El Tourath Pharmacy,,Giza,Hadayek October,30.027222,31.00726,10,23,26,2025-01-29,2,4795
+2420,City Care Pharmacy,,Giza,Hadayek October,30.024292,31.009511,9,1,26,2025-02-24,0,6793
+2421,Omega Pharmacy,,Giza,Hadayek October,30.026976,31.007257,8,23,26,2025-03-27,0,3739
+2422,El Baraka Pharmacy,,Giza,Hadayek October,30.041725,31.024334,8,23,26,2024-09-03,0,7846
+2423,Blue Wave Pharmacy - Hadayek,,Giza,Hadayek October,30.008306,31.008407,8,23,26,2025-07-22,0,4621
+2424,Union Pharm,,Giza,Hadayek October,30.037693,31.019298,9,23,26,2025-02-15,0,9438
+2425,Blue Wave Pharmacy - Zayed,,Giza,Hadayek October,30.026187,31.013383,9,23,26,2025-05-01,0,7058
+2426,Silver Care Pharmacy,,Giza,Hadayek October,30.029769,31.016769,8,23,26,2024-11-25,0,5690
+2427,Metro Pharmacy - Haram,,Giza,Haram,29.995427,31.130714,8,23,27,2024-12-02,0,7407
+2428,Silver Care Pharmacy - Haram,,Giza,Haram,29.970477,31.149741,8,23,27,2025-04-21,0,2244
+2429,Ebn Sina Pharmacy - Shubra,,Giza,Haram,29.985254,31.145585,10,1,27,2025-06-01,0,2448
+2430,Star Care Pharmacy,,Giza,Haram,29.984352,31.142104,9,1,27,2025-06-10,0,3141
+2431,Elite Pharmacy - Rehab View,,Giza,Haram,29.995664,31.147543,9,23,27,2025-02-27,0,8291
+2432,Seha First Pharmacy - Haram,,Giza,Haram,29.98071,31.140212,9,23,27,2025-08-10,0,5121
+2433,El Baraka Pharmacy,,Giza,Haram,29.996956,31.141464,10,2,27,2025-06-13,0,4075
+2434,Metro Pharmacy - Square,,Giza,Haram,29.973071,31.141282,9,23,27,2024-10-20,0,7098
+2435,Misr Pharmacy - Banha,,Giza,Haram,29.999495,31.147191,9,1,27,2024-09-21,0,3647
+2436,Nile Care Pharmacy - Dokki,,Giza,Haram,29.977052,31.157057,8,23,27,2025-04-12,0,4783
+2437,Better Life Pharmacy - Haram,,Giza,Haram,29.986607,31.131194,8,23,27,2025-05-18,0,9539
+2438,El Zahraa Pharmacy - Haram,,Giza,Haram,30.004068,31.154982,9,23,27,2025-01-13,0,3596
+2439,Omega Pharmacy,,Giza,Haram,29.970491,31.152074,9,23,27,2025-02-15,0,4281
+2440,Alpha Pharma - Montaza,,Giza,Haram,30.000483,31.163162,8,23,27,2025-05-13,1,3195
+2441,Alpha Pharma,,Giza,Haram,29.985835,31.132643,9,1,27,2025-01-23,1,7876
+2442,El Shifa Pharmacy,,Giza,Haram,29.987519,31.159054,10,1,27,2024-10-18,1,5703
+2443,El Zahraa Pharmacy - Banha,,Giza,Haram,29.985789,31.163083,8,23,27,2025-02-23,0,4259
+2444,Alpha Pharma - Haram,,Giza,Haram,29.978195,31.148792,9,23,27,2024-09-17,0,6145
+2445,Omega Pharmacy,,Giza,Haram,29.993618,31.16022,9,23,27,2025-07-02,0,4191
+2446,Silver Care Pharmacy,,Giza,Haram,29.986753,31.136489,9,1,27,2025-06-25,0,2220
+2447,Omega Pharmacy,,Giza,Haram,29.972303,31.156196,9,23,27,2025-07-16,0,1162
+2448,Nile Care Pharmacy - Helwan,,Giza,Haram,29.98623,31.146205,9,23,27,2025-02-03,0,1401
+2449,Seha First Pharmacy - Dokki,,Giza,Haram,29.984903,31.156557,10,23,27,2025-05-19,0,4498
+2450,Elite Pharmacy,,Giza,Haram,30.00312,31.156217,8,1,27,2025-06-12,0,1973
+2451,Health Gate Pharmacy - Haram,,Giza,Haram,29.999633,31.163832,9,23,27,2025-01-17,1,9510
+2452,Star Care Pharmacy - Zayed,,Giza,Haram,29.996248,31.153681,10,1,27,2025-05-26,0,5268
+2453,Ebn Sina Pharmacy - Haram,,Giza,Haram,30.004116,31.159254,8,23,27,2025-03-27,0,4048
+2454,Better Life Pharmacy,,Giza,Haram,29.988471,31.140345,8,23,27,2024-09-13,0,5128
+2455,Ebn Sina Pharmacy - Haram,,Giza,Haram,30.003492,31.157006,8,23,27,2024-12-17,0,9857
+2456,Seha First Pharmacy - Nozha,,Giza,Haram,29.972319,31.136616,9,23,27,2025-06-24,1,6197
+2457,Metro Pharmacy - Haram,,Giza,Haram,29.988505,31.138548,9,23,27,2025-02-16,1,7176
+2458,Misr Pharmacy,,Giza,Haram,29.97959,31.15747,8,2,27,2025-01-20,0,4012
+2459,Green Leaf Pharmacy,,Giza,Haram,29.998533,31.143651,9,23,27,2024-10-09,2,6607
+2460,Care 24 Seven,,Giza,Haram,29.981002,31.141236,9,2,27,2025-05-20,0,5491
+2461,Family Pharmacy,,Giza,Haram,30.005273,31.134735,9,1,27,2025-02-18,0,7113
+2462,Seha First Pharmacy - Obour,,Giza,Haram,29.977034,31.134486,9,1,27,2025-01-17,0,1187
+2463,Metro Pharmacy,,Giza,Haram,29.978179,31.14528,9,23,27,2025-05-26,0,1117
+2464,El Hokama Pharmacy,,Giza,Haram,29.985417,31.149765,8,2,27,2025-05-22,1,4871
+2465,El Hokama Pharmacy,,Giza,Haram,29.971764,31.161269,9,23,27,2025-03-14,0,6723
+2466,El Shifa Pharmacy,,Giza,Haram,29.982357,31.155335,10,1,27,2025-01-16,0,6280
+2467,Golden Care Pharmacy - Haram,,Giza,Haram,29.971812,31.155878,9,23,27,2025-02-24,0,5403
+2468,Silver Care Pharmacy,,Giza,Haram,29.97571,31.152775,8,1,27,2024-10-18,0,3239
+2469,El Zahraa Pharmacy,,Giza,Haram,29.98474,31.149136,10,1,27,2024-09-10,0,5976
+2470,Golden Care Pharmacy - Haram,,Giza,Haram,29.996998,31.134312,9,23,27,2025-02-05,0,6806
+2471,Salamtek Pharmacy,,Giza,Haram,30.000786,31.153115,9,23,27,2025-01-07,1,3371
+2472,Nile Care Pharmacy - Haram,,Giza,Haram,29.973549,31.146732,8,23,27,2025-05-09,0,1156
+2473,Star Care Pharmacy - Rehab View,,Giza,Haram,29.972752,31.129235,9,2,27,2024-12-02,0,2469
+2474,Health Gate Pharmacy - Haram,,Giza,Haram,30.004207,31.158954,8,1,27,2025-03-08,2,4730
+2475,El Baraka Pharmacy - Haram,,Giza,Haram,29.976565,31.129502,9,23,27,2024-10-21,0,6578
+2476,Blue Wave Pharmacy - Obour,,Giza,Haram,29.990769,31.160958,9,23,27,2025-08-05,0,1322
+2477,Seha First Pharmacy - Square,,Giza,Haram,29.9936,31.140412,9,1,27,2024-12-21,0,3716
+2478,El Shifa Pharmacy - Agami,,Giza,Haram,29.992911,31.148949,8,23,27,2024-12-05,0,5514
+2479,Union Pharm - Haram,,Giza,Haram,29.981039,31.162341,8,23,27,2025-05-17,0,5086
+2480,Green Leaf Pharmacy - Haram,,Giza,Haram,30.000175,31.151386,9,23,27,2025-05-31,0,2830
+2481,Metro Pharmacy - Faisal,,Giza,Haram,29.996676,31.155366,9,23,27,2025-04-01,0,5480
+2482,Health Gate Pharmacy - Haram,,Giza,Haram,29.984339,31.154971,8,1,27,2024-09-15,0,7240
+2483,Omega Pharmacy,,Giza,Haram,29.979152,31.136297,10,23,27,2025-07-29,0,1091
+2484,Life Line Pharmacy - Montaza,,Giza,Haram,30.004327,31.139528,9,23,27,2025-04-09,1,8949
+2485,Pharma Plus - Helwan,,Giza,Haram,29.972161,31.147659,10,1,27,2025-01-27,0,3381
+2486,Al Amal Pharmacy - Haram,,Giza,Haram,29.991216,31.163007,9,23,27,2024-12-21,2,5773
+2487,Al Amal Pharmacy - Helwan,,Giza,Haram,29.981757,31.142404,9,23,27,2025-08-31,0,3207
+2488,Ebn Sina Pharmacy,,Giza,Haram,30.004702,31.129535,10,23,27,2025-01-30,0,8830
+2489,Mira Pharmacy,,Giza,Haram,29.984588,31.14545,9,23,27,2025-05-13,0,1467
+2490,Pharma Plus,,Giza,Haram,29.984039,31.144659,10,23,27,2025-07-16,0,9208
+2491,El Nasr Pharmacy,,Giza,Haram,29.986952,31.144875,9,23,27,2025-01-01,0,9564
+2492,Golden Care Pharmacy - Nozha,,Giza,Haram,29.97236,31.148702,9,23,27,2025-06-19,0,1965
+2493,Silver Care Pharmacy,,Giza,Haram,29.985167,31.158125,8,23,27,2024-10-17,0,4933
+2494,Elite Pharmacy - Haram,,Giza,Haram,29.987941,31.143448,9,1,27,2025-02-24,0,8791
+2495,City Care Pharmacy,,Giza,Haram,30.001876,31.161692,10,23,27,2025-08-26,0,4897
+2496,Life Line Pharmacy - Haram,,Giza,Haram,29.982989,31.139261,9,23,27,2025-08-20,1,1978
+2497,Union Pharm - Imbaba,,Giza,Haram,29.997747,31.148138,8,1,27,2025-07-20,0,7995
+2498,Blue Wave Pharmacy,,Giza,Haram,29.979694,31.163339,9,1,27,2025-01-14,0,6338
+2499,Blue Wave Pharmacy - Haram,,Giza,Haram,29.997634,31.158855,9,23,27,2025-09-10,0,6488
+2500,El Hokama Pharmacy - Marg,,Giza,Haram,29.997348,31.158935,8,1,27,2024-09-29,0,6293
+2501,Seha First Pharmacy,,Giza,Haram,29.99873,31.153108,9,23,27,2024-11-17,0,8544
+2502,Star Care Pharmacy,,Giza,Haram,30.001318,31.138552,9,1,27,2025-09-15,2,8210
+2503,El Nasr Pharmacy,,Giza,Haram,29.970844,31.163825,8,23,27,2025-06-25,0,6353
+2504,Silver Care Pharmacy,,Giza,Haram,29.996345,31.135913,9,23,27,2025-04-20,0,1098
+2505,El Zahraa Pharmacy,,Giza,Haram,29.980377,31.150017,9,23,27,2025-03-31,0,9401
+2506,Misr Pharmacy - Haram,,Giza,Haram,29.997423,31.156683,8,2,27,2024-09-10,0,7989
+2507,El Faraby Pharmacy - Haram,,Giza,Haram,29.985931,31.128675,9,23,27,2024-12-29,0,7300
+2508,Al Amal Pharmacy,,Giza,Haram,29.990631,31.149716,8,2,27,2024-09-19,0,9526
+2509,Golden Care Pharmacy - Haram,,Giza,Haram,30.004332,31.147895,10,23,27,2025-05-16,0,8067
+2510,El Shifa Pharmacy - Haram,,Giza,Haram,30.002284,31.141458,9,1,27,2025-05-06,1,8108
+2511,Green Leaf Pharmacy - Haram,,Giza,Haram,30.001533,31.149662,8,23,27,2025-02-07,0,7962
+2512,El Tourath Pharmacy,,Giza,Haram,29.977864,31.143315,9,23,27,2024-11-05,0,7067
+2513,Green Leaf Pharmacy - Haram,,Giza,Haram,29.971206,31.139185,8,23,27,2025-08-31,0,8469
+2514,El Baraka Pharmacy - Marg,,Giza,Haram,29.971616,31.143116,9,23,27,2025-01-17,0,1631
+2515,Family Pharmacy,,Giza,Haram,29.993782,31.160776,9,2,27,2024-12-03,0,3431
+2516,Sunrise Pharmacy - Haram,,Giza,Haram,29.982518,31.133945,10,1,27,2025-01-18,0,6215
+2517,Elite Pharmacy - Haram,,Giza,Haram,30.002211,31.154359,9,23,27,2025-04-20,0,1942
+2518,Better Life Pharmacy,,Giza,Haram,29.998989,31.156713,9,23,27,2024-10-09,0,8478
+2519,Al Nozha Pharmacy,,Giza,Haram,29.980794,31.146303,8,1,27,2025-07-08,0,6539
+2520,Nile Care Pharmacy - Oct City,,Giza,Haram,29.977853,31.14509,9,23,27,2025-03-22,2,3648
+2521,Metro Pharmacy,,Giza,Haram,29.985173,31.161588,9,23,27,2025-09-14,0,4697
+2522,El Hokama Pharmacy - Imbaba,,Giza,Imbaba,30.104517,31.186438,10,23,28,2025-01-05,0,8593
+2523,Union Pharm,,Giza,Imbaba,30.10991,31.208301,10,2,28,2024-11-28,1,7032
+2524,Sunrise Pharmacy - Imbaba,,Giza,Imbaba,30.098367,31.215403,9,1,28,2024-11-30,0,6390
+2525,El Hokama Pharmacy - Imbaba,,Giza,Imbaba,30.108096,31.192954,10,2,28,2025-03-19,0,4051
+2526,Dr Medhat Pharmacy - Haram,,Giza,Imbaba,30.111199,31.204592,8,1,28,2024-11-16,0,5683
+2527,Silver Care Pharmacy - Rehab View,,Giza,Imbaba,30.110113,31.212015,10,1,28,2025-09-13,0,8212
+2528,El Nasr Pharmacy - Agami,,Giza,Imbaba,30.08917,31.20643,10,1,28,2025-03-30,0,9696
+2529,El Faraby Pharmacy - Imbaba,,Giza,Imbaba,30.101048,31.212819,8,23,28,2025-06-24,0,4523
+2530,Pharma Plus - Imbaba,,Giza,Imbaba,30.114355,31.186033,9,23,28,2024-11-18,0,7060
+2531,El Tourath Pharmacy - Shubra,,Giza,Imbaba,30.092798,31.211629,9,1,28,2025-08-16,0,5166
+2532,Ebn Sina Pharmacy,,Giza,Imbaba,30.118661,31.202017,8,23,28,2024-09-30,0,1363
+2533,Salamtek Pharmacy,,Giza,Imbaba,30.11523,31.185117,10,23,28,2025-03-14,0,2846
+2534,El Shifa Pharmacy - Imbaba,,Giza,Imbaba,30.089219,31.1893,10,1,28,2025-06-15,0,4981
+2535,Hope Pharmacy - Imbaba,,Giza,Imbaba,30.091367,31.189812,10,2,28,2025-04-11,0,7608
+2536,El Faraby Pharmacy,,Giza,Imbaba,30.105818,31.183241,8,1,28,2024-10-05,2,7270
+2537,Alpha Pharma - Imbaba,,Giza,Imbaba,30.121365,31.210794,9,23,28,2025-07-31,0,2246
+2538,El Baraka Pharmacy - Faisal,,Giza,Imbaba,30.088419,31.202078,9,23,28,2025-07-01,0,8327
+2539,Angel Pharmacy - Imbaba,,Giza,Imbaba,30.097943,31.19546,9,23,28,2025-05-16,1,9836
+2540,Ebn Sina Pharmacy,,Giza,Imbaba,30.102916,31.195644,9,2,28,2024-10-09,0,8397
+2541,Ebn Sina Pharmacy - Obour,,Giza,Imbaba,30.108848,31.199827,10,23,28,2025-03-08,0,4483
+2542,El Nasr Pharmacy - Shubra,,Giza,Imbaba,30.112206,31.205231,9,23,28,2024-09-24,0,9037
+2543,Union Pharm - Imbaba,,Giza,Imbaba,30.108346,31.189876,9,23,28,2025-02-26,0,6769
+2544,Life Line Pharmacy,,Giza,Imbaba,30.094294,31.190087,10,23,28,2024-11-09,0,4194
+2545,Blue Wave Pharmacy,,Giza,Imbaba,30.106195,31.200192,9,23,28,2025-07-18,0,6982
+2546,Better Life Pharmacy - Imbaba,,Giza,Imbaba,30.092121,31.195647,9,23,28,2024-11-02,0,3217
+2547,El Hokama Pharmacy - Shubra,,Giza,Imbaba,30.092088,31.196403,8,23,28,2025-01-19,0,2832
+2548,Silver Care Pharmacy - Agami,,Giza,Imbaba,30.10005,31.185663,9,23,28,2025-01-19,0,5657
+2549,Misr Pharmacy - Imbaba,,Giza,Imbaba,30.11074,31.190561,9,2,28,2024-11-21,0,8349
+2550,Seha First Pharmacy,,Giza,Imbaba,30.113352,31.198934,9,23,28,2025-06-28,2,3590
+2551,Pharma Plus - Imbaba,,Giza,Imbaba,30.11876,31.202536,9,23,28,2024-12-18,0,9592
+2552,El Tourath Pharmacy - Imbaba,,Giza,Imbaba,30.095756,31.214449,9,23,28,2025-08-29,0,1892
+2553,Dr Medhat Pharmacy - Imbaba,,Giza,Imbaba,30.093475,31.189811,10,2,28,2025-05-16,0,6417
+2554,Silver Care Pharmacy - Maadi,,Giza,Imbaba,30.108427,31.213592,10,1,28,2024-11-05,0,6644
+2555,El Tourath Pharmacy - Haram,,Giza,Imbaba,30.099988,31.183988,9,23,28,2025-03-07,0,6175
+2556,El Baraka Pharmacy - Nozha,,Giza,Imbaba,30.102712,31.200487,8,1,28,2025-06-28,0,5076
+2557,Blue Wave Pharmacy - Helwan,,Giza,Imbaba,30.112842,31.216382,10,23,28,2025-07-29,0,7912
+2558,El Baraka Pharmacy - Faisal,,Giza,Imbaba,30.091325,31.187936,8,1,28,2025-05-05,0,9652
+2559,Sunrise Pharmacy,,Giza,Imbaba,30.120217,31.213447,10,23,28,2025-04-18,0,5233
+2560,Star Care Pharmacy - Imbaba,,Giza,Imbaba,30.099966,31.202207,8,23,28,2025-01-15,0,7267
+2561,Nile Care Pharmacy - Imbaba,,Giza,Imbaba,30.090751,31.212175,9,23,28,2024-10-28,0,8384
+2562,Mira Pharmacy,,Giza,Imbaba,30.093174,31.210778,9,1,28,2024-10-18,0,3311
+2563,El Zahraa Pharmacy - Montaza,,Giza,Imbaba,30.11094,31.187031,10,23,28,2025-08-26,0,4431
+2564,Star Care Pharmacy - Imbaba,,Giza,Imbaba,30.09825,31.184128,9,2,28,2025-08-01,1,3453
+2565,Sunrise Pharmacy - Maadi,,Giza,Imbaba,30.093685,31.209469,8,23,28,2024-09-27,0,2712
+2566,Care 24 Seven - Imbaba,,Giza,Imbaba,30.121594,31.199158,10,1,28,2024-12-15,0,4896
+2567,Golden Care Pharmacy - Smouha,,Giza,Imbaba,30.120462,31.213742,9,23,28,2025-08-19,0,8720
+2568,Hope Pharmacy - Imbaba,,Giza,Imbaba,30.113933,31.215675,9,1,28,2024-10-11,1,7533
+2569,Hope Pharmacy - Zayed,,Giza,Imbaba,30.107729,31.208214,9,2,28,2025-07-01,0,7570
+2570,Green Leaf Pharmacy - Helwan,,Giza,Mohandessin,30.053162,31.193743,9,23,29,2025-06-27,0,1870
+2571,Better Life Pharmacy - Mohandessin,,Giza,Mohandessin,30.054145,31.209244,9,23,29,2025-07-12,1,7666
+2572,Ebn Sina Pharmacy,,Giza,Mohandessin,30.070526,31.187602,9,23,29,2025-02-12,0,3362
+2573,Nile Care Pharmacy - Rehab View,,Giza,Mohandessin,30.046752,31.197686,9,23,29,2024-11-13,0,5081
+2574,Al Amal Pharmacy - Mohandessin,,Giza,Mohandessin,30.074269,31.182988,8,23,29,2025-08-17,0,6831
+2575,El Nasr Pharmacy - Mohandessin,,Giza,Mohandessin,30.051898,31.194848,8,1,29,2024-10-21,0,9923
+2576,Al Amal Pharmacy,,Giza,Mohandessin,30.057496,31.199966,9,23,29,2025-04-14,0,4474
+2577,Union Pharm - Mohandessin,,Giza,Mohandessin,30.073905,31.213159,8,23,29,2024-11-22,0,6805
+2578,Dr Medhat Pharmacy - Oct City,,Giza,Mohandessin,30.068771,31.189093,8,23,29,2025-02-27,0,5166
+2579,El Tourath Pharmacy,,Giza,Mohandessin,30.042195,31.203314,9,23,29,2024-11-21,0,5533
+2580,Pharma Plus - Dokki,,Giza,Mohandessin,30.064877,31.208697,8,23,29,2025-04-03,1,1703
+2581,Better Life Pharmacy - Mohandessin,,Giza,Mohandessin,30.064355,31.190702,9,23,29,2024-09-11,0,6084
+2582,Life Line Pharmacy - Rehab View,,Giza,Mohandessin,30.060236,31.212189,8,23,29,2025-01-03,0,7918
+2583,Angel Pharmacy - Mohandessin,,Giza,Mohandessin,30.049514,31.206475,8,1,29,2025-09-12,0,7722
+2584,Pharma Plus,,Giza,Mohandessin,30.051571,31.205127,9,23,29,2025-08-23,0,5591
+2585,Salamtek Pharmacy - Haram,,Giza,Mohandessin,30.054679,31.184968,8,23,29,2025-02-03,0,3947
+2586,Misr Pharmacy - Nozha,,Giza,Mohandessin,30.052745,31.193813,8,1,29,2025-05-13,0,2676
+2587,El Baraka Pharmacy - Shubra,,Giza,Mohandessin,30.061881,31.201583,9,1,29,2024-12-11,0,4971
+2588,Silver Care Pharmacy - Mohandessin,,Giza,Mohandessin,30.055022,31.211902,9,23,29,2024-09-28,0,2960
+2589,Al Nozha Pharmacy - Montaza,,Giza,Mohandessin,30.070679,31.211765,9,23,29,2025-01-17,0,4436
+2590,Health Gate Pharmacy - Mohandessin,,Giza,Mohandessin,30.061174,31.201305,8,23,29,2025-06-28,1,4729
+2591,El Baraka Pharmacy,,Giza,Mohandessin,30.054816,31.193727,9,23,29,2024-09-22,1,7021
+2592,Nile Care Pharmacy - Mohandessin,,Giza,Mohandessin,30.040968,31.194686,8,23,29,2025-05-07,1,8787
+2593,Green Leaf Pharmacy - Mohandessin,,Giza,Mohandessin,30.067021,31.184801,9,23,29,2025-04-08,0,1241
+2594,Elite Pharmacy - Shubra,,Giza,Mohandessin,30.060979,31.188812,8,1,29,2025-01-11,0,3721
+2595,Omega Pharmacy - Smouha,,Giza,Mohandessin,30.057474,31.213881,9,2,29,2025-02-24,0,7763
+2596,Golden Care Pharmacy - Mohandessin,,Giza,Mohandessin,30.067568,31.202186,9,23,29,2025-01-09,0,5148
+2597,Nile Care Pharmacy,,Giza,Mohandessin,30.055946,31.206774,8,23,29,2025-08-04,0,4911
+2598,Golden Care Pharmacy - Banha,,Giza,Mohandessin,30.072078,31.198386,10,23,29,2025-06-12,0,4030
+2599,Elite Pharmacy,,Giza,Mohandessin,30.069143,31.188283,9,2,29,2025-06-13,0,1659
+2600,Misr Pharmacy - Maadi,,Giza,Mohandessin,30.0482,31.197815,9,23,29,2025-08-22,0,7859
+2601,Care 24 Seven - Maadi,,Giza,Mohandessin,30.053066,31.204212,9,2,29,2025-06-26,0,8037
+2602,Green Leaf Pharmacy,,Giza,Mohandessin,30.055169,31.18492,9,1,29,2024-11-18,2,4544
+2603,Life Line Pharmacy,,Giza,Mohandessin,30.057241,31.193356,8,23,29,2024-09-03,0,4139
+2604,Seha First Pharmacy,,Giza,Mohandessin,30.055985,31.198391,9,23,29,2025-06-18,0,8971
+2605,Union Pharm - Haram,,Giza,Mohandessin,30.03978,31.214774,9,23,29,2025-02-11,0,3196
+2606,Health Gate Pharmacy,,Giza,Mohandessin,30.049878,31.20625,8,23,29,2024-10-14,1,7339
+2607,Care 24 Seven - Shubra,,Giza,Mohandessin,30.072909,31.195443,8,23,29,2024-12-15,0,2509
+2608,Alpha Pharma - Mohandessin,,Giza,Mohandessin,30.057381,31.201875,9,23,29,2025-06-01,0,3695
+2609,Al Amal Pharmacy - Mohandessin,,Giza,Mohandessin,30.061056,31.184927,9,2,29,2024-09-15,0,5327
+2610,Misr Pharmacy - Marg,,Giza,Mohandessin,30.070157,31.210844,9,1,29,2025-08-06,0,2274
+2611,Union Pharm,,Giza,Mohandessin,30.063544,31.184745,9,2,29,2025-07-03,0,1584
+2612,Angel Pharmacy,,Giza,Mohandessin,30.0471,31.203914,8,23,29,2024-11-30,1,5157
+2613,Hope Pharmacy - Mohandessin,,Giza,Mohandessin,30.05984,31.181546,9,23,29,2024-11-02,0,3938
+2614,Salamtek Pharmacy - Mohandessin,,Giza,Mohandessin,30.055337,31.182634,9,23,29,2025-02-10,0,4207
+2615,Health Gate Pharmacy - Marg,,Giza,Mohandessin,30.043449,31.188761,9,23,29,2025-04-20,0,9844
+2616,Sunrise Pharmacy,,Giza,Mohandessin,30.061355,31.205595,9,1,29,2024-10-22,0,5355
+2617,Union Pharm - Mohandessin,,Giza,Mohandessin,30.054508,31.194024,8,1,29,2025-07-24,0,8292
+2618,Hope Pharmacy,,Giza,Mohandessin,30.062375,31.197628,9,1,29,2025-02-27,0,1975
+2619,Seha First Pharmacy - Shubra,,Giza,Mohandessin,30.048934,31.187277,9,23,29,2025-07-10,1,5341
+2620,Seha First Pharmacy - Zayed,,Giza,Mohandessin,30.069386,31.190698,10,1,29,2025-01-11,0,8758
+2621,Golden Care Pharmacy,,Giza,Mohandessin,30.074269,31.187714,9,23,29,2025-09-09,1,3680
+2622,El Baraka Pharmacy,,Giza,Mohandessin,30.053984,31.184752,10,23,29,2025-05-02,1,9045
+2623,El Hokama Pharmacy - Montaza,,Giza,Mohandessin,30.045387,31.20624,9,1,29,2024-10-12,0,7504
+2624,Seha First Pharmacy,,Giza,Mohandessin,30.061898,31.191493,9,2,29,2025-01-17,0,3139
+2625,Better Life Pharmacy - Mohandessin,,Giza,Mohandessin,30.055301,31.189266,9,23,29,2025-04-16,0,9218
+2626,Better Life Pharmacy,,Giza,Mohandessin,30.047382,31.203322,8,23,29,2025-01-16,0,9707
+2627,Metro Pharmacy,,Giza,Mohandessin,30.052609,31.19176,9,23,29,2024-12-10,0,7767
+2628,Union Pharm - Nozha,,Giza,Mohandessin,30.041005,31.201156,8,23,29,2024-10-11,1,3488
+2629,El Tourath Pharmacy - Mohandessin,,Giza,Mohandessin,30.0585,31.202584,8,23,29,2025-08-14,0,9401
+2630,Sunrise Pharmacy,,Giza,Mohandessin,30.059486,31.1938,9,1,29,2024-09-23,1,5233
+2631,Hope Pharmacy,,Giza,Mohandessin,30.05393,31.194025,9,23,29,2025-03-20,0,2415
+2632,Silver Care Pharmacy - Smouha,,Giza,Mohandessin,30.041286,31.181772,9,23,29,2025-06-16,0,1469
+2633,Sunrise Pharmacy - Faisal,,Giza,Mohandessin,30.069353,31.209781,9,23,29,2025-04-13,0,3761
+2634,El Hokama Pharmacy - Mohandessin,,Giza,Mohandessin,30.06062,31.20414,10,1,29,2025-06-14,0,5272
+2635,Ebn Sina Pharmacy,,Giza,Mohandessin,30.045747,31.208153,9,2,29,2024-12-13,0,1134
+2636,El Hokama Pharmacy,,Giza,Mohandessin,30.055744,31.195443,10,23,29,2024-10-28,0,9648
+2637,Better Life Pharmacy,,Giza,Mohandessin,30.053197,31.203561,8,2,29,2025-05-19,0,7372
+2638,Al Amal Pharmacy,,Giza,Mohandessin,30.05829,31.189786,9,23,29,2024-10-10,0,8251
+2639,Pharma Plus - Mohandessin,,Giza,Mohandessin,30.047808,31.198925,9,23,29,2024-11-16,0,2074
+2640,El Zahraa Pharmacy - Helwan,,Giza,Mohandessin,30.067157,31.195566,10,23,29,2025-04-15,0,2713
+2641,City Care Pharmacy,,Giza,Mohandessin,30.071097,31.201962,8,1,29,2025-01-05,1,5742
+2642,Ebn Sina Pharmacy - Dokki,,Giza,Mohandessin,30.067865,31.1997,9,23,29,2024-11-15,0,4808
+2643,Sunrise Pharmacy,,Giza,Mohandessin,30.054683,31.212637,8,1,29,2025-07-20,0,9962
+2644,Seha First Pharmacy,,Giza,Mohandessin,30.05908,31.1904,9,1,29,2024-10-09,0,4124
+2645,Better Life Pharmacy - Mohandessin,,Giza,Mohandessin,30.072604,31.199839,9,23,29,2025-04-22,0,2041
+2646,Hope Pharmacy - Maadi,,Giza,Mohandessin,30.044371,31.215606,8,1,29,2025-06-07,0,5144
+2647,Pharma Plus - Mohandessin,,Giza,Mohandessin,30.064594,31.207082,9,23,29,2025-03-19,0,9180
+2648,Nile Care Pharmacy - Mohandessin,,Giza,Mohandessin,30.051628,31.208711,9,23,29,2025-02-18,1,5558
+2649,Misr Pharmacy,,Giza,Mohandessin,30.062558,31.214739,9,23,29,2024-10-31,0,7600
+2650,Union Pharm - Banha,,Giza,Mohandessin,30.060497,31.181689,9,23,29,2025-02-08,0,4578
+2651,Star Care Pharmacy - Mohandessin,,Giza,Mohandessin,30.073107,31.185974,9,2,29,2025-05-11,0,1416
+2652,Hope Pharmacy - Mohandessin,,Giza,Mohandessin,30.039751,31.211218,10,23,29,2025-02-08,0,4798
+2653,Dr Medhat Pharmacy - Oct City,,Giza,Mohandessin,30.05666,31.190824,9,1,29,2024-10-03,0,5996
+2654,Salamtek Pharmacy - Maadi,,Giza,Mohandessin,30.053579,31.192744,9,23,29,2024-10-12,0,3684
+2655,El Nasr Pharmacy - Mohandessin,,Giza,Mohandessin,30.05655,31.206808,9,23,29,2025-03-07,0,5224
+2656,Misr Pharmacy,,Giza,Mohandessin,30.064957,31.194889,9,23,29,2024-09-05,0,3985
+2657,Nile Care Pharmacy - Faisal,,Giza,Mohandessin,30.04231,31.205155,9,1,29,2025-03-11,0,4734
+2658,El Shifa Pharmacy,,Giza,Mohandessin,30.046653,31.207662,10,23,29,2025-04-23,0,9721
+2659,Health Gate Pharmacy - Marg,,Giza,Mohandessin,30.07409,31.186086,9,23,29,2025-07-17,0,5236
+2660,Health Gate Pharmacy - Dokki,,Giza,Mohandessin,30.069521,31.192512,9,1,29,2025-08-30,0,8275
+2661,Ebn Sina Pharmacy - Mohandessin,,Giza,Mohandessin,30.064853,31.195935,9,1,29,2025-09-13,0,8933
+2662,Angel Pharmacy - Mohandessin,,Giza,Mohandessin,30.038609,31.202914,8,1,29,2024-09-08,0,4165
+2663,Union Pharm - Mohandessin,,Giza,Mohandessin,30.052071,31.188103,9,23,29,2025-05-06,0,6012
+2664,Pharma Plus - Mohandessin,,Giza,Mohandessin,30.040971,31.182311,9,1,29,2024-09-18,0,9202
+2665,Green Leaf Pharmacy,,Giza,Mohandessin,30.045688,31.196701,9,23,29,2025-05-12,0,6404
+2666,Sunrise Pharmacy - Mohandessin,,Giza,Mohandessin,30.061563,31.208503,9,2,29,2025-06-12,0,4654
+2667,Life Line Pharmacy - Obour,,Giza,Mohandessin,30.056515,31.183538,10,23,29,2025-06-21,0,8170
+2668,Family Pharmacy,,Giza,Mohandessin,30.039162,31.212761,9,23,29,2024-09-13,0,8760
+2669,Golden Care Pharmacy - Maadi,,Giza,Mohandessin,30.039999,31.189804,9,23,29,2025-03-30,1,7105
+2670,Health Gate Pharmacy,,Giza,Sheikh Zayed,30.013709,30.976311,8,23,30,2025-09-13,0,5454
+2671,Dr Medhat Pharmacy,,Giza,Sheikh Zayed,30.006394,30.97697,8,2,30,2024-09-17,0,7846
+2672,Life Line Pharmacy - Obour,,Giza,Sheikh Zayed,30.007647,30.966722,9,23,30,2024-10-31,0,3663
+2673,El Hokama Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.03274,30.982668,9,23,30,2024-09-04,0,5460
+2674,Angel Pharmacy,,Giza,Sheikh Zayed,30.02581,30.983899,8,23,30,2024-11-12,0,2385
+2675,Union Pharm,,Giza,Sheikh Zayed,30.032046,30.968843,9,23,30,2025-02-17,0,3844
+2676,Pharma Plus,,Giza,Sheikh Zayed,30.03916,30.971114,8,23,30,2025-07-11,1,1534
+2677,El Zahraa Pharmacy - Square,,Giza,Sheikh Zayed,30.025276,30.984181,8,23,30,2025-04-27,0,2885
+2678,Sunrise Pharmacy - Marg,,Giza,Sheikh Zayed,30.037586,30.958986,8,23,30,2024-09-06,1,6187
+2679,Al Amal Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.022089,30.957212,8,23,30,2025-03-17,0,1456
+2680,Elite Pharmacy - Oct City,,Giza,Sheikh Zayed,30.022456,30.960963,8,23,30,2024-12-30,0,5499
+2681,El Zahraa Pharmacy,,Giza,Sheikh Zayed,30.028155,30.964026,9,23,30,2025-08-17,0,7923
+2682,Green Leaf Pharmacy - Imbaba,,Giza,Sheikh Zayed,30.028671,30.980728,9,23,30,2024-11-16,0,4437
+2683,Mira Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.034618,30.963601,9,23,30,2024-09-10,0,2030
+2684,Al Amal Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.038543,30.964404,9,2,30,2025-08-05,0,5434
+2685,Star Care Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.021226,30.970591,10,23,30,2025-05-05,2,9917
+2686,El Faraby Pharmacy - Rehab View,,Giza,Sheikh Zayed,30.005135,30.979755,9,23,30,2025-05-06,0,8652
+2687,Omega Pharmacy - Maadi,,Giza,Sheikh Zayed,30.011338,30.971242,9,23,30,2025-04-06,0,1600
+2688,Salamtek Pharmacy,,Giza,Sheikh Zayed,30.026723,30.955925,9,1,30,2025-08-12,0,5152
+2689,Green Leaf Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.013082,30.971001,9,2,30,2024-10-28,0,6119
+2690,El Zahraa Pharmacy - Nozha,,Giza,Sheikh Zayed,30.022392,30.983716,9,23,30,2025-04-28,0,2953
+2691,Care 24 Seven - Sheikh,,Giza,Sheikh Zayed,30.030805,30.985623,9,23,30,2025-05-18,0,5218
+2692,Family Pharmacy,,Giza,Sheikh Zayed,30.038719,30.977308,9,2,30,2024-12-20,0,3706
+2693,El Zahraa Pharmacy,,Giza,Sheikh Zayed,30.009593,30.957275,9,23,30,2024-09-07,0,4069
+2694,Alpha Pharma,,Giza,Sheikh Zayed,30.027592,30.983103,9,23,30,2025-03-28,0,9875
+2695,City Care Pharmacy,,Giza,Sheikh Zayed,30.037314,30.976283,10,23,30,2025-04-16,0,6452
+2696,Green Leaf Pharmacy - Faisal,,Giza,Sheikh Zayed,30.030759,30.972405,8,23,30,2025-02-03,1,3067
+2697,Pharma Plus - Sheikh,,Giza,Sheikh Zayed,30.039105,30.96636,10,1,30,2024-11-12,0,4843
+2698,El Shifa Pharmacy - Banha,,Giza,Sheikh Zayed,30.020967,30.96925,9,1,30,2025-03-01,0,3550
+2699,Pharma Plus - Sheikh,,Giza,Sheikh Zayed,30.012964,30.981868,9,23,30,2025-06-10,1,6244
+2700,Alpha Pharma - Agami,,Giza,Sheikh Zayed,30.031491,30.979609,8,23,30,2024-11-24,0,5277
+2701,El Zahraa Pharmacy,,Giza,Sheikh Zayed,30.026646,30.958,10,23,30,2025-07-31,1,9729
+2702,El Shifa Pharmacy - Zayed,,Giza,Sheikh Zayed,30.019494,30.98293,9,2,30,2025-05-03,0,1810
+2703,El Faraby Pharmacy,,Giza,Sheikh Zayed,30.023774,30.962467,9,23,30,2025-06-19,0,7715
+2704,Seha First Pharmacy,,Giza,Sheikh Zayed,30.009225,30.95599,9,23,30,2025-06-30,0,2951
+2705,El Shifa Pharmacy,,Giza,Sheikh Zayed,30.033217,30.983664,8,23,30,2024-09-19,0,9934
+2706,Misr Pharmacy,,Giza,Sheikh Zayed,30.010606,30.985924,9,23,30,2024-11-02,2,7045
+2707,El Baraka Pharmacy,,Giza,Sheikh Zayed,30.015926,30.955853,9,23,30,2024-10-31,0,9607
+2708,Blue Wave Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.017688,30.978454,8,23,30,2024-11-09,0,9091
+2709,Star Care Pharmacy - Dokki,,Giza,Sheikh Zayed,30.037341,30.973553,9,2,30,2024-10-02,0,9322
+2710,Better Life Pharmacy,,Giza,Sheikh Zayed,30.018152,30.979306,8,23,30,2025-07-31,0,4068
+2711,Mira Pharmacy - Shubra,,Giza,Sheikh Zayed,30.019553,30.963093,9,23,30,2024-11-18,1,8761
+2712,Sunrise Pharmacy - Agami,,Giza,Sheikh Zayed,30.006307,30.973216,9,23,30,2025-06-27,0,3084
+2713,Ebn Sina Pharmacy - Banha,,Giza,Sheikh Zayed,30.033126,30.968115,10,23,30,2025-02-07,0,8303
+2714,Nile Care Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.019465,30.963677,8,23,30,2024-12-19,0,4677
+2715,Metro Pharmacy,,Giza,Sheikh Zayed,30.01441,30.973434,9,23,30,2025-06-23,0,2631
+2716,Better Life Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.038754,30.97116,9,2,30,2024-11-08,0,6468
+2717,Health Gate Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.033815,30.966232,8,1,30,2025-01-09,1,7406
+2718,El Baraka Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.034683,30.959905,9,23,30,2025-07-09,1,9748
+2719,Star Care Pharmacy - Sheikh,,Giza,Sheikh Zayed,30.004392,30.983972,8,23,30,2025-08-18,0,8867
+2720,Seha First Pharmacy - Zayed,,Giza,Sheikh Zayed,30.023088,30.98485,9,23,30,2025-01-23,0,3386
+2721,El Zahraa Pharmacy - Helwan,,Giza,Sheikh Zayed,30.013694,30.973619,8,23,30,2025-08-27,0,3700
+2722,El Hokama Pharmacy - Helwan,,Giza,Sheikh Zayed,30.021694,30.985883,9,23,30,2025-01-30,2,2492
+2723,Nile Care Pharmacy - Helwan,,Giza,Sheikh Zayed,30.014834,30.955762,8,23,30,2025-02-06,0,2485
+2724,El Baraka Pharmacy - Rehab View,,Giza,Sheikh Zayed,30.007183,30.956585,9,2,30,2024-12-28,0,9371
+2725,Al Nozha Pharmacy - Smouha,,Qalyubia,Banha,30.453643,31.169979,10,1,31,2024-09-25,0,5924
+2726,Elite Pharmacy - Banha,,Qalyubia,Banha,30.474314,31.165128,9,2,31,2025-03-18,0,2542
+2727,Family Pharmacy - Banha,,Qalyubia,Banha,30.474766,31.181745,9,23,31,2025-01-29,0,7220
+2728,Al Nozha Pharmacy - Banha,,Qalyubia,Banha,30.464418,31.175847,9,23,31,2024-10-19,0,4185
+2729,Health Gate Pharmacy - Maadi,,Qalyubia,Banha,30.466411,31.192422,10,23,31,2024-09-22,1,2715
+2730,El Faraby Pharmacy,,Qalyubia,Banha,30.472642,31.185532,8,1,31,2025-08-17,0,6673
+2731,Green Leaf Pharmacy - Banha,,Qalyubia,Banha,30.464434,31.194861,8,23,31,2025-09-04,0,7734
+2732,Star Care Pharmacy - Square,,Qalyubia,Banha,30.448618,31.186363,9,2,31,2025-01-12,0,1470
+2733,El Nasr Pharmacy - Banha,,Qalyubia,Banha,30.475562,31.183608,10,23,31,2025-05-01,0,7759
+2734,Life Line Pharmacy - Banha,,Qalyubia,Banha,30.454292,31.18791,9,23,31,2025-02-03,1,9273
+2735,Metro Pharmacy - Banha,,Qalyubia,Banha,30.476945,31.169379,10,23,31,2025-05-29,0,1203
+2736,Better Life Pharmacy,,Qalyubia,Banha,30.443675,31.182826,8,23,31,2024-09-16,1,9186
+2737,Mira Pharmacy - Haram,,Qalyubia,Banha,30.454452,31.17423,9,23,31,2025-05-06,1,1761
+2738,Elite Pharmacy,,Qalyubia,Banha,30.47003,31.192542,8,1,31,2024-09-09,0,9247
+2739,Silver Care Pharmacy,,Qalyubia,Banha,30.446494,31.167129,9,23,31,2025-05-16,0,1950
+2740,Blue Wave Pharmacy - Banha,,Qalyubia,Banha,30.471765,31.192543,10,23,31,2024-09-16,0,6039
+2741,Al Amal Pharmacy - Marg,,Qalyubia,Banha,30.448802,31.174796,9,23,31,2024-12-16,0,3796
+2742,Nile Care Pharmacy,,Qalyubia,Banha,30.46965,31.184635,9,1,31,2024-12-25,2,7980
+2743,Omega Pharmacy,,Qalyubia,Banha,30.459017,31.160991,8,23,31,2025-07-11,0,1609
+2744,Misr Pharmacy - Banha,,Qalyubia,Banha,30.471196,31.171097,10,23,31,2025-02-13,1,7365
+2745,Family Pharmacy - Obour,,Qalyubia,Banha,30.461757,31.180092,9,23,31,2024-11-07,0,3153
+2746,Green Leaf Pharmacy,,Qalyubia,Banha,30.465248,31.171525,9,2,31,2024-10-06,2,1327
+2747,Angel Pharmacy,,Qalyubia,Banha,30.449309,31.169703,9,23,31,2024-11-09,0,1104
+2748,Silver Care Pharmacy - Banha,,Qalyubia,Banha,30.449987,31.175283,8,23,31,2025-08-31,0,6926
+2749,Al Amal Pharmacy,,Qalyubia,Banha,30.477026,31.176494,9,23,31,2025-04-01,0,7018
+2750,El Faraby Pharmacy - Banha,,Qalyubia,Banha,30.477296,31.184005,9,23,31,2025-09-04,0,9075
+2751,Misr Pharmacy - Banha,,Qalyubia,Banha,30.443751,31.189449,8,1,31,2024-10-19,0,7951
+2752,El Nasr Pharmacy,,Qalyubia,Banha,30.471779,31.186003,9,23,31,2024-10-12,0,7823
+2753,Life Line Pharmacy,,Qalyubia,Banha,30.462931,31.176895,9,23,31,2025-06-07,0,5273
+2754,Nile Care Pharmacy - Haram,,Qalyubia,Banha,30.457405,31.176434,10,23,31,2024-10-25,0,7622
+2755,Misr Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.113348,31.260619,8,23,32,2025-05-05,0,3021
+2756,El Hokama Pharmacy - Oct City,,Qalyubia,Shubra El Kheima,30.126064,31.241557,9,1,32,2025-01-02,0,5066
+2757,City Care Pharmacy,,Qalyubia,Shubra El Kheima,30.116715,31.232235,9,23,32,2025-04-23,0,4344
+2758,Elite Pharmacy,,Qalyubia,Shubra El Kheima,30.106039,31.253343,10,2,32,2025-01-26,0,3342
+2759,City Care Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.110788,31.257966,9,23,32,2024-10-03,0,7949
+2760,Green Leaf Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.10617,31.252596,10,1,32,2024-09-03,0,7456
+2761,Seha First Pharmacy,,Qalyubia,Shubra El Kheima,30.134463,31.256652,9,23,32,2025-04-25,0,7242
+2762,Blue Wave Pharmacy,,Qalyubia,Shubra El Kheima,30.110374,31.260415,9,23,32,2024-09-22,0,2679
+2763,Alpha Pharma - Smouha,,Qalyubia,Shubra El Kheima,30.122453,31.23276,10,2,32,2025-05-20,0,3878
+2764,El Nasr Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.111631,31.246963,10,23,32,2025-05-27,0,7940
+2765,Care 24 Seven - Shubra,,Qalyubia,Shubra El Kheima,30.109194,31.24429,9,23,32,2024-11-16,0,1463
+2766,Sunrise Pharmacy,,Qalyubia,Shubra El Kheima,30.137322,31.233831,9,23,32,2024-12-21,0,8236
+2767,Al Amal Pharmacy - Square,,Qalyubia,Shubra El Kheima,30.137204,31.248571,9,23,32,2025-02-18,0,4018
+2768,Omega Pharmacy - Banha,,Qalyubia,Shubra El Kheima,30.109889,31.250976,9,2,32,2025-08-09,0,4707
+2769,El Zahraa Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.1072,31.228409,8,2,32,2024-09-22,0,1670
+2770,Life Line Pharmacy - Oct City,,Qalyubia,Shubra El Kheima,30.111106,31.231531,9,23,32,2025-08-18,0,8593
+2771,Pharma Plus - Shubra,,Qalyubia,Shubra El Kheima,30.131292,31.254618,9,1,32,2025-05-08,0,8890
+2772,Salamtek Pharmacy - Agami,,Qalyubia,Shubra El Kheima,30.13487,31.250065,9,1,32,2024-11-06,0,7135
+2773,Union Pharm - Helwan,,Qalyubia,Shubra El Kheima,30.109143,31.233705,10,23,32,2024-12-27,0,8160
+2774,Green Leaf Pharmacy,,Qalyubia,Shubra El Kheima,30.127478,31.252076,9,2,32,2024-09-13,2,5861
+2775,Pharma Plus - Shubra,,Qalyubia,Shubra El Kheima,30.123087,31.238133,9,23,32,2025-08-19,0,9452
+2776,Dr Medhat Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.138898,31.236077,8,1,32,2025-01-02,0,9316
+2777,El Shifa Pharmacy,,Qalyubia,Shubra El Kheima,30.12358,31.2549,9,23,32,2024-09-30,0,3041
+2778,El Zahraa Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.106292,31.254775,10,23,32,2025-09-02,0,4873
+2779,Care 24 Seven,,Qalyubia,Shubra El Kheima,30.11025,31.235667,9,23,32,2024-12-05,0,4243
+2780,Dr Medhat Pharmacy - Faisal,,Qalyubia,Shubra El Kheima,30.12951,31.255096,9,23,32,2024-10-19,0,7750
+2781,El Faraby Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.129829,31.23661,9,1,32,2024-12-01,0,9304
+2782,El Shifa Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.123859,31.260034,8,1,32,2024-11-05,0,5459
+2783,El Shifa Pharmacy,,Qalyubia,Shubra El Kheima,30.139887,31.235262,9,23,32,2024-09-29,0,1354
+2784,Ebn Sina Pharmacy - Dokki,,Qalyubia,Shubra El Kheima,30.119308,31.255358,9,1,32,2024-10-29,0,5291
+2785,Golden Care Pharmacy - Dokki,,Qalyubia,Shubra El Kheima,30.130061,31.250063,9,23,32,2025-06-02,0,9484
+2786,Union Pharm,,Qalyubia,Shubra El Kheima,30.114028,31.237193,9,23,32,2025-05-15,2,9951
+2787,Seha First Pharmacy,,Qalyubia,Shubra El Kheima,30.139812,31.242689,9,2,32,2025-04-27,0,4246
+2788,El Shifa Pharmacy,,Qalyubia,Shubra El Kheima,30.130833,31.228586,9,1,32,2025-06-19,0,9064
+2789,Life Line Pharmacy,,Qalyubia,Shubra El Kheima,30.132706,31.254491,9,23,32,2024-09-19,0,6774
+2790,Al Nozha Pharmacy - Shubra,,Qalyubia,Shubra El Kheima,30.114225,31.230461,9,2,32,2024-09-08,1,1502
+2791,El Zahraa PH. - Shubra 2nd,,Qalyubia,Shubra El Kheima,30.1072,31.228409,8,2,32,2024-12-06,0,1670
+2792,Union Pharm - Mohandessin,,Giza,Mohandessin,30.054508,31.194024,8,1,29,2025-10-16,0,8292
+2793,El Hokama PH. - Obour 2nd,,Cairo,Ain Shams,30.134133,31.317629,10,23,8,2025-05-12,0,7737
+2794,Angel PH. - El,,Cairo,El Marg,30.176195,31.356406,8,1,10,2025-02-27,0,1978
+2795,Star Care PH. - Nasr 2nd,,Cairo,Nasr City,30.059172,31.363877,8,2,15,2025-07-29,0,7048
+2796,Ebn Sina PH.,,Giza,Mohandessin,30.045747,31.208153,9,2,29,2025-02-24,0,1134
+2797,Pharma Plus - Zayed,,Cairo,Zamalek,30.074209,31.232772,9,23,19,2025-03-23,0,8147
+2798,Al Amal PH. - Mohandessin 2nd,,Giza,Mohandessin,30.061056,31.184927,9,2,29,2024-12-28,0,5327
+2799,Life Line PH. - Smouha,,Alexandria,Smouha,31.205352,29.941094,9,1,7,2025-11-30,0,9536
+2800,Misr PH.,,Cairo,Helwan,29.843463,31.320948,9,1,12,2025-11-22,0,4996
+2801,Misr PH.,,Cairo,Heliopolis,30.100074,31.353976,9,23,11,2025-05-06,0,9939
+2802,Misr PH. - Haram,,Cairo,Heliopolis,30.080758,31.338874,9,23,11,2025-03-03,0,8234
+2803,Sunrise PH. - Nasr 2nd,,Cairo,Nasr City,30.038468,31.351883,8,23,15,2026-03-19,0,7383
+2804,Golden Care PH. - Downtown,,Cairo,Downtown,30.040309,31.238199,9,23,9,2026-01-13,0,9599
+2805,Nile Care PH.,,Giza,Faisal,30.019722,31.194985,8,2,25,2025-03-23,0,2976
+2806,Star Care PH. - Imbaba 2nd,,Giza,Imbaba,30.09825,31.184128,9,2,28,2025-09-15,0,3453
+2807,Sunrise PH. - Oct City 2nd,,Cairo,Maadi,29.976496,31.24681,9,23,13,2024-12-18,0,2902
+2808,Green Leaf PH. - Haram 2nd,,Giza,Haram,30.001533,31.149662,8,23,27,2025-08-25,0,7962
+2809,El Nasr PH. 2nd,,Alexandria,Smouha,31.217687,29.935843,8,2,7,2024-11-01,0,4304
+2810,Care 24 Seven 2nd,,Giza,Haram,29.981002,31.141236,9,2,27,2025-06-28,0,5491
+2811,Silver Care PH. - Smouha,,Giza,Hadayek October,30.007234,31.017456,8,23,26,2025-09-05,0,7199
+2812,El Nasr PH. 2nd,,Giza,Agouza,30.055268,31.208118,8,1,21,2025-08-27,0,7592
+2813,Union Pharm - El,,Cairo,El Marg,30.156081,31.357304,10,23,10,2026-02-23,0,6767
+2814,El Zahraa PH.,,Giza,Sheikh Zayed,30.028155,30.964026,9,23,30,2026-03-09,0,7923
+2815,Misr PH. - Banha 2nd,,Qalyubia,Banha,30.443751,31.189449,8,1,31,2025-04-12,0,7951
+2816,Elite PH. - Banha,,Giza,Faisal,30.010279,31.180576,10,23,25,2025-01-24,0,7510
