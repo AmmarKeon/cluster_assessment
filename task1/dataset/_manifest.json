@@ -1,44 +1,44 @@
 {
   "files": {
     "areas_reference.csv": {
-      "rows": 32,
-      "sha256": "3f36d1001b9643f66faf81f4d38406286677f37881c454a892a773a32be4dfb7"
+      "rows": 4,
+      "sha256": "f1a48c41dc9910e6322c9c31da8b19506d97619bbd48e7780305f157062c0b56"
     },
     "invoice_details_app.csv": {
-      "rows": 58229,
-      "sha256": "b9eb6aaf554af98d3f448596d53c84c9eaa5073e436423722c5f64e558b51449"
+      "rows": 58491,
+      "sha256": "da6897a24e51b5445063ae65ac0e500d2c800d5d45eba2087323447a7af0ddd3"
     },
     "invoice_details_erp.csv": {
-      "rows": 114418,
-      "sha256": "56a14983da9ea84da09ae01d3ad3276e10fb4d55fd441e7939122818c06ca57a"
+      "rows": 117703,
+      "sha256": "e273c76b25911a2d1c600a7d38a3d22b5389f4f9ba20f3403e7d71ec44bb6ce7"
     },
     "invoice_details_legacy.csv": {
-      "rows": 27457,
-      "sha256": "81d7bb981b0e46c31f061976597c6240c56a3ff2a3153fdab04eddf81843375c"
+      "rows": 28268,
+      "sha256": "860c04c474972fafaef25a95fbe63eb0c8fd5a4522408f30c48ebb3bbca09432"
     },
     "invoices_app.csv": {
-      "rows": 8234,
-      "sha256": "ae9e8dfb741f9674f7d4b46882767ef4e75e57001fc924dd5ad7e638984a86c2"
+      "rows": 8412,
+      "sha256": "b881befeaf4e869beaf1d78f48d5dc365272f061f798be963a8e87f21441c2af"
     },
     "invoices_erp.csv": {
-      "rows": 16223,
-      "sha256": "5e2dd51a16c97c03d35c1f63aaa32f4a64284c3688de7764b191cdfbfe59e763"
+      "rows": 16721,
+      "sha256": "0cbafb58d380b60d5c85e998926b9c8afcde1f1632b33603b0041d074fdb0388"
     },
     "invoices_legacy.csv": {
-      "rows": 3963,
-      "sha256": "6a0d70fde662f192ee56a6faf15cd90f525b05b1055e507421858bdb23aebd54"
+      "rows": 4097,
+      "sha256": "3c089c7f0958252a4bb757366bd06275c4c2d3af78ded2bed3fbeb7ce90a2858"
     },
     "pharmacy_registry.csv": {
-      "rows": 1817,
-      "sha256": "627ca85a0f64652997b8501a79db17bef1c07f5382f8aa0d5360ffd29e37cd47"
+      "rows": 1826,
+      "sha256": "6e625ccfb720d336b267f4bf630ab2f2f5de1de39a1978a54c1ef9149d9153dd"
     },
     "supplier_account_names.csv": {
-      "rows": 14886,
-      "sha256": "91ae6e2632fd08edc0a977cd4db487b5ae6d9880b85e2558d8e1db8b96dbec45"
+      "rows": 14930,
+      "sha256": "cbc787b96794f1999e7447ed3698fc6080a2e83a1e2edbf3a10dfd64bdb29083"
     },
     "supplier_branches.csv": {
-      "rows": 71,
-      "sha256": "f3ebf9dbe9bab10fc776373ae777d18af5b0aec79359b0913f91753ce6f7d8d2"
+      "rows": 78,
+      "sha256": "b55429fc9bee7fc09397efd81dcbce980fb32360ba71817e32f1a0c2efd5a8fd"
     }
   },
   "window": {

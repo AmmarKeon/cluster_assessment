@@ -22,10 +22,12 @@ results plus a small local website to browse and filter them.
 **Everything is specified in `task1/TASK1.pdf`.**
 
 ## Task 2 
-A field rep must visit 16 pharmacies tomorrow, in one area. From the historical visit
-log and the invoices, figure out how long stops take, when each pharmacy is best
-visited, and how long drives really feel -- then produce the itinerary, prove it fits
-the day, and ship a small page that draws the route. **Specified in `task2/TASK2.pdf`.**
+We have four field employees, each permanently assigned to one area. Plan tomorrow
+for all of them: from the historical visit log and the invoices, figure out how long
+stops take, when each pharmacy is best visited, and how long drives really feel --
+then produce an itinerary per employee, prove each day fits, and ship a small page
+that draws each area's route (select the area, see the path). **Specified in
+`task2/TASK2.pdf`.**
 
 ## Ground rules (short version; the PDFs are the contract)
 - Offline code only -- no network calls, no model APIs inside your submission.

@@ -1,33 +1,5 @@
 ﻿area_id,governorate,area,centroid_lat,centroid_lon
-101,Alexandria,Agami,31.115,29.791
-102,Alexandria,Asafra,31.233,29.981
-103,Alexandria,Borg El Arab,30.9167,29.6166
-104,Alexandria,Mandara,31.272,30.01
-105,Alexandria,Montaza,31.259,29.993
-106,Alexandria,Sidi Gaber,31.228,29.95
-107,Alexandria,Smouha,31.21,29.9446
-108,Cairo,Ain Shams,30.1315,31.322
-109,Cairo,Downtown,30.0444,31.2357
-110,Cairo,El Marg,30.1583,31.35
-111,Cairo,Heliopolis,30.0908,31.3434
-112,Cairo,Helwan,29.8419,31.3342
-113,Cairo,Maadi,29.9602,31.2569
-114,Cairo,Mokattam,30.0333,31.2833
-115,Cairo,Nasr City,30.0511,31.3656
-116,Cairo,New Cairo,30.0185,31.4852
-117,Cairo,Obour,30.2405,31.4646
-118,Cairo,Shubra,30.0994,31.2469
-119,Cairo,Zamalek,30.0609,31.2197
-120,Giza,6th of October,29.9737,30.9373
-121,Giza,Agouza,30.0621,31.2175
-122,Giza,Ard El Lewa,29.9857,31.2099
-123,Giza,Boulak Dakrour,30.0755,31.194
-124,Giza,Dokki,30.0381,31.2125
-125,Giza,Faisal,30.0083,31.18
-126,Giza,Hadayek October,30.0251,31.0121
-127,Giza,Haram,29.9873,31.1464
-128,Giza,Imbaba,30.106,31.2
-129,Giza,Mohandessin,30.0566,31.199
-130,Giza,Sheikh Zayed,30.0219,30.9725
-131,Qalyubia,Banha,30.4595,31.1787
-132,Qalyubia,Shubra El Kheima,30.1231,31.2433
+101,Alexandria,Smouha,31.21,29.9446
+102,Cairo,Nasr City,30.0511,31.3656
+103,Giza,Faisal,30.0083,31.18
+104,Giza,Mohandessin,30.0566,31.199
